@@ -1,0 +1,47 @@
+[tiny]
+	#Defines the source tank size
+	# Default: 100
+	# Range: > 1
+	size = 11250
+
+[small]
+	#Defines the source tank size
+	# Default: 400
+	# Range: > 1
+	size = 45000
+
+[normal]
+	#Defines the source tank size
+	# Default: 1000
+	# Range: > 1
+	size = 112500
+
+[reinforced]
+	#Defines the source tank size
+	# Default: 2000
+	# Range: > 1
+	size = 225000
+
+[big]
+	#Defines the source tank size
+	# Default: 4500
+	# Range: > 1
+	size = 506250
+
+[huge]
+	#Defines the source tank size
+	# Default: 8000
+	# Range: > 1
+	size = 900000
+
+[ludicrous]
+	#Defines the source tank size
+	# Default: 16000
+	# Range: > 1
+	size = 1800000
+
+[vacuum]
+	#Defines the source tank size
+	# Default: 32000
+	# Range: > 1
+	size = 3600000

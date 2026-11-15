@@ -1,0 +1,230 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis"
+	group: "6F4F671F848333DE"
+	icon: {
+		id: "minecraft:enchanting_table"
+	}
+	id: "6B9AC97AB679C324"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "0EF465D618223790"
+			rewards: [{
+				id: "0135DB3F237001DC"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "501DF412FB605AED"
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0EF465D618223790"]
+			id: "0C22372D6F4A82DA"
+			rewards: [{
+				id: "239523B173BF678D"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				count: 4L
+				id: "30AD1533ACA3BDCC"
+				item: { count: 1, id: "apothic_enchanting:hellshelf" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "770627E8836189DB"
+			rewards: [{
+				id: "75C95518CFE7A001"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "05BA82EB750AD69A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["0EF465D618223790"]
+			id: "4C88DC5FF63C919F"
+			rewards: [{
+				id: "43A5A8CEDD29ABD3"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "72EB76D3C7ECF916"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["0C22372D6F4A82DA"]
+			id: "6D1E897278C1DF77"
+			rewards: [{
+				id: "042213BEDAA214D0"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "604D4740A3E9F6E9"
+				item: { count: 1, id: "apothic_enchanting:library" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0C22372D6F4A82DA"]
+			id: "5AF1FE41FA0653F6"
+			rewards: [{
+				id: "277B3E0B97BEEF4E"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "4BA7BF6DF79F8116"
+					item: { count: 1, id: "apothic_enchanting:seashelf" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "70B739CD45BABE93"
+					item: { count: 1, id: "apothic_enchanting:endshelf" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["0EF465D618223790"]
+			id: "77AD644B6D06E28A"
+			rewards: [{
+				id: "71979076E086FF50"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					id: "451C70ED6DC5812A"
+					item: { count: 1, id: "apothic_enchanting:scrap_tome" }
+					type: "item"
+				}
+				{
+					id: "6B2B17B4F870F037"
+					item: { count: 1, id: "apothic_enchanting:extraction_tome" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["770627E8836189DB"]
+			id: "51A4C4317820B3B5"
+			rewards: [{
+				id: "58362FF5561C4817"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "3CC1C964A7E9DE9C"
+					item: { count: 1, id: "apotheosis:simple_reforging_table" }
+					type: "item"
+				}
+				{
+					id: "6C014605B4F14C26"
+					item: { count: 1, id: "apotheosis:reforging_table" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["770627E8836189DB"]
+			id: "449B6BFA4E39F3C8"
+			rewards: [{
+				id: "06CE747B157AE0A1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4920EBDBE6860B68"
+				item: { count: 1, id: "apotheosis:salvaging_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["770627E8836189DB"]
+			id: "59FE699D565F6573"
+			rewards: [{
+				id: "35BFC287499DEA98"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "022F7CFFA081AEBF"
+				item: { count: 1, id: "apotheosis:gem_cutting_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["770627E8836189DB"]
+			id: "51C10C495813D66A"
+			rewards: [{
+				id: "639DEC3C6E9FC78F"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "56A5D6039168F221"
+				item: { count: 1, id: "apotheosis:sigil_of_socketing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.75d
+		}
+		{
+			dependencies: ["770627E8836189DB"]
+			id: "2207B81C8DCCFE0C"
+			rewards: [{
+				id: "5373486B48F59952"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6CAFE2A2870D1A09"
+				item: { count: 1, id: "apotheosis:boss_summoner" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.25d
+		}
+	]
+}

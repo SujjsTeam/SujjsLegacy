@@ -1,0 +1,16 @@
+name: Suggestion
+description: Ideas for recipes, quests, mods or balance
+title: "[Suggestion] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it make the pack better?

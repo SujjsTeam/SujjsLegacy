@@ -1,0 +1,207 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fazendas_mobs"
+	group: "1C3F63935DBC9AF9"
+	icon: {
+		id: "mob_grinding_utils:saw"
+	}
+	id: "4649498185848EFD"
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "01B042B15FD80A43"
+			rewards: [{
+				id: "248B61A69C981A0D"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "4382CEFEC835E948"
+				item: { count: 1, id: "mob_grinding_utils:fan" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["01B042B15FD80A43"]
+			id: "566F9B747F3AB2B8"
+			rewards: [{
+				id: "0651C806DB1DDAC5"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "49D9C3C5F2C6AED1"
+				item: { count: 1, id: "mob_grinding_utils:saw" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["566F9B747F3AB2B8"]
+			id: "46083782C112D669"
+			rewards: [{
+				id: "3187F5D1CC8AB6DE"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "1DAF77909F9162EF"
+				item: { count: 1, id: "mob_grinding_utils:absorption_hopper" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["46083782C112D669"]
+			id: "7CAC4DF97FF8B270"
+			rewards: [{
+				id: "4EC313214EB74843"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					id: "1A9C7D1E39551F72"
+					item: { count: 1, id: "mob_grinding_utils:tank" }
+					type: "item"
+				}
+				{
+					id: "7D611BD7419A4CF5"
+					item: { count: 1, id: "mob_grinding_utils:xp_tap" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["01B042B15FD80A43"]
+			id: "2B3229347A337D45"
+			rewards: [{
+				id: "351C5AD041DEEB32"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 4L
+				id: "25E5DCBD54DE159F"
+				item: { count: 1, id: "mob_grinding_utils:spikes" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["01B042B15FD80A43"]
+			id: "6C112ABA40DC9FDB"
+			rewards: [{
+				id: "042B9E8F65810788"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				count: 8L
+				id: "14A6B7A4C64E05F8"
+				item: { count: 1, id: "mob_grinding_utils:dreadful_dirt" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["566F9B747F3AB2B8"]
+			id: "20CE31DE33AFD289"
+			rewards: [{
+				id: "5C14EDC04495CA03"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "0FF27BBDA2496090"
+					item: { count: 1, id: "mob_grinding_utils:mob_swab" }
+					type: "item"
+				}
+				{
+					id: "54C594064F6E7117"
+					item: { count: 1, id: "mob_grinding_utils:entity_spawner" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "00323A853D58B347"
+			rewards: [{
+				id: "366D295373789071"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "7F1BCBC27E49C2DD"
+					item: { count: 1, id: "hostilenetworks:deep_learner" }
+					type: "item"
+				}
+				{
+					id: "7A16FA5296F01B2D"
+					item: { count: 1, id: "hostilenetworks:blank_data_model" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["00323A853D58B347"]
+			id: "6AB4AE213B7F84C4"
+			rewards: [{
+				id: "54B5679112E97AF4"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "69C38AEF0043FBC5"
+					item: { count: 1, id: "hostilenetworks:sim_chamber" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "320CB405DE2A0DD7"
+					item: { count: 1, id: "hostilenetworks:prediction_matrix" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6AB4AE213B7F84C4"]
+			id: "67E977285BCB8A7B"
+			rewards: [{
+				id: "3D68B46E2B2B5D50"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "0B8C5886FAEB514D"
+				item: { count: 1, id: "hostilenetworks:loot_fabricator" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+	]
+}

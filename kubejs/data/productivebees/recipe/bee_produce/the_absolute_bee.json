@@ -1,0 +1,22 @@
+{
+  "type": "productivebees:advanced_beehive",
+  "ingredient": "productivebees:the_absolute",
+  "results": [
+    {
+      "item": {
+        "type": "productivebees:component",
+        "components": {
+          "productivebees:bee_type": "productivebees:the_absolute"
+        },
+        "items": "productivebees:configurable_honeycomb"
+      },
+      "chance": 0.01
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "productivebees:bee_exists",
+      "bee": "productivebees:the_absolute"
+    }
+  ]
+}

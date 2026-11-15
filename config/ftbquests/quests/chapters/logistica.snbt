@@ -1,0 +1,173 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "logistica"
+	group: "4BB353770616CAEC"
+	icon: {
+		id: "pipez:item_pipe"
+	}
+	id: "51766BDD95F24504"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "2270E907FFBA1DBC"
+			rewards: [{
+				id: "6405FDD0A8F909D5"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [
+				{
+					count: 8L
+					id: "73F64F6918C56FE4"
+					item: { count: 1, id: "pipez:item_pipe" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1F166924596A947F"
+					item: { count: 1, id: "pipez:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0D20A47B9EAE27B4"
+					item: { count: 1, id: "pipez:energy_pipe" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2270E907FFBA1DBC"]
+			id: "16183BCF2E3899C9"
+			rewards: [{
+				id: "3B6F8ADEDE0D4832"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "59099E4B74F04F46"
+				item: { count: 1, id: "pipez:basic_upgrade" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2270E907FFBA1DBC"]
+			id: "26EA9230903A63BB"
+			rewards: [{
+				id: "22E33A1B7DAD6DF8"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "7539C0EBBA780CA7"
+					item: { count: 1, id: "modularrouters:modular_router" }
+					type: "item"
+				}
+				{
+					id: "62995C7AEAC419FB"
+					item: { count: 1, id: "modularrouters:sender_module_1" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["26EA9230903A63BB"]
+			id: "0C04F32D1B87C254"
+			rewards: [{
+				id: "59CB75E54BD995BE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "7A0B4BBCE42EE296"
+					item: { count: 1, id: "laserio:laser_node" }
+					type: "item"
+				}
+				{
+					id: "6A458D6BC3BB8727"
+					item: { count: 1, id: "laserio:laser_wrench" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["2270E907FFBA1DBC"]
+			id: "6D9AC5D2992C9999"
+			rewards: [{
+				id: "01404C8B2EFE4FBA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "0A0182A09BD5807D"
+					item: { count: 1, id: "xnet:controller" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "1874882A0C80169E"
+					item: { count: 1, id: "xnet:connector_red" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6D9AC5D2992C9999"]
+			id: "45E30AAE4DDB47AF"
+			rewards: [{
+				id: "1A77B1BC35493724"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "7AACEA8E3A3E6FF1"
+				item: { count: 1, id: "sfm:manager" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["0C04F32D1B87C254"]
+			id: "32789B78ED2B6685"
+			rewards: [{
+				id: "43D1E95DE227ECDB"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "522BAB9FF9427104"
+					item: { count: 1, id: "fluxnetworks:flux_point" }
+					type: "item"
+				}
+				{
+					id: "785AFC00A8E4621C"
+					item: { count: 1, id: "fluxnetworks:flux_plug" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

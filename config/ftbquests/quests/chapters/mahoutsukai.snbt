@@ -1,0 +1,172 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mahoutsukai"
+	group: "6F4F671F848333DE"
+	icon: {
+		id: "mahoutsukai:mystic_staff"
+	}
+	id: "7D3A72A127B51E4C"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "1329FB467F867E2C"
+			rewards: [{
+				id: "015939A02E92D231"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "6FE98230F5696FB2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1329FB467F867E2C"]
+			id: "51E9F54CFBEE0F84"
+			rewards: [{
+				id: "757B0B29C66C0D0C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3F16D3DACBB140F1"
+				item: { count: 1, id: "mahoutsukai:mystic_staff" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51E9F54CFBEE0F84"]
+			id: "571C2E89A128D964"
+			rewards: [{
+				id: "6CED4926878AA8BE"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "7FAB3C5BA67DAD9D"
+				item: { count: 1, id: "mahoutsukai:caliburn" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1329FB467F867E2C"]
+			id: "607CACD3BF1EFE3D"
+			rewards: [{
+				id: "3B9F843D87E3E7B9"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "249AF696BCE81237"
+				item: { count: 1, id: "mahoutsukai:guidebook" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1329FB467F867E2C"]
+			id: "6F276143970EBC71"
+			rewards: [{
+				id: "7454CBD91832EE7D"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					id: "4CF8EAF7993A4EE6"
+					item: { count: 1, id: "mahoutsukai:mortar_and_pestle" }
+					type: "item"
+				}
+				{
+					id: "5E4ECEB773549BCF"
+					item: { count: 1, id: "mahoutsukai:powdered_diamond" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F276143970EBC71"]
+			id: "7E524B6799FE0799"
+			rewards: [{
+				id: "2D133A2DDB955D03"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "28C298D1B253C444"
+				item: { count: 1, id: "mahoutsukai:mana_circuit" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F276143970EBC71"]
+			id: "1CB766C921F25BCC"
+			rewards: [{
+				id: "453B03AD2C82CEED"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "5649FF0B11FC52A3"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["571C2E89A128D964"]
+			id: "5D3A7EDB94021C7E"
+			rewards: [{
+				id: "6F703963BA483F04"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "532C907470C2855C"
+					item: { count: 1, id: "mahoutsukai:morgan" }
+					type: "item"
+				}
+				{
+					id: "25D89AB6990308A1"
+					item: { count: 1, id: "mahoutsukai:clarent" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["571C2E89A128D964"]
+			id: "3BD2540C80E5957C"
+			rewards: [{
+				id: "0EC5B31A516A59BF"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "088EA980F7E07D96"
+				item: { count: 1, id: "mahoutsukai:rule_breaker" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.75d
+		}
+	]
+}

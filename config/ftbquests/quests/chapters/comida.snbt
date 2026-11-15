@@ -1,0 +1,253 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "comida"
+	group: "16B80C61274A17B4"
+	icon: {
+		id: "farmersdelight:cooking_pot"
+	}
+	id: "469E03AE6D06FA5F"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "234C4B9CFC23A1AB"
+			rewards: [{
+				id: "0E7A683CF358EE35"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "410DAE778883C747"
+				item: { count: 1, id: "farmersdelight:iron_knife" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["234C4B9CFC23A1AB"]
+			id: "40F87EB6BFED9ABE"
+			rewards: [{
+				id: "530AFC9FDFB0CA89"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "4A01EB7C051F4DA5"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["234C4B9CFC23A1AB"]
+			id: "51B337AD71769F3D"
+			rewards: [{
+				id: "0FEFCA74B6A3149F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "30FB97216C86CE3D"
+				item: { count: 1, id: "farmersdelight:cooking_pot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51B337AD71769F3D"]
+			id: "23249FD703CDEFB2"
+			rewards: [{
+				id: "48A171E4B2CCB895"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "33F9608B2B29A6B0"
+				item: { count: 1, id: "farmersdelight:stove" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["51B337AD71769F3D"]
+			id: "52C7CBBEF4DE3FB9"
+			rewards: [{
+				id: "172C502B65639AE3"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "3215F93E18A4F893"
+				item: { count: 1, id: "farmersdelight:beef_stew" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["51B337AD71769F3D"]
+			id: "518B9A8F1ADA869D"
+			rewards: [{
+				id: "4B7F995E9794A38E"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "231D7EDF7348D61A"
+				item: { count: 1, id: "cookingforblockheads:cooking_table" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "7CE704A25FAA9874"
+			rewards: [{
+				id: "6973B40C81B4B817"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4C05DF84BF318A8A"
+				item: { count: 1, id: "aquaculture:iron_fishing_rod" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["234C4B9CFC23A1AB"]
+			id: "59E06D63FE4F610D"
+			rewards: [{
+				id: "7E14D20928C93FDE"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "787AE4A4A98BDA93"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["234C4B9CFC23A1AB"]
+			id: "152343866ECEB36E"
+			rewards: [{
+				id: "07632F3D4A70F119"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "1691422EAD0EEC20"
+					item: { count: 1, id: "farmersdelight:tomato_seeds" }
+					type: "item"
+				}
+				{
+					id: "37290FD15053EF38"
+					item: { count: 1, id: "farmersdelight:cabbage_seeds" }
+					type: "item"
+				}
+				{
+					id: "2A11786960F5D6EF"
+					item: { count: 1, id: "farmersdelight:onion" }
+					type: "item"
+				}
+				{
+					id: "40CD8843973065E3"
+					item: { count: 1, id: "farmersdelight:rice" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["152343866ECEB36E"]
+			id: "224AF4B108107842"
+			rewards: [{
+				id: "6235D92BE21E5B8A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3D655E060E785B91"
+				item: { count: 1, id: "farmersdelight:rich_soil" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["518B9A8F1ADA869D"]
+			id: "667352B762AF6DD1"
+			rewards: [{
+				id: "6F20640B104BB493"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "5846452EAFBD6933"
+					item: { count: 1, id: "cookingforblockheads:sink" }
+					type: "item"
+				}
+				{
+					id: "718F1A7A34432F69"
+					item: { count: 1, id: "cookingforblockheads:counter" }
+					type: "item"
+				}
+				{
+					id: "68C74C8A7B3C4925"
+					item: { count: 1, id: "cookingforblockheads:cabinet" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7CE704A25FAA9874"]
+			id: "167B69F7D099B90F"
+			rewards: [{
+				id: "63DCE587CAB7BC50"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "5CAAAE26EEEC921A"
+				item: { count: 1, id: "aquaculture:neptunium_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["152343866ECEB36E"]
+			id: "68293EEBE58BA076"
+			rewards: [{
+				id: "375D3DEC9BE47930"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "7F24EE4BB466874C"
+				item: { count: 1, id: "sliceanddice:sprinkler" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+	]
+}

@@ -1,0 +1,185 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sujjs_tweaks"
+	group: "6E3F94836C5DCB81"
+	icon: {
+		id: "sujjstweaks:radioactive_flask"
+	}
+	id: "6A81829EF0C535CD"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"0F383DA4C4BAC51E"
+				"7FCA6BC557D09306"
+			]
+			icon: {
+				id: "sujjstweaks:the_absolute"
+			}
+			id: "0638CE4C59ECB464"
+			rewards: [{
+				id: "1733847629D250FE"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "6850899A0729C6BB"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0638CE4C59ECB464"
+				"646FEC75BD9B5337"
+				"5C86295742DF5517"
+				"71BB2B9E11F69948"
+				"29C27BCA338AC45E"
+			]
+			id: "3C3C72B1D5EF54AD"
+			rewards: [{
+				id: "2E1CE4D23C3E8F2B"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "731EC08DDCF5A569"
+				item: { count: 1, id: "sujjstweaks:dimensional_controller" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3C3C72B1D5EF54AD"]
+			id: "79DD0E0D63D790DB"
+			rewards: [{
+				id: "49EBD74AF88BE996"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "33D97A31AF166B2F"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["79DD0E0D63D790DB"]
+			id: "38CE52F3E2D80856"
+			rewards: [{
+				id: "6568AEA92142639F"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "203AAF135CA5719F"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["79DD0E0D63D790DB"]
+			id: "4A34368D409E27AD"
+			rewards: [{
+				id: "5B6A81BE7C5271D0"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				entity: "sujjstweaks:irradiated_soldier"
+				id: "1107EFFC09204D32"
+				type: "kill"
+				value: 10L
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0638CE4C59ECB464"
+				"65B6254A10C42134"
+			]
+			id: "2715CDB3229ABE2F"
+			rewards: [{
+				id: "15DFE6AAC3E53C42"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "5644DE92AEE22114"
+				item: { count: 1, id: "sujjstweaks:crystal_of_fire" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"38CE52F3E2D80856"
+				"4A34368D409E27AD"
+				"2715CDB3229ABE2F"
+			]
+			id: "5D502CEC000B870E"
+			rewards: [{
+				id: "74DF489179850934"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "5DF28D0F2E7FC2C7"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D502CEC000B870E"]
+			icon: {
+				id: "sujjstweaks:radioactive_flask"
+			}
+			id: "5E0E5565BB871EAB"
+			rewards: [{
+				id: "52E2B46FEC6E9B77"
+				type: "xp"
+				xp: 2000
+			}]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				entity: "sujjstweaks:nucleon"
+				id: "42DFD7D8B03D4B98"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E0E5565BB871EAB"]
+			id: "29A11FBA97E52AE2"
+			rewards: [{
+				id: "73A87010B85B8834"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "28F7E5727A82445A"
+				item: { count: 1, id: "sujjstweaks:radioactive_flask" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+	]
+}

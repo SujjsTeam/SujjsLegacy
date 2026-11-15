@@ -1,0 +1,197 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "extreme_reactors"
+	group: "1C3F63935DBC9AF9"
+	icon: {
+		id: "bigreactors:reinforced_reactorcontroller"
+	}
+	id: "7194310D190B8A85"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "6C5C01302190BC61"
+			rewards: [{
+				id: "7285FC5D179EE604"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "42157682829C993B"
+				item: { count: 1, id: "bigreactors:yellorium_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C5C01302190BC61"]
+			id: "1ABE77E1EC7CCD4A"
+			rewards: [{
+				id: "1D05975C53FD0852"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					count: 20L
+					id: "4F93A78AC841A844"
+					item: { count: 1, id: "bigreactors:basic_reactorcasing" }
+					type: "item"
+				}
+				{
+					id: "751C519D5677DC0F"
+					item: { count: 1, id: "bigreactors:basic_reactorcontroller" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "53D20CE2006AC931"
+					item: { count: 1, id: "bigreactors:basic_reactorfuelrod" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["1ABE77E1EC7CCD4A"]
+			id: "1CE31E0EB9CF8E5E"
+			rewards: [{
+				id: "2BC332F336900B7A"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "4A53B00B5EF6B973"
+				item: { count: 1, id: "bigreactors:blutonium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["1ABE77E1EC7CCD4A"]
+			id: "401D99DE70E1BD8B"
+			rewards: [{
+				id: "419769181D8DE34A"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "16D89E497FA92106"
+				item: { count: 1, id: "bigreactors:basic_turbinecontroller" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["6C5C01302190BC61"]
+			id: "1CC6E8013527FBFB"
+			rewards: [{
+				id: "593555D529C7B0D3"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				count: 4L
+				id: "7361491245BFDD4E"
+				item: { count: 1, id: "bigreactors:graphite_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["1ABE77E1EC7CCD4A"]
+			id: "6F4BD5EA520D46AE"
+			rewards: [{
+				id: "01DEE9818812D242"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					id: "0E6AEC4455FEE5C0"
+					item: { count: 1, id: "bigreactors:basic_reactorcontrolrod" }
+					type: "item"
+				}
+				{
+					id: "2C112B9A044B5968"
+					item: { count: 1, id: "bigreactors:basic_reactorpowertapfe_passive" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5FD225BC8FB78D5A"
+					item: { count: 1, id: "bigreactors:basic_reactorsolidaccessport" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["1CE31E0EB9CF8E5E"]
+			id: "064CD016477806F7"
+			rewards: [{
+				id: "46B76DF8D376C1AC"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "3D2C7C7B977FDF51"
+					item: { count: 1, id: "bigreactors:reinforced_reactorcontroller" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "39A950B74CAA0B49"
+					item: { count: 1, id: "bigreactors:reinforced_reactorcasing" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1ABE77E1EC7CCD4A"]
+			id: "0930D32C225BD4DE"
+			rewards: [{
+				id: "218E40FBB3DA79BE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4D4BEB30EA7514CF"
+				item: { count: 1, id: "bigreactors:reprocessorcontroller" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["064CD016477806F7"]
+			id: "52D55B7BE7CFE0E4"
+			rewards: [{
+				id: "3BD897AFBDB59D7D"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "40257A75937E6C80"
+				item: { count: 1, id: "bigreactors:ludicrite_ingot" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+	]
+}

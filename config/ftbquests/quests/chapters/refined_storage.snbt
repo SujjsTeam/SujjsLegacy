@@ -1,0 +1,301 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "refined_storage"
+	group: "0AC97BE65E70DFC2"
+	icon: {
+		id: "refinedstorage:controller"
+	}
+	id: "42951C00E9A68FB6"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "27FCCC69B8A8F9A2"
+			rewards: [{
+				id: "36E3E26EAD5C0C80"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 8L
+				id: "55FDF68C21C868E0"
+				item: { count: 1, id: "refinedstorage:quartz_enriched_iron" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27FCCC69B8A8F9A2"]
+			id: "79D4CE822DB17BE4"
+			rewards: [{
+				id: "4528BE8C1A651EAF"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					id: "2BC5ACECD0B882EB"
+					item: { count: 1, id: "refinedstorage:controller" }
+					type: "item"
+				}
+				{
+					id: "620EA4FA2119358E"
+					item: { count: 1, id: "refinedstorage:disk_drive" }
+					type: "item"
+				}
+				{
+					id: "6743215E54758801"
+					item: { count: 1, id: "refinedstorage:grid" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["79D4CE822DB17BE4"]
+			id: "419A449D685F68CF"
+			rewards: [{
+				id: "3412D5007DA50D6E"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "3FB2E979F4E06346"
+				item: { count: 1, id: "refinedstorage:4k_storage_disk" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["79D4CE822DB17BE4"]
+			id: "7EAE914BB6D14344"
+			rewards: [{
+				id: "1E01E0BE95B7F7C9"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "697206A62E8BD735"
+					item: { count: 1, id: "refinedstorage:autocrafter" }
+					type: "item"
+				}
+				{
+					id: "7ECEEA0A24FF67E3"
+					item: { count: 1, id: "refinedstorage:pattern" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["79D4CE822DB17BE4"]
+			id: "77C41AE5821B2BA6"
+			rewards: [{
+				id: "3588C1A6399BCC51"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "678EBCEC74B531F8"
+				item: { count: 1, id: "refinedstorage:wireless_grid" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["419A449D685F68CF"]
+			id: "3BC3B348C1D4EA1A"
+			rewards: [{
+				id: "31A74F3425E8D1D1"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "3909DF3DCFF31CAB"
+				item: { count: 1, id: "extradisks:256k_item_storage_disk" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["27FCCC69B8A8F9A2"]
+			id: "0504E7C7AD59C026"
+			rewards: [{
+				id: "107C037F8EE9AAF3"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "0AEA393660E5DBDC"
+					item: { count: 1, id: "refinedstorage:basic_processor" }
+					type: "item"
+				}
+				{
+					id: "3A5FD7685464A05D"
+					item: { count: 1, id: "refinedstorage:improved_processor" }
+					type: "item"
+				}
+				{
+					id: "4045B4F10E23C224"
+					item: { count: 1, id: "refinedstorage:advanced_processor" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["79D4CE822DB17BE4"]
+			id: "69D88CBADD8057EE"
+			rewards: [{
+				id: "31B4FFF7702DE4E8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6AA59A8AA351677A"
+					item: { count: 1, id: "refinedstorage:importer" }
+					type: "item"
+				}
+				{
+					id: "6176711A480CB9F1"
+					item: { count: 1, id: "refinedstorage:exporter" }
+					type: "item"
+				}
+				{
+					id: "30B1C20D1359392A"
+					item: { count: 1, id: "refinedstorage:external_storage" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["79D4CE822DB17BE4"]
+			id: "45C2A0646306F25E"
+			rewards: [{
+				id: "3E6692082773B561"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "01863C9D7D306913"
+					item: { count: 1, id: "refinedstorage:crafting_grid" }
+					type: "item"
+				}
+				{
+					id: "587A12F925D3CAF7"
+					item: { count: 1, id: "refinedstorage:pattern_grid" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["69D88CBADD8057EE"]
+			id: "48F87893253E3376"
+			rewards: [{
+				id: "73B705B231D45D7F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "0126CEDF11B8FDF7"
+					item: { count: 1, id: "refinedstorage:constructor" }
+					type: "item"
+				}
+				{
+					id: "1146ECE1D86BB7F3"
+					item: { count: 1, id: "refinedstorage:destructor" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["69D88CBADD8057EE"]
+			id: "68FD987A3B6B40AC"
+			rewards: [{
+				id: "70B8925381BE7BFF"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "62E97DDB4499B9D6"
+					item: { count: 1, id: "refinedstorage:speed_upgrade" }
+					type: "item"
+				}
+				{
+					id: "5D1E57BCF2FF9EFE"
+					item: { count: 1, id: "refinedstorage:stack_upgrade" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["77C41AE5821B2BA6"]
+			id: "2B61A5F95E22F81E"
+			rewards: [{
+				id: "58177795A177B8C5"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "7289526952942382"
+					item: { count: 1, id: "refinedstorage:wireless_transmitter" }
+					type: "item"
+				}
+				{
+					id: "37EE3FA152D6C97C"
+					item: { count: 1, id: "refinedstorage:network_transmitter" }
+					type: "item"
+				}
+				{
+					id: "219825CB861E5D28"
+					item: { count: 1, id: "refinedstorage:network_receiver" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["419A449D685F68CF"]
+			id: "7F53DE1F6D4E960E"
+			rewards: [{
+				id: "095650A1B564DCC8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "76C34A17A1B42DB3"
+				item: { count: 1, id: "refinedstorage:64b_fluid_storage_disk" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+	]
+}

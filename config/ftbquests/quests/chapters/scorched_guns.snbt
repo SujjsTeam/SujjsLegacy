@@ -1,0 +1,206 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "scorched_guns"
+	group: "384D7EF042DEB4D7"
+	icon: {
+		id: "scguns:gun_bench"
+	}
+	id: "4F705626D2939FCA"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "08B95D749A91FE11"
+			rewards: [{
+				id: "1DF8D304B104B3CD"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "30A29D63A65B7A0A"
+				item: { count: 1, id: "scguns:gun_bench" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["08B95D749A91FE11"]
+			id: "2DCA118678112BAD"
+			rewards: [{
+				id: "597F1402E04C842E"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				count: 16L
+				id: "35764B8D528660CC"
+				item: { count: 1, id: "scguns:small_brass_casing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["2DCA118678112BAD"]
+			id: "313F53AC1E5F2A4B"
+			rewards: [{
+				id: "02B373304778B7A9"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "02B3E34BAA978E2A"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["313F53AC1E5F2A4B"]
+			id: "02DC5F1FCFA13F83"
+			rewards: [{
+				id: "0DC68E2095A7050F"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "34979A1B9AC21D12"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["313F53AC1E5F2A4B"]
+			id: "768B8992B2F01DB8"
+			rewards: [{
+				id: "15D45227D176FE66"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "08088B346971E49D"
+				item: { count: 1, id: "scguns:plasma_core" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["768B8992B2F01DB8"]
+			id: "7403874DE9181A53"
+			rewards: [{
+				id: "7157D7F252C6173A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "191DE5097644AA35"
+				item: { count: 1, id: "scguns:scorched_blueprint" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["08B95D749A91FE11"]
+			id: "0936F8B47C88270A"
+			rewards: [{
+				id: "67541EAAFCB3D030"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2FC9596F389BFCE1"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["313F53AC1E5F2A4B"]
+			id: "01DD9A3E6F942C32"
+			rewards: [{
+				id: "3B0EF53B436F62F7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "44717B73A458297D"
+				item: { count: 1, id: "scguns:boomstick" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["313F53AC1E5F2A4B"]
+			id: "57086556A63797DC"
+			rewards: [{
+				id: "6AE3280B79744AF2"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "781089E40D011A65"
+				item: { count: 1, id: "scguns:basic_turret" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["2DCA118678112BAD"]
+			id: "5EB39398DC375AAB"
+			rewards: [{
+				id: "129A72866DDC5953"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "7C83B0A4AB1D1D33"
+				item: { count: 1, id: "scguns:ammo_box" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["768B8992B2F01DB8"]
+			id: "75662A02272F8FDF"
+			rewards: [{
+				id: "764603600DA40540"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "61B7856D75C98D67"
+				item: { count: 1, id: "scguns:gauss_rifle" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["7403874DE9181A53"]
+			id: "471C9739196E6609"
+			rewards: [{
+				id: "15EEBB48C826C68C"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "36B1B2C16DFE847B"
+				item: { count: 1, id: "scguns:flayed_god" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+	]
+}

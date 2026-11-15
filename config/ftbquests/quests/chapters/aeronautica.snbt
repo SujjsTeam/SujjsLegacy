@@ -1,0 +1,353 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aeronautica"
+	group: "1754F75D9403AEA0"
+	icon: {
+		id: "aeronautics:wooden_propeller"
+	}
+	id: "7464F4F07A6108FD"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "5667B25B12083F5C"
+			rewards: [{
+				id: "58B86321B1E50267"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "432580B619BAC5D7"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5667B25B12083F5C"]
+			id: "6AFD9E4DB339330F"
+			rewards: [{
+				id: "3EEE3C919B4267D0"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				count: 4L
+				id: "3FA14B0E4C7504D0"
+				item: { count: 1, id: "aeronautics:levitite" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5667B25B12083F5C"]
+			icon: {
+				id: "aeronautics:white_envelope"
+			}
+			id: "4F03D4D5903C5D21"
+			rewards: [{
+				id: "54D083F804485037"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "57930A129F435EBF"
+					item: { count: 1, id: "aeronautics:adjustable_burner" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7739D51243522A50"
+					item: { count: 1, id: "aeronautics:white_envelope" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4F03D4D5903C5D21"]
+			icon: {
+				id: "aeronautics:wooden_propeller"
+			}
+			id: "69E9AD6E501EC684"
+			rewards: [{
+				id: "6A8C17503B8251EC"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					id: "73B7015A42EE9206"
+					item: { count: 1, id: "aeronautics:propeller_bearing" }
+					type: "item"
+				}
+				{
+					id: "291D0617484FFE49"
+					item: { count: 1, id: "aeronautics:wooden_propeller" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["69E9AD6E501EC684"]
+			icon: {
+				id: "aeronautics:smart_propeller"
+			}
+			id: "4CDFAFBB23E387C8"
+			rewards: [{
+				id: "71D185CFFB56E2AB"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					id: "19DA67B1DA1F1A2D"
+					item: { count: 1, id: "aeronautics:andesite_propeller" }
+					type: "item"
+				}
+				{
+					id: "59D1489A40803E04"
+					item: { count: 1, id: "aeronautics:smart_propeller" }
+					type: "item"
+				}
+				{
+					id: "03292607299D5B30"
+					item: { count: 1, id: "aeronautics:gyroscopic_propeller_bearing" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["69E9AD6E501EC684"]
+			icon: {
+				id: "aeroworks:control_stand"
+			}
+			id: "4BF073D965EFEA51"
+			rewards: [{
+				id: "51FB3E05AB17FDBC"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "5872A7798353527B"
+					item: { count: 1, id: "aeroworks:control_stand" }
+					type: "item"
+				}
+				{
+					id: "6274FCCB65BC01D6"
+					item: { count: 1, id: "aeroworks:yoke_module" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4BF073D965EFEA51"]
+			icon: {
+				id: "simulated:navigation_table"
+			}
+			id: "6AC6C5C217F8684B"
+			rewards: [{
+				id: "4F44A24850C2DDF6"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "7226BBF7A30E6015"
+					item: { count: 1, id: "simulated:navigation_table" }
+					type: "item"
+				}
+				{
+					id: "59205839AA901FAD"
+					item: { count: 1, id: "simulated:altitude_sensor" }
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"4CDFAFBB23E387C8"
+				"4BF073D965EFEA51"
+			]
+			icon: {
+				id: "aeronautics:aviators_goggles"
+			}
+			id: "6E1C7BE371C0E78D"
+			rewards: [{
+				id: "37D0E7A4D189A2F6"
+				type: "xp"
+				xp: 800
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "2FCE1E5BCD69FAD2"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5667B25B12083F5C"]
+			icon: {
+				id: "offroad:tire"
+			}
+			id: "652A5A11548DC760"
+			rewards: [{
+				id: "099FF4C17A1147DD"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "0045C3C82418CDF0"
+					item: { count: 1, id: "offroad:tire" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "10251115ED5879F2"
+					item: { count: 1, id: "offroad:wheel_mount" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["652A5A11548DC760"]
+			icon: {
+				id: "tracks:track_drive_wheel"
+			}
+			id: "6F7039E7221FF9F3"
+			rewards: [{
+				id: "4D98FE52785882AA"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "44C3CE5053FC041C"
+					item: { count: 1, id: "tracks:track_drive_wheel" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "15C4E5BD671DB13F"
+					item: { count: 1, id: "tracks:suspension_track" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6E1C7BE371C0E78D"]
+			icon: {
+				id: "createpropulsion:thruster"
+			}
+			id: "122217D277A3A056"
+			rewards: [{
+				id: "345FFFE4BEA1F424"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [
+				{
+					id: "7001482221777093"
+					item: { count: 1, id: "createpropulsion:thruster" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "709F9605651B6C07"
+					item: { count: 1, id: "createpropulsion:wing" }
+					type: "item"
+				}
+			]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["122217D277A3A056"]
+			id: "01F21A5853D8DD72"
+			rewards: [{
+				id: "0C39AE393BE2F834"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "4B8E4B539A3BD579"
+				item: { count: 1, id: "createpropulsion:vector_thruster" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["122217D277A3A056"]
+			id: "7DBCC2A0AEAEDAC3"
+			rewards: [{
+				id: "7825F25A008FFD03"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [{
+				id: "0D4ED578C0060A4A"
+				item: { count: 1, id: "createpropulsion:ion_thruster" }
+				type: "item"
+			}]
+			x: 18.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"01F21A5853D8DD72"
+				"7DBCC2A0AEAEDAC3"
+			]
+			icon: {
+				id: "propulsed:large_rocket_engine"
+			}
+			id: "3B4F92A13DD5D7FB"
+			rewards: [{
+				id: "2A27E2AF4CEF45BB"
+				type: "xp"
+				xp: 800
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [
+				{
+					id: "2276C0AD8E22EA89"
+					item: { count: 1, id: "propulsed:rocket_engine" }
+					type: "item"
+				}
+				{
+					id: "33666C34A72A48BD"
+					item: { count: 1, id: "propulsed:large_rocket_engine" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: 0.0d
+		}
+	]
+}

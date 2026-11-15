@@ -1,0 +1,11 @@
+{
+  "primaryColor": "#f5c033",
+  "secondaryColor": "#6a2bb5",
+  "tertiaryColor": "#fff2a8",
+  "particleColor": "#ffd34d",
+  "beeTexture": "productivebees:textures/entity/bee/the_absolute/bee",
+  "flowerBlock": "sujjstweaks:the_absolute_block",
+  "description": "productivebees.ingredient.description.the_absolute_bee",
+  "selfbreed": false,
+  "fireproof": true
+}

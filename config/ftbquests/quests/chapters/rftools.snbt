@@ -1,0 +1,135 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "rftools"
+	group: "1C3F63935DBC9AF9"
+	icon: {
+		id: "rftoolsbase:machine_frame"
+	}
+	id: "42D7F38222843CDF"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "0FE0108866D5460E"
+			rewards: [{
+				id: "08C37E0202CE547B"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "6E11F20C988CAD3C"
+				item: { count: 1, id: "rftoolsbase:machine_frame" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0FE0108866D5460E"]
+			id: "3300CA3DB86198FD"
+			rewards: [{
+				id: "231F105E54E29599"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "175E76886A524D11"
+				item: { count: 1, id: "rftoolspower:coalgenerator" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["3300CA3DB86198FD"]
+			id: "360AF04DDB8036A7"
+			rewards: [{
+				id: "6503EE2B28909024"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "71183A00D05A1196"
+				item: { count: 1, id: "rftoolspower:cell1" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0FE0108866D5460E"]
+			id: "21DD095FD73ADD0B"
+			rewards: [{
+				id: "71DC339727D6D5E0"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "0C26ACEBD7593E12"
+				item: { count: 1, id: "rftoolsbuilder:builder" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0FE0108866D5460E"]
+			id: "52EFBE9EB61FEAF6"
+			rewards: [{
+				id: "1F069D8C6C2DC0D6"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "5A8E8E170DFA3CE2"
+				item: { count: 1, id: "rftoolsutility:crafter1" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["0FE0108866D5460E"]
+			id: "79D4CF802BEB35B4"
+			rewards: [{
+				id: "4051DBB8DF56EE0F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "2265DE6097139EBA"
+					item: { count: 1, id: "rftoolsutility:matter_transmitter" }
+					type: "item"
+				}
+				{
+					id: "0366923727CB134D"
+					item: { count: 1, id: "rftoolsutility:matter_receiver" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["79D4CF802BEB35B4"]
+			id: "58A5056C44169A1C"
+			rewards: [{
+				id: "3BFF6D0C37A5D643"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "4EB104F37F0DAF50"
+				item: { count: 1, id: "rftoolsutility:flight_module" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+	]
+}

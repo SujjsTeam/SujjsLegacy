@@ -1,0 +1,1714 @@
+{
+	chapter.010433742A4A8F13.title: "&2Ender IO"
+	chapter.010EBF79BE634741.title: "&7Sujjs's Ores"
+	chapter.1242AB7A1CED4260.title: "&7ComputerCraft"
+	chapter.162482F2A072BFE0.title: "&eQualidade de Vida"
+	chapter.1AA0DCFEC0CFA95D.title: "&dPowah"
+	chapter.1E1A5AFFAC0430C0.title: "&bAd Astra"
+	chapter.224CDB401BB5DDE9.title: "&8Modern Industrialization"
+	chapter.23BC925AA3376572.title: "&aMystical Agriculture"
+	chapter.254D85C6E5F0B145.title: "&2Aldeões"
+	chapter.26ACE037454264D0.title: "&dArs Nouveau"
+	chapter.2880AC7C62B7EAAE.title: "&cActually Additions"
+	chapter.2D94C09947B4F51C.title: "&4Forbidden \\& Arcanus"
+	chapter.2FA738B6396F27C6.title: "&aO Começo"
+	chapter.30681E7219396F55.title: "&7PneumaticCraft"
+	chapter.30D06C79D5B4F9E8.title: "&3Just Dire Things"
+	chapter.325F64F8D514DC00.title: "&6Create"
+	chapter.33CD2A3F841D1FA9.title: "&5Draconic Evolution"
+	chapter.39F802FDFB9D3A62.title: "&bXyCraft"
+	chapter.3CFEA3DD9D93D40E.title: "&9Applied Energistics 2"
+	chapter.3FE91F0B39613604.title: "&5Occultism"
+	chapter.42951C00E9A68FB6.title: "&3Refined Storage"
+	chapter.42D7F38222843CDF.title: "&cRFTools"
+	chapter.4649498185848EFD.title: "&cFazendas de Mobs"
+	chapter.469E03AE6D06FA5F.title: "&6Comida"
+	chapter.4C32129C12C01C16.title: "&bUtilidades"
+	chapter.4D4EE5059F2FBB23.title: "&2A Floresta do Crepúsculo"
+	chapter.4F705626D2939FCA.title: "&6Scorched Guns"
+	chapter.51766BDD95F24504.title: "&bLogística"
+	chapter.52F476FC874B0501.title: "&6Immersive Engineering"
+	chapter.568EEC507AA83F39.title: "&9Campos de Força"
+	chapter.58451D4FAC32690E.title: "&3Integrated Dynamics"
+	chapter.5C3840C1E39B43CF.title: "&7Silent Gear"
+	chapter.645E7E2059C5F61B.title: "&eProductive Bees"
+	chapter.6689F0B705C169DF.title: "&cEvilCraft e Reliquary"
+	chapter.67255288CDCAA12B.title: "&2Exploração"
+	chapter.677B53967E1093FA.title: "&3Oritech"
+	chapter.6A81829EF0C535CD.title: "&aA Dimensão Radioativa"
+	chapter.6AD9B6EA37C12CC3.title: "&6Create Big Cannons"
+	chapter.6B9AC97AB679C324.title: "&5Apotheosis"
+	chapter.6CC53F68BC735B05.title: "&cSecurityCraft"
+	chapter.70C74F4B67F260CB.title: "&6Addons do Create"
+	chapter.7160042F24C7C461.title: "&dDecoração"
+	chapter.7194310D190B8A85.title: "&eExtreme Reactors"
+	chapter.71BCCBCCCA73E48D.title: "&dO Absoluto"
+	chapter.7464F4F07A6108FD.title: "&bAeronáutica"
+	chapter.7A136BFCE28A18C0.title: "&4L_Ender's Cataclysm"
+	chapter.7B53D4B91E37C757.title: "&eArtefatos e Relíquias"
+	chapter.7CD0727E03C17E62.title: "&aIndustrial Foregoing"
+	chapter.7D3A72A127B51E4C.title: "&9Mahou Tsukai"
+	chapter.7E3A14777DBD0726.title: "&9Mekanism"
+	chapter_group.0AC97BE65E70DFC2.title: "&6Parte 4&r - Armazenamento Digital"
+	chapter_group.16B80C61274A17B4.title: "&6Parte 1&r - O Começo"
+	chapter_group.1754F75D9403AEA0.title: "&6Parte 7&r - Espaço"
+	chapter_group.1C3F63935DBC9AF9.title: "&6Parte 3&r - Tecnologia Avançada"
+	chapter_group.384D7EF042DEB4D7.title: "&6Parte 6&r - Combate e Chefões"
+	chapter_group.4BB353770616CAEC.title: "&6Parte 2&r - Tecnologia Inicial"
+	chapter_group.6E3F94836C5DCB81.title: "&5Parte 8&r - Fim de Jogo"
+	chapter_group.6F4F671F848333DE.title: "&6Parte 5&r - Magia"
+	quest.00323A853D58B347.quest_desc: ["Hostile Neural Networks: sintonize um Blank Data Model num mob (clique nele) e deixe no Deep Learner. Cada abate treina o modelo."]
+	quest.00323A853D58B347.title: "Data Models"
+	quest.00426F4EA8586D48.quest_desc: ["O Copy Paste Gadget salva uma construção e coloca de novo. O Destruction Gadget remove uma área inteira."]
+	quest.00426F4EA8586D48.title: "Copiar e Destruir"
+	quest.0050471516C00E36.quest_desc: ["Agache + clique para salvar onde você está; clique para teleportar de volta. O Advanced Dislocator salva vários lugares."]
+	quest.0050471516C00E36.title: "Dislocator"
+	quest.00A444DA6DAE8CF1.quest_desc: ["Coloque um ninho no bioma certo e use um Honey Treat nele para atrair uma abelha solitária selvagem."]
+	quest.00A444DA6DAE8CF1.title: "Ninhos Solitários"
+	quest.00E2FF4D0D064F35.quest_desc: ["Fabrica com 8 itens em volta e um fluido. A principal máquina de fabricação do mod."]
+	quest.00E2FF4D0D064F35.title: "Dissolution Chamber"
+	quest.01104A34E54D0168.quest_desc: ["O Oxygen Loader transforma água em oxigênio e enche o seu Traje Espacial."]
+	quest.01104A34E54D0168.title: "Carregador de Oxigênio"
+	quest.01A0084736DF571B.quest_desc: ["Um Mixer em cima de uma Basin mistura itens e fluidos. Algumas receitas precisam de calor de uma Blaze Burner embaixo da Basin."]
+	quest.01A0084736DF571B.title: "Misturando"
+	quest.01A1652A426F00C7.quest_desc: ["O centro dos rituais do mod. Coloque pedestais em volta e use Essências."]
+	quest.01A1652A426F00C7.title: "Forja de Hefesto"
+	quest.01B042B15FD80A43.quest_desc: ["Mob Grinding Utils: os ventiladores empurram os mobs. Melhore largura, altura e velocidade."]
+	quest.01B042B15FD80A43.title: "Ventilador"
+	quest.01D317DEA9EAD76F.quest_desc: ["Um veículo para explorar os planetas. Ele roda com combustível de foguete."]
+	quest.01D317DEA9EAD76F.title: "Rover"
+	quest.01DD9A3E6F942C32.quest_desc: ["Curto alcance, muito dano. Usam cartuchos de escopeta."]
+	quest.01DD9A3E6F942C32.title: "Escopetas"
+	quest.01F21A5853D8DD72.quest_desc: ["Um propulsor que você pode apontar. Ótimo para pairar e girar parado."]
+	quest.01F21A5853D8DD72.title: "Propulsor Vetorial"
+	quest.020EF19B51E49866.quest_desc: ["O equipamento mais forte do Draconic Evolution."]
+	quest.020EF19B51E49866.title: "Equipamento Caótico"
+	quest.022EC127C19E89AD.quest_desc: ["Explosivos escondidos. Desarme os seus com alicate."]
+	quest.022EC127C19E89AD.title: "Minas"
+	quest.02DC5F1FCFA13F83.quest_desc: ["Miras, canos e coronhas mudam a sua arma. Coloque pelo menu da arma."]
+	quest.02DC5F1FCFA13F83.title: "Acessórios"
+	quest.03B5836C0D49245B.quest_desc: ["O terceiro nível de circuito."]
+	quest.03B5836C0D49245B.title: "Circuito Digital"
+	quest.0402E976713DA2C3.quest_desc: ["Clique com o botão direito e escolha uma estrutura: a bússola aponta o caminho para a mais próxima."]
+	quest.0402E976713DA2C3.title: "Bússola do Explorador"
+	quest.043BB41633A6AEEC.quest_desc: ["O livro do próprio MI explica cada era: vapor, eletricidade, petróleo, nuclear e quântica."]
+	quest.043BB41633A6AEEC.title: "Guia"
+	quest.043E06F9CE5DF980.quest_desc: ["Monta Withers sozinho. Com um Mob Crusher embaixo, é a fazenda de Ether Gas para o The Absolute."]
+	quest.043E06F9CE5DF980.title: "Wither Builder"
+	quest.046128AFA686F0C9.quest_desc: ["O Fluido do Tempo é usado na Time Wand e no The Absolute (1.800.000 mB)."]
+	quest.046128AFA686F0C9.title: "Fluido do Tempo"
+	quest.0475C8A95CD2F33E.quest_desc: ["Ele chega a Vênus e Mercúrio."]
+	quest.0475C8A95CD2F33E.title: "Foguete Nível 3"
+	quest.0504E7C7AD59C026.quest_desc: ["Processadores Basic (ferro), Improved (ouro) e Advanced (diamante)."]
+	quest.0504E7C7AD59C026.title: "Processadores"
+	quest.052C84D42730B5E4.quest_desc: ["Faz abelhas bebês crescerem e choca ovos."]
+	quest.052C84D42730B5E4.title: "Incubadora"
+	quest.0540DCECE3AA2043.quest_desc: ["Minera uma área inteira com um laser, ou carrega itens de longe."]
+	quest.0540DCECE3AA2043.title: "Laser Arm"
+	quest.0543A947F7768C2D.quest_desc: ["Monte uma moldura de tijolos de pedra como um portal do Nether e acenda com o Catalyst para entrar neste mundo subterrâneo escuro."]
+	quest.0543A947F7768C2D.title: "O Undergarden"
+	quest.061007D01EF92DA5.quest_desc: ["O Experience Obelisk guarda a sua XP. O XP Vacuum coleta os orbes."]
+	quest.061007D01EF92DA5.title: "Experiência"
+	quest.061D0BFFF106485C.quest_desc: ["Ferro transformado pelo Goo. O primeiro material do mod."]
+	quest.061D0BFFF106485C.title: "Ferricore"
+	quest.0622500AECFDBAF9.quest_desc: ["Ache uma Cidade do End pelo portal de saída e pegue o Élitro no Navio do End."]
+	quest.0622500AECFDBAF9.title: "Élitro"
+	quest.0638CE4C59ECB464.quest_desc: [
+		"A parte final do Sujjs Legacy começa aqui: uma dimensão radioativa, usinas nucleares, soldados irradiados e o Nucleon."
+		""
+		"Tudo nesta parte é fim de jogo. Garanta que o seu Mekanism, Draconic Evolution, AE2 e Modern Industrialization estejam bem avançados."
+	]
+	quest.0638CE4C59ECB464.quest_subtitle: "O mod do próprio Sujjs Team"
+	quest.0638CE4C59ECB464.title: "&aSujjs's Tweaks"
+	quest.064CD016477806F7.quest_desc: ["Reatores maiores que podem ter refrigeração ativa para fazer vapor."]
+	quest.064CD016477806F7.title: "Reator Reforçado"
+	quest.0705F545292AFB9B.quest_desc: ["O Fluix é usado nos cabos e na maioria das peças."]
+	quest.0705F545292AFB9B.title: "Fluix"
+	quest.0744B1A2531EDCB1.quest_desc: ["Jogue uma Pérola do Ender numa colmeia ou ninho de abelhas para ser puxado para a dimensão da colmeia gigante."]
+	quest.0744B1A2531EDCB1.title: "A Bumblezone"
+	quest.07A268D2768FA85A.quest_desc: ["Source é energia mágica. Os Sourcelinks produzem (o Volcanic queima combustível) e os Source Jars guardam."]
+	quest.07A268D2768FA85A.title: "Source"
+	quest.07B17B4D0FB4BC24.quest_desc: [
+		"Construa o Reator Absoluto: um anel acelerador de 30 x 30 com uma torre de 10 camadas."
+		""
+		"{image:kubejs:textures/quests/reator_montado.png width:256 height:144 align:center}"
+		""
+		"Camada por camada, vista de cima:"
+		"{image:kubejs:textures/quests/reator_guia.png width:300 height:175 align:center}"
+		""
+		"O controlador fica no meio da face norte da torre, na camada 2, virado para fora, na direção do anel. As entradas e saídas vão nas paredes da torre."
+		""
+		"Quando a estrutura estiver completa, todas as peças do Modular Machinery ficam verdes."
+	]
+	quest.07B17B4D0FB4BC24.quest_subtitle: "A máquina final"
+	quest.07B17B4D0FB4BC24.title: "&5O Reator Absoluto"
+	quest.07B1B05DE7580842.quest_desc: ["Um metal comum, usado no bronze e nas primeiras máquinas."]
+	quest.07B1B05DE7580842.title: "Estanho"
+	quest.07EA63794CE30048.quest_desc: ["O cristal mais alto do Powah: Estrela do Nether, Blocos de Redstone e Cristais Flamejantes. Ele é usado no The Absolute."]
+	quest.07EA63794CE30048.title: "&cCristal Nitro"
+	quest.080A4761EC03CB3A.quest_desc: ["Torretas de arma e de Chemthrower defendem a sua base. Escolha em quem elas atiram."]
+	quest.080A4761EC03CB3A.title: "Torretas"
+	quest.085FA4F6AB212713.quest_desc: [
+		"64 Munições Universais e 1.000 mB de antimatéria no Antiprotonic Nucleosynthesizer do Mekanism."
+		""
+		"Deixe no inventário e as suas armas nunca ficam sem munição."
+	]
+	quest.085FA4F6AB212713.quest_subtitle: "Nunca mais recarregue"
+	quest.085FA4F6AB212713.title: "Munição Infinita"
+	quest.087073041FC23BDF.quest_desc: ["Use um Tree Fluid Extractor numa tora para coletar látex e depois uma Latex Processing Unit para fazer borracha e plástico."]
+	quest.087073041FC23BDF.title: "Látex e Borracha"
+	quest.08B95D749A91FE11.quest_desc: ["As armas são montadas na Bancada de Armas, peça por peça, com um projeto."]
+	quest.08B95D749A91FE11.title: "Bancada de Armas"
+	quest.08E2A3F56540A638.quest_desc: ["Sementes que produzem ferro, cobre, diamantes e quase tudo. Veja as receitas no JEI."]
+	quest.08E2A3F56540A638.title: "Sementes de Recursos"
+	quest.0926DCCC2394955C.quest_desc: ["Com refrigeração a sódio, o reator esquenta o sódio e a Caldeira transforma em vapor para a turbina."]
+	quest.0926DCCC2394955C.title: "Caldeira Termoelétrica"
+	quest.0930D32C225BD4DE.quest_desc: ["Transforma o resíduo Cyanite em Blutonium."]
+	quest.0930D32C225BD4DE.title: "Reprocessador"
+	quest.0936F8B47C88270A.quest_desc: ["Guano e salitre fazem pólvora. O Nitro Powder, para munição avançada, vem dos blocos de química do Scorched Guns."]
+	quest.0936F8B47C88270A.title: "Cadeia da Pólvora"
+	quest.0956AEC1B723D9B1.quest_desc: ["Redstone sem fio: dois links com os mesmos dois itens de frequência conversam entre si."]
+	quest.0956AEC1B723D9B1.title: "Redstone Link"
+	quest.095AC88BF59AA602.quest_desc: ["O metal mais raro do modpack, achado no fundo e no End. É usado nas máquinas de fim de jogo e no Reator Absoluto."]
+	quest.095AC88BF59AA602.title: "Irídio"
+	quest.0961848B9B1B7301.quest_desc: ["O Plant Sower planta e o Plant Gatherer colhe numa área quadrada na frente deles."]
+	quest.0961848B9B1B7301.title: "Fazenda Automática"
+	quest.09BB692E2E43BE31.quest_desc: ["O Fiery Blood da Hidra + ferro fazem Fiery Ingots, para ferramentas que queimam e derretem."]
+	quest.09BB692E2E43BE31.title: "Equipamento Flamejante"
+	quest.09CF696E58DD582A.quest_desc: ["Uma torreta que atira em invasores. Configure para atacar jogadores, mobs ou os dois."]
+	quest.09CF696E58DD582A.title: "Sentinela"
+	quest.0A12638833A2EFDD.quest_desc: ["Um computador programável de verdade dentro do jogo, usando a linguagem Lua. Digite 'help' para começar e 'edit nome' para escrever um programa."]
+	quest.0A12638833A2EFDD.title: "Computador"
+	quest.0A560048A421E1C8.quest_desc: ["Pouse em Glacio, o planeta congelado de outra estrela."]
+	quest.0A560048A421E1C8.title: "Glacio"
+	quest.0A5ADB992DA9C380.quest_desc: ["Queima Fissile Fuel e esquenta o refrigerante. &cPerigo:&r se esquentar demais ele explode e espalha radiação. Mantenha sempre o refrigerante circulando."]
+	quest.0A5ADB992DA9C380.title: "Reator de Fissão"
+	quest.0A87F5A3B1EF2DE4.quest_desc: ["O contrário do motor: transforma rotação em energia FE para os outros mods."]
+	quest.0A87F5A3B1EF2DE4.title: "Alternador"
+	quest.0AA558B88013CAE4.quest_desc: ["Mande itens, fluidos, energia ou canais por um cabo só."]
+	quest.0AA558B88013CAE4.title: "Túneis P2P"
+	quest.0AB79B040C380C39.quest_desc: ["O fim de jogo de energia do MI, com plasma."]
+	quest.0AB79B040C380C39.title: "Reator de Fusão"
+	quest.0AD8A471D63A2484.quest_desc: ["A Enrichment Chamber transforma 1 minério em 2 pós."]
+	quest.0AD8A471D63A2484.title: "Minério x2"
+	quest.0ADD66E510E84A4D.quest_desc: ["Em cima de um Depot, a prensa achata lingotes em chapas. Em cima de uma Basin, ela compacta itens."]
+	quest.0ADD66E510E84A4D.title: "Prensa Mecânica"
+	quest.0B20577E53215770.quest_desc: ["A Calorita vem de Vênus. Ela é usada no foguete mais forte."]
+	quest.0B20577E53215770.title: "Calorita"
+	quest.0B36E0BF246ECCBF.quest_desc: ["Armadura movida a ar, com melhorias como botas a jato e rastreador de entidades."]
+	quest.0B36E0BF246ECCBF.title: "Armadura Pneumática"
+	quest.0B7CF1726E9CEBA6.quest_desc: ["Um chefão máquina na fábrica do Wither."]
+	quest.0B7CF1726E9CEBA6.title: "The Harbinger"
+	quest.0B7D41E2DD138BDD.quest_desc: ["Baús e barris que podem ser melhorados no lugar, sem esvaziar."]
+	quest.0B7D41E2DD138BDD.title: "Baús Sofisticados"
+	quest.0B8FDDD02A8DD2DB.quest_desc: ["Um baú que só abre com o código."]
+	quest.0B8FDDD02A8DD2DB.title: "Baú com Senha"
+	quest.0BD66A821CAF1F2F.quest_desc: ["Crafts \\& Additions: o Motor Elétrico transforma energia FE em rotação."]
+	quest.0BD66A821CAF1F2F.title: "Motor Elétrico"
+	quest.0C04F32D1B87C254.quest_desc: ["Os Laser Nodes movem itens, fluidos e energia sem fio. Ligue com a Laser Wrench e coloque cartões em cada lado."]
+	quest.0C04F32D1B87C254.title: "Laser IO"
+	quest.0C0ABC22ECA19244.quest_desc: ["O sistema de armazenamento do Occultism, controlado por espíritos."]
+	quest.0C0ABC22ECA19244.title: "Armazenamento Mágico"
+	quest.0C22372D6F4A82DA.quest_desc: ["Hellshelves, Seashelves e muitas outras. Cada uma muda os atributos da mesa de um jeito."]
+	quest.0C22372D6F4A82DA.title: "Estantes Especiais"
+	quest.0C363DA8FF913182.quest_desc: ["Carregado com redstone, ele duplica itens na bancada."]
+	quest.0C363DA8FF913182.title: "Alkahestry Tome"
+	quest.0C4E30EB0693329A.quest_desc: ["A Midas Touchstone conserta equipamento de ouro com glowstone. O Destruction Catalyst abre um túnel com pólvora."]
+	quest.0C4E30EB0693329A.title: "Midas e Destruição"
+	quest.0CC24E479348B22B.quest_desc: ["As Blazes vivem nas Fortalezas do Nether. As varas delas fazem Pó de Blaze e Olhos do Ender."]
+	quest.0CC24E479348B22B.title: "Varas de Blaze"
+	quest.0CCD50D3EEC3F010.quest_desc: ["As abelhas produzem favos nela. Os favos vão na Centrífuga para dar recursos."]
+	quest.0CCD50D3EEC3F010.title: "Colmeia Avançada"
+	quest.0D5DBEF559A76CA1.quest_desc: ["Cada célula guarda uma quantidade de tipos de item. Células maiores guardam mais."]
+	quest.0D5DBEF559A76CA1.title: "Células de Armazenamento"
+	quest.0D6925A22309E6B5.quest_desc: ["O Angelheart Vial salva você da morte uma vez. A Phoenix Down salva sempre, gastando Angelic Feathers."]
+	quest.0D6925A22309E6B5.title: "Segundas Chances"
+	quest.0D824B47A905FF03.quest_desc: ["Mostra as estruturas de chefões da Floresta do Crepúsculo como ícones."]
+	quest.0D824B47A905FF03.title: "Mapa Mágico"
+	quest.0D954CA1839BDD86.quest_desc: ["Usa Source para transformar gemas em Source Gems e essências."]
+	quest.0D954CA1839BDD86.title: "Imbuement Chamber"
+	quest.0DF29EA93BEED4CA.quest_desc: ["Uma gaveta guarda muitos packs de um item só. Botão direito guarda, botão esquerdo tira."]
+	quest.0DF29EA93BEED4CA.title: "Gavetas"
+	quest.0DF60946306ACF6D.quest_desc: ["O EvilCraft gira em torno de sangue. As Dark Gems ficam no subsolo."]
+	quest.0DF60946306ACF6D.title: "Dark Gems"
+	quest.0DF99E66CA86582F.quest_desc: ["Minere obsidiana com uma picareta de diamante, monte uma moldura de 4 x 5 e acenda com isqueiro."]
+	quest.0DF99E66CA86582F.title: "Rumo ao Nether"
+	quest.0E3DD50439F9146F.quest_desc: ["Baús ligados por frequência, públicos ou privados, entre dimensões."]
+	quest.0E3DD50439F9146F.title: "Baú Dimensional"
+	quest.0E9605910C70FF76.quest_desc: ["Grave um feitiço nelas na Mesa do Escriba: ele é lançado quando você acerta ou atira."]
+	quest.0E9605910C70FF76.title: "Armas de Feitiço"
+	quest.0EC340D1B59E24CF.quest_desc: ["Estabilizadores apontando para o Storage Actuator dão mais espaços. O Storage Remote abre de qualquer lugar."]
+	quest.0EC340D1B59E24CF.title: "Mais Armazenamento"
+	quest.0EE15390D6254E80.quest_desc: ["Mata mobs numa área de 7 x 7 na frente dele usando energia."]
+	quest.0EE15390D6254E80.title: "Mob Grinder"
+	quest.0EF465D618223790.quest_desc: ["O Apotheosis muda a mesa de encantamento: as estantes dão Eterna, Quanta e Arcana, mostrados na mesa. Estantes melhores dão encantamentos melhores."]
+	quest.0EF465D618223790.title: "Encantamento Melhor"
+	quest.0F0FCABB1D160A13.quest_desc: ["Borracha seca derretida em plástico."]
+	quest.0F0FCABB1D160A13.title: "Plástico"
+	quest.0F383DA4C4BAC51E.quest_desc: ["O segundo nível de núcleos e equipamentos."]
+	quest.0F383DA4C4BAC51E.title: "Núcleo Wyvern"
+	quest.0F45F282C922FE42.quest_desc: ["Defina um código. Digitar dá um sinal de redstone, para abrir uma porta reforçada."]
+	quest.0F45F282C922FE42.title: "Teclado"
+	quest.0F4BDDF5FE9ACFFA.quest_desc: ["Faz Quantum Infused Dust e Quantum Alloy com muita energia."]
+	quest.0F4BDDF5FE9ACFFA.title: "Reaction Chamber"
+	quest.0F7242E83EDFCD46.quest_desc: ["Um aldeão fazendeiro dentro planta e colhe para você."]
+	quest.0F7242E83EDFCD46.title: "Fazendeiro"
+	quest.0FB3C95D251B49C6.quest_desc: ["Corta toras em tábuas e blocos em lajes. De frente para uma árvore, derruba a árvore inteira."]
+	quest.0FB3C95D251B49C6.title: "Serra Mecânica"
+	quest.0FE0108866D5460E.quest_desc: ["A base das máquinas do RFTools."]
+	quest.0FE0108866D5460E.title: "Moldura de Máquina"
+	quest.10020F046B30E4B5.quest_desc: ["O Ender IO começa pelo Alloy Smelter: Electrical Steel, Energetic Alloy, Vibrant Alloy e mais."]
+	quest.10020F046B30E4B5.title: "Alloy Smelter"
+	quest.10467721C777096D.quest_desc: ["Versões de ouro com cores e suporte a mouse."]
+	quest.10467721C777096D.title: "Avançados"
+	quest.105E782A88391757.quest_desc: ["A Fundição faz ligas e a Centrífuga separa materiais."]
+	quest.105E782A88391757.title: "Fundição e Centrífuga"
+	quest.106F21EAFEA9744F.quest_desc: ["Os diamantes ficam bem fundo, abaixo da camada 0. Use uma picareta de ferro para minerar."]
+	quest.106F21EAFEA9744F.title: "Diamantes!"
+	quest.10BA7B37A68F131C.quest_desc: ["Remove chunks inteiros de uma vez. O Pump Module também drena fluidos."]
+	quest.10BA7B37A68F131C.title: "Chunk Destroyer"
+	quest.10BF2DBC1B3E0587.quest_desc: ["O Import Bus puxa itens para a rede, o Export Bus manda para fora, e o Storage Bus faz um baú virar parte da rede."]
+	quest.10BF2DBC1B3E0587.title: "Barramentos"
+	quest.1145E21CF1CC6803.quest_desc: ["O Manometer mostra a pressão e a temperatura de tudo em que você clicar."]
+	quest.1145E21CF1CC6803.title: "Medindo a Pressão"
+	quest.122217D277A3A056.quest_desc: ["O Create Propulsion adiciona propulsores que queimam combustível e asas que dão sustentação em velocidade."]
+	quest.122217D277A3A056.title: "Propulsão"
+	quest.1228FA5A346AF83D.quest_desc: ["Compacte 9 The Absolute numa Basin do Create com uma Mechanical Press, em cima de uma Blaze Burner superaquecida (alimentada com Blaze Cake)."]
+	quest.1228FA5A346AF83D.title: "Bloco Absoluto"
+	quest.1296DD671A1A32E8.quest_desc: ["9 Lingotes de Insanium. Dois destes vão no The Absolute."]
+	quest.1296DD671A1A32E8.title: "Bloco de Insanium"
+	quest.12A9029BD5D017C6.quest_desc: ["O mundo tem centenas de biomas novos. Use a Bússola da Natureza para achar o que você quer."]
+	quest.12A9029BD5D017C6.title: "Biomas Novos"
+	quest.1303F35C26271B1A.quest_desc: ["Quantum Computer, Reaction Chamber e o Quantum Processor, usado no The Absolute."]
+	quest.1303F35C26271B1A.title: "&5Advanced AE"
+	quest.13193A95413C4480.quest_desc: ["Do Ender Guardian. Bloqueia ataques e puxa os inimigos."]
+	quest.13193A95413C4480.title: "Gauntlet of Guard"
+	quest.1329FB467F867E2C.quest_desc: ["Mahou Tsukai: magia do mundo dos animes. Você aprende magias por contratos, e a mana cresce conforme você usa."]
+	quest.1329FB467F867E2C.title: "Mahou Tsukai"
+	quest.134DF8ACA2446769.quest_desc: ["O Agronomic faz Source com plantações crescendo, o Mycelial com comida, o Vitalic com mobs morrendo e se reproduzindo por perto."]
+	quest.134DF8ACA2446769.title: "Mais Sourcelinks"
+	quest.137DE7BB1E5E3977.quest_desc: [
+		"O Immersive Engineering monta máquinas grandes de vários blocos: coloque os blocos no formato certo e bata no centro com o martelo."
+		"O Engineer's Manual mostra cada estrutura."
+	]
+	quest.137DE7BB1E5E3977.title: "Martelo de Engenheiro"
+	quest.13B9AE5880BFA0EB.quest_desc: ["Células de armazenamento de até 256M bytes."]
+	quest.13B9AE5880BFA0EB.title: "MEGA Cells"
+	quest.13BB57FA98DAAE67.quest_desc: ["Mais máquinas e ferramentas do MI, de motosserras a vapor até armaduras Nano e Quantum."]
+	quest.13BB57FA98DAAE67.title: "Extended Industrialization"
+	quest.13C07AAD5A115F77.quest_desc: ["Mantém chunks carregados. Também é ingrediente do Controlador Dimensional."]
+	quest.13C07AAD5A115F77.title: "Estabilizador Dimensional"
+	quest.13C1B386D821E5E6.quest_desc: ["Queima hidrogênio ou eteno. O eteno da Pressurized Reaction Chamber dá muita energia."]
+	quest.13C1B386D821E5E6.title: "Gerador a Gás"
+	quest.13DA1F9CECA4863A.quest_desc: ["Toda máquina e estrutura é explicada aqui, com uma visão 3D de cada uma."]
+	quest.13DA1F9CECA4863A.title: "Manual do Engenheiro"
+	quest.141A81DC794BBF33.quest_desc: ["Captura um mob e solta em outro lugar."]
+	quest.141A81DC794BBF33.title: "Quantum Catcher"
+	quest.1441A4ECD54D7AF3.quest_desc: ["Crescem em cima de um Nether Star Crux. Chega de lutar com o Wither."]
+	quest.1441A4ECD54D7AF3.title: "Sementes de Estrela do Nether"
+	quest.148607339618480B.quest_desc: ["Usado no Invar e no Constantan, e em muitas molduras de máquinas."]
+	quest.148607339618480B.title: "Níquel"
+	quest.14FCB36BAD588AA5.quest_desc: ["A Mob Slaughter Factory mata mobs e dá Meat líquida e Pink Slime."]
+	quest.14FCB36BAD588AA5.title: "Pink Slime"
+	quest.152343866ECEB36E.quest_desc: ["Tomates, repolho, cebola e arroz. Ache selvagens ou em baús de vilas. O arroz cresce na água."]
+	quest.152343866ECEB36E.title: "Novas Plantações"
+	quest.15E70DA0837014D6.quest_desc: ["Coloque uma tábua de ritual no Ritual Brazier e ative: voo, anoitecer, mudar o clima, teletransporte e mais."]
+	quest.15E70DA0837014D6.title: "Rituais"
+	quest.15F02DB9CB176DA5.quest_desc: ["Em cima de uma Colmeia Avançada: mais abelhas e espaços de melhoria."]
+	quest.15F02DB9CB176DA5.title: "Caixa de Expansão"
+	quest.16183BCF2E3899C9.quest_desc: ["Coloque melhorias na ponta do cano para mover mais, mais rápido, e para filtrar o que passa."]
+	quest.16183BCF2E3899C9.title: "Melhorias de Cano"
+	quest.162D7A727AEDCBEB.quest_desc: ["Os espíritos mais altos. As essências deles fazem as melhores ferramentas e o minerador de minérios raros."]
+	quest.162D7A727AEDCBEB.title: "Afrit e Marid"
+	quest.167B69F7D099B90F.quest_desc: ["Pesque baús Neptune's Bounty para achar Netúnio, para o melhor equipamento de pesca e armadura aquática."]
+	quest.167B69F7D099B90F.title: "Netúnio"
+	quest.169D0F28F628B618.quest_desc: ["Ósmio infundido com redstone. Toda máquina do Mekanism precisa de circuitos."]
+	quest.169D0F28F628B618.title: "Circuitos de Controle"
+	quest.171F80AB064BEF9F.quest_desc: ["Cobre + zinco fazem latão, o coração do Create."]
+	quest.171F80AB064BEF9F.title: "Zinco"
+	quest.172C5D9B334EC305.quest_desc: ["Melhore a mochila na bancada com ferro, ouro, diamante e netherite. Nada do que está dentro se perde."]
+	quest.172C5D9B334EC305.title: "Mochilas Maiores"
+	quest.172FC8830AA5934A.quest_desc: ["Equipamento com espaços de módulos. Abra (agache + clique) e coloque módulos: escudo, velocidade, dano, voo."]
+	quest.172FC8830AA5934A.title: "Equipamento Wyvern"
+	quest.178C819CF2C51AFA.quest_desc: ["Tudo que entra é apagado. Ótima no fim de uma linha de produção."]
+	quest.178C819CF2C51AFA.title: "Lixeira"
+	quest.1798208D9C6ECF9D.quest_desc: [
+		"O Ad Astra leva você ao espaço: a Lua, Marte, Vênus, Mercúrio e o planeta congelado Glacio."
+		""
+		"Tudo começa pelo Compressor, que transforma lingotes em placas."
+	]
+	quest.1798208D9C6ECF9D.quest_subtitle: "Ad Astra"
+	quest.1798208D9C6ECF9D.title: "Rumo às Estrelas"
+	quest.179B15C41FC05B0B.quest_desc: ["Pesquise e instale aumentos em você: mais vida, velocidade, voo e mais."]
+	quest.179B15C41FC05B0B.title: "Aumentos"
+	quest.17BA697BF194E216.quest_desc: ["Ferro comprimido na Pressure Chamber (ou explodido com TNT no começo). A base do mod."]
+	quest.17BA697BF194E216.title: "Ferro Comprimido"
+	quest.17C3EF9264DB33D8.quest_desc: ["Queima combustível para energia."]
+	quest.17C3EF9264DB33D8.title: "Gerador"
+	quest.17EBAA1B51D33D60.quest_desc: ["Forte o bastante para chegar a Marte."]
+	quest.17EBAA1B51D33D60.title: "Foguete Nível 2"
+	quest.17F5C06957D04B81.quest_desc: ["Faz aço. As máquinas do MI ficam melhores com aço."]
+	quest.17F5C06957D04B81.title: "Alto-Forno a Vapor"
+	quest.17FDADFF14051C49.quest_desc: ["Desmonta ferramentas de volta em peças."]
+	quest.17FDADFF14051C49.title: "Salvager"
+	quest.1845F5F95E9415AF.quest_desc: ["Os funis colocam e tiram itens de máquinas e baús. Os dutos derrubam itens para baixo."]
+	quest.1845F5F95E9415AF.title: "Funis e Dutos"
+	quest.186FBC04CBBE50F0.quest_desc: ["O MI começa com vapor. O Forge Hammer transforma minérios em pós e lingotes em placas."]
+	quest.186FBC04CBBE50F0.title: "Forge Hammer"
+	quest.187A9DC82B0163EC.quest_desc: ["Para morar em outro planeta: o Oxygen Distributor enche uma sala fechada de ar, o Gravity Normalizer corrige a gravidade e os Solar Panels dão energia."]
+	quest.187A9DC82B0163EC.title: "Base Espacial"
+	quest.1897BEB996D951F4.quest_desc: ["O Silent Gems adiciona gemas de muitas cores, usadas no Silent Gear e como decoração."]
+	quest.1897BEB996D951F4.title: "Silent Gems"
+	quest.18E86E0E4C54E3D1.quest_desc: ["As Waystones ficam nas vilas. Clique para registrar e depois teleporte entre elas com uma Warp Stone."]
+	quest.18E86E0E4C54E3D1.title: "Waystones"
+	quest.191A44BFAF231CD3.quest_desc: ["Carregue pela culatra: primeiro as cargas de pólvora, depois o projétil. Atire com redstone."]
+	quest.191A44BFAF231CD3.title: "Carregando"
+	quest.197CBAE501E89228.quest_desc: ["As Relíquias sobem de nível conforme você usa. Cada nível deixa as habilidades mais fortes."]
+	quest.197CBAE501E89228.title: "Relíquias"
+	quest.19968F7D2B9773E4.quest_desc: ["Reage um item, um fluido e um gás. Faz substrato, eteno, plástico HDPE e, mais tarde, as Balas Radioativas."]
+	quest.19968F7D2B9773E4.title: "Pressurized Reaction Chamber"
+	quest.19B0F95F524B3FEA.quest_desc: ["Estende uma parede ou chão de blocos com um clique, usando os blocos do inventário."]
+	quest.19B0F95F524B3FEA.title: "Bastão de Construção"
+	quest.19B8C7C90FC0F1FA.quest_desc: ["Coloque um modo (cubo, esfera, domo) no meio e Scale Modules em volta para criar um campo de força daquele formato."]
+	quest.19B8C7C90FC0F1FA.title: "Projetor"
+	quest.1A0AE279F723599A.quest_desc: ["As Ender Cells e os Gates compartilham energia num canal pelo mundo."]
+	quest.1A0AE279F723599A.title: "Rede Ender"
+	quest.1A2ACF5B89989666.quest_desc: ["O segundo nível de circuito. Cada nível libera máquinas melhores."]
+	quest.1A2ACF5B89989666.title: "Circuito Eletrônico"
+	quest.1A525214C614364B.quest_desc: ["Um revólver personalizável, feito na Engineer's Workbench."]
+	quest.1A525214C614364B.title: "Revólver"
+	quest.1A839C9D75223C9D.quest_desc: ["Funciona como a Bússola do Explorador, mas encontra biomas."]
+	quest.1A839C9D75223C9D.title: "Bússola da Natureza"
+	quest.1AAD4C85A62866E8.quest_desc: ["Faça uma picareta de madeira, minere pedra e passe para uma picareta de pedra."]
+	quest.1AAD4C85A62866E8.title: "Idade da Pedra"
+	quest.1ABE77E1EC7CCD4A.quest_desc: ["Uma caixa oca de Reactor Casing com um controlador, barras de combustível dentro e um Power Tap. O tamanho é você quem escolhe: reatores maiores são mais eficientes."]
+	quest.1ABE77E1EC7CCD4A.title: "Reator"
+	quest.1ACDF21370FE8285.quest_desc: ["Com oxigênio, a Purification Chamber transforma 1 minério em 3 clumps."]
+	quest.1ACDF21370FE8285.title: "Minério x3"
+	quest.1AE14A52887D0987.quest_desc: ["Gira os favos em cera, mel e o recurso do favo. A Powered Centrifuge é mais rápida."]
+	quest.1AE14A52887D0987.title: "Centrífuga"
+	quest.1AEBCA4BBE7A0F45.quest_desc: ["O reator nuclear do MI. Ele faz plutônio e Tritium, necessários para a Munição Universal e o The Absolute."]
+	quest.1AEBCA4BBE7A0F45.title: "Reator Nuclear"
+	quest.1B03221F24D913C6.quest_desc: ["Mais glifos por feitiço e mais mana."]
+	quest.1B03221F24D913C6.title: "Livro de Aprendiz"
+	quest.1B0954A9A4FA42CD.quest_desc: ["Block Breaker, Block Placer e Clicker: blocos pequenos que fazem uma tarefa, com filtros e controle por redstone."]
+	quest.1B0954A9A4FA42CD.title: "Máquinas Simples"
+	quest.1B336C9360ABF5CF.quest_desc: ["Coloque um cristal no Empowerer e os itens certos em 4 Display Stands em volta."]
+	quest.1B336C9360ABF5CF.title: "Cristais Potencializados"
+	quest.1B626AA8DB940792.quest_desc: ["Feito com Dragon Heart ou na Fusion Crafting. Necessário para os equipamentos dracônicos."]
+	quest.1B626AA8DB940792.title: "Dracônio Desperto"
+	quest.1B75C839A8FB5AEC.quest_desc: ["Um material de ritual da forja para os níveis mais altos."]
+	quest.1B75C839A8FB5AEC.title: "Matéria Escura"
+	quest.1BC9E8C9D907D2B8.quest_desc: ["Uma estrutura oca de Induction Casing com células e providers dentro. Guarda uma quantidade enorme de energia."]
+	quest.1BC9E8C9D907D2B8.title: "Induction Matrix"
+	quest.1BD9A063A44F1726.quest_desc: ["Mate mobs com a Soulium Dagger e um Soul Jar vazio no inventário. As sementes de mobs (zumbi, blaze, esqueleto wither) precisam de almas."]
+	quest.1BD9A063A44F1726.title: "Almas"
+	quest.1C18C27400E18199.quest_desc: ["Lançam um feitiço a partir de um bloco com redstone. Automatize fazendas, quebra e colocação com magia."]
+	quest.1C18C27400E18199.title: "Torres de Feitiço"
+	quest.1C322A49693F06F5.quest_desc: ["Shock machuca quem encosta no campo, Camouflage disfarça, Fusion junta campos."]
+	quest.1C322A49693F06F5.title: "Módulos"
+	quest.1C78265376523E66.quest_desc: ["A espada do Ignis. Segure o botão direito para chamar um pilar de fogo."]
+	quest.1C78265376523E66.title: "The Incinerator"
+	quest.1C8D7BD9C9B89C78.quest_desc: ["O Mekanism gira em torno do ósmio. Minere e derreta."]
+	quest.1C8D7BD9C9B89C78.title: "Ósmio"
+	quest.1CB766C921F25BCC.quest_desc: ["Aprenda um feitiço usando o pergaminho dele. Existem pergaminhos de olhos, barreiras, projeção, deslocamento e mais."]
+	quest.1CB766C921F25BCC.title: "Pergaminhos de Feitiço"
+	quest.1CC6E8013527FBFB.quest_desc: ["Derreta carvão em grafite, usado nas barras de combustível e nos cascos."]
+	quest.1CC6E8013527FBFB.title: "Grafite"
+	quest.1CE31E0EB9CF8E5E.quest_desc: ["Reprocesse o resíduo do reator (Cyanite) em Blutonium, um combustível melhor."]
+	quest.1CE31E0EB9CF8E5E.title: "Blutonium"
+	quest.1CF02D0C694D53C9.quest_desc: ["As molduras Simple, Advanced e Supreme são feitas na Dissolution Chamber com Pink Slime e Ether Gas."]
+	quest.1CF02D0C694D53C9.title: "Molduras Melhores"
+	quest.1D385329A87A27E0.quest_desc: ["O Awakening Altar com 4 Essence Vessels (essências de ar, terra, água e fogo) faz o Awakened Supremium."]
+	quest.1D385329A87A27E0.title: "Despertar"
+	quest.1D5A172C69AFA9AF.quest_desc: ["Coloque encostado nas gavetas: tudo que entra no controlador vai para a gaveta certa."]
+	quest.1D5A172C69AFA9AF.title: "Controlador de Gavetas"
+	quest.1D6B0830E6035EFB.quest_desc: ["Molduras de todo formato (rampas, escadas, painéis) que pegam a textura do bloco com que você clicar."]
+	quest.1D6B0830E6035EFB.title: "Framed Blocks"
+	quest.1D80002253C7728A.quest_desc: ["Farmer para plantações, Canning Machine para encher itens com fluidos e Brewery para poções."]
+	quest.1D80002253C7728A.title: "Máquinas do EI"
+	quest.1DA0A6DCB2221898.quest_desc: ["Ache as Catacumbas do Undergarden e derrote o Forgotten Guardian para conseguir o Forgotten Metal."]
+	quest.1DA0A6DCB2221898.title: "Forgotten Guardian"
+	quest.1DBDE7F28E6220D6.quest_desc: ["Durma em qualquer lugar sem mudar o seu ponto de renascimento."]
+	quest.1DBDE7F28E6220D6.title: "Saco de Dormir"
+	quest.1DD37AB815E21D38.quest_desc: ["Um escudo que absorve quase todo dano, além de módulos de voo e mais."]
+	quest.1DD37AB815E21D38.title: "Armadura Dracônica"
+	quest.1DDA8CC6A8537E36.quest_desc: ["Segure o botão direito sobre as plantações para crescerem mais rápido."]
+	quest.1DDA8CC6A8537E36.title: "Regador"
+	quest.1E0CCC1B12E3E583.quest_desc: [
+		"Munição Universal irradiada na Pressurized Reaction Chamber do Mekanism, com Água Pesada e Polônio."
+		""
+		"Ela deixa Lixo Nuclear Gasto para trás. Tenha onde guardar."
+	]
+	quest.1E0CCC1B12E3E583.title: "Bala Radioativa"
+	quest.1E5334D183C76C5A.quest_desc: ["Vive no Pântano de Fogo. Acerte as cabeças quando estão de boca aberta; matar uma cabeça faz nascer duas, então continue batendo até o corpo morrer."]
+	quest.1E5334D183C76C5A.title: "A Hidra"
+	quest.1E65D0D27186F6C2.quest_desc: ["Conserta os itens dentro usando sangue."]
+	quest.1E65D0D27186F6C2.title: "Blood Chest"
+	quest.1E86F2D0D4D7970D.quest_desc: ["Mantém um estoque de itens disponível para as máquinas e aceita tudo o que entra."]
+	quest.1E86F2D0D4D7970D.title: "ME Interface"
+	quest.1E88E432C0601BA2.quest_desc: ["Uma plataforma levantada por pressão de ar."]
+	quest.1E88E432C0601BA2.title: "Elevador"
+	quest.1EC18D43765AA9E7.quest_desc: ["CBC Advanced Technologies: lançadores de foguetes, autocanhões pesados e mais projéteis."]
+	quest.1EC18D43765AA9E7.title: "Lançadores de Foguetes"
+	quest.1EE2A9E45EB8E01C.quest_desc: ["Esteiras rápidas com melhorias para inserir, extrair e separar."]
+	quest.1EE2A9E45EB8E01C.title: "Esteiras"
+	quest.1EE7531E13909628.quest_desc: ["O armazenamento digital do Mekanism: QIO Drives num Drive Array, acessados pelo Dashboard na mesma frequência."]
+	quest.1EE7531E13909628.title: "QIO"
+	quest.1EFE01EFB8ABEDA4.quest_desc: ["Árvores mágicas de quatro cores espalhadas pelo mundo. A madeira delas faz a maioria dos blocos do Ars."]
+	quest.1EFE01EFB8ABEDA4.title: "Archwood"
+	quest.1F150497B86D5686.quest_desc: ["Uma caixa de Reactor Walls com barras, ventilações e refletores dentro. O arranjo decide a potência."]
+	quest.1F150497B86D5686.title: "Reator do Oritech"
+	quest.1F256F23F468F2B3.quest_desc: ["Controlador + ME Drive com células de armazenamento + Terminal: todos os itens numa tela com busca. Ligue com cabos ME."]
+	quest.1F256F23F468F2B3.title: "Rede ME"
+	quest.1F664EA1F6E51A31.quest_desc: ["Tábuas mergulhadas em creosoto. Usadas em postes, moinhos e muitas máquinas."]
+	quest.1F664EA1F6E51A31.title: "Madeira Tratada"
+	quest.1F81C36BBB0EBBEF.quest_desc: ["Guarde o Source do Ars Nouveau na rede ME."]
+	quest.1F81C36BBB0EBBEF.title: "Ars Énergistique"
+	quest.1F958A9DEDF90B1A.quest_desc: ["Transforma sementes sobrando de volta em essência."]
+	quest.1F958A9DEDF90B1A.title: "Seed Reprocessor"
+	quest.1FB9A9CB953A595B.quest_desc: ["Algumas abelhas são feitas clicando numa abelha com um item. É assim que nasce a Abelha Absoluta."]
+	quest.1FB9A9CB953A595B.title: "Conversão"
+	quest.202D0CD17A09147E.quest_desc: ["Capture um mob com a Mob Imprisonment Tool e o Duplicator cria cópias usando Essence."]
+	quest.202D0CD17A09147E.title: "Duplicador de Mobs"
+	quest.2046CB4E5F506EAF.quest_desc: ["Agache + clique num lado da máquina para mudar o que entra ou sai. Também faz os canos puxarem ou empurrarem."]
+	quest.2046CB4E5F506EAF.title: "Configurator"
+	quest.20A6D650303DE59B.quest_desc: ["Create Diesel Generators: motores que queimam combustível para dar rotação. Diesel e gasolina vêm do petróleo."]
+	quest.20A6D650303DE59B.title: "Motor a Diesel"
+	quest.20B5EAAA47F09DCF.quest_desc: ["Os drones levam itens entre baús marcados com Logistics Frames."]
+	quest.20B5EAAA47F09DCF.title: "Drones de Logística"
+	quest.20CE31DE33AFD289.quest_desc: ["Passe o swab num mob, faça Chicken Feed com ele, e o ovo que a galinha bota vai no Entity Spawner."]
+	quest.20CE31DE33AFD289.title: "Entity Spawner"
+	quest.21509A8F0BBF052E.quest_desc: ["Salva uma área e volta ela àquele estado usando Fluido do Tempo."]
+	quest.21509A8F0BBF052E.title: "Paradox Machine"
+	quest.2167D1F83874A004.quest_desc: ["Os computadores conversam entre si e controlam máquinas por modems."]
+	quest.2167D1F83874A004.title: "Modems"
+	quest.21935FFAC57CF247.quest_desc: ["Extraia petróleo e separe na Distillation Tower em combustíveis e químicos."]
+	quest.21935FFAC57CF247.title: "Petróleo"
+	quest.21990A5E6A3DFC56.quest_desc: ["Pouse em Marte. Cuidado com os Martian Raptors."]
+	quest.21990A5E6A3DFC56.title: "O Planeta Vermelho"
+	quest.21AF27D68F78DE5E.quest_desc: [
+		"A receita do The Absolute gasta 3.500.000 FE a cada tick, durante 10 minutos."
+		""
+		"Se a energia faltar num único tick, a receita para e recomeça. Um Draconic Reactor alimentando um Draconic Energy Core é o jeito mais seguro."
+	]
+	quest.21AF27D68F78DE5E.title: "3,5 Milhões de FE por Tick"
+	quest.21C802F99746574C.quest_desc: ["As melhorias de produtividade, tempo e reprodução deixam as colmeias muito melhores."]
+	quest.21C802F99746574C.title: "Melhorias de Colmeia"
+	quest.21CDB88FA1606EE8.quest_desc: ["O livro guia do EvilCraft."]
+	quest.21CDB88FA1606EE8.title: "Origins of Darkness"
+	quest.21DD095FD73ADD0B.quest_desc: ["Copia, move, escava ou limpa áreas definidas por um Shape Card."]
+	quest.21DD095FD73ADD0B.title: "Builder"
+	quest.2202CED9BB1CE606.quest_desc: ["Um radar giratório que mostra mobs, jogadores e veículos num Monitor. Ele pode mirar os Big Cannons sozinho."]
+	quest.2202CED9BB1CE606.title: "Create Radar"
+	quest.2207B81C8DCCFE0C.quest_desc: ["Chefões com nome nascem no escuro com equipamento cheio de afixos. O Boss Summoner invoca um."]
+	quest.2207B81C8DCCFE0C.title: "Chefões do Apotheosis"
+	quest.222A212F696C6BCC.quest_desc: ["Armas movidas a ar que disparam Gun Ammo."]
+	quest.222A212F696C6BCC.title: "Minigun e Torreta"
+	quest.224AF4B108107842.quest_desc: ["O composto num bloco de Organic Compost vira Solo Rico, que faz as plantações crescerem mais rápido."]
+	quest.224AF4B108107842.title: "Solo Rico"
+	quest.2270E907FFBA1DBC.quest_desc: ["Canos simples para itens, fluidos e energia. Clique na ponta do cano com uma Wrench para extrair."]
+	quest.2270E907FFBA1DBC.title: "Pipez"
+	quest.229A40906A1344CB.quest_desc: ["O guia do próprio mod. Todo glifo, ritual e máquina está explicado dentro."]
+	quest.229A40906A1344CB.title: "Worn Notebook"
+	quest.22C907FB180117FA.quest_desc: ["Coleta os itens caídos numa área e coloca no baú em que está preso."]
+	quest.22C907FB180117FA.title: "Coletor de Itens"
+	quest.2315139F25894CDB.quest_desc: ["Deeper and Darker: dentro de uma Cidade Antiga, ative o portal com um Heart of the Deep, que cai do Warden."]
+	quest.2315139F25894CDB.title: "O Outro Lado"
+	quest.23249FD703CDEFB2.quest_desc: ["Uma fonte de calor limpa para panelas e frigideiras."]
+	quest.23249FD703CDEFB2.title: "Fogão"
+	quest.234C4B9CFC23A1AB.quest_desc: ["Facas cortam comida na Tábua de Corte e conseguem mais itens dos animais."]
+	quest.234C4B9CFC23A1AB.title: "Faca"
+	quest.2383EE3E43D934FA.quest_desc: ["Os Artefatos ficam em baús de masmorras e nos Mimics (baús falsos!). Cada um dá um bônus. Use nos espaços do Curios (tecla G)."]
+	quest.2383EE3E43D934FA.title: "Artefatos"
+	quest.239FB9DBECD6E885.quest_desc: ["Monte um molde de areia, despeje metal derretido de uma Basin e espere esfriar. Depois, fure o cano com uma broca num torno."]
+	quest.239FB9DBECD6E885.title: "Fundição"
+	quest.23CD098900F6BB28.quest_desc: [
+		"Montada na Mechanical Crafter do Create, com Antimatéria, Wyvern Cores, o Manhattan Module, Frascos Radioativos e mais."
+		""
+		"Use com cuidado: ela destrói tudo em volta do alvo. Ela também é o coração do The Absolute."
+	]
+	quest.23CD098900F6BB28.quest_subtitle: "1.500 TNTs de uma vez"
+	quest.23CD098900F6BB28.title: "&cBomba Atômica"
+	quest.23E3D38ABB0CB10E.quest_desc: ["Constrói qualquer esquema bloco por bloco, atirando de um canhão. Dê blocos e pólvora."]
+	quest.23E3D38ABB0CB10E.title: "Schematicannon"
+	quest.246FB098B2506DD2.quest_desc: ["Pouse em Mercúrio, o planeta mais perto do Sol."]
+	quest.246FB098B2506DD2.title: "Mercúrio"
+	quest.247B197EA3B6D454.quest_desc: ["Ferramentas e armaduras com melhorias. Aplique as melhorias numa bigorna."]
+	quest.247B197EA3B6D454.title: "Equipamento Dark Steel"
+	quest.248094CF90622845.quest_desc: ["Ligas e capacitores superiores, até a Stellar Alloy."]
+	quest.248094CF90622845.title: "Endergy"
+	quest.24909AB0A77260ED.quest_desc: ["Os filtros escolhem quais itens passam. Os Brass Tunnels dividem e separam itens entre esteiras."]
+	quest.24909AB0A77260ED.title: "Filtros e Túneis"
+	quest.24FF75BABB4097A9.quest_desc: ["Pega itens de um lugar e coloca em outro. Segure o braço e clique nas entradas e saídas antes de colocar."]
+	quest.24FF75BABB4097A9.title: "Braço Mecânico"
+	quest.25026A8E0FF9841A.quest_desc: ["Um jetpack e uma motosserra movidos a diesel."]
+	quest.25026A8E0FF9841A.title: "Ferramentas a Diesel"
+	quest.25755583B1778176.quest_desc: ["Plante as sementes Demon's Dream. Comer a fruta deixa você ver os blocos do Outro Mundo."]
+	quest.25755583B1778176.title: "Sonho do Demônio"
+	quest.26025739061C7E64.quest_desc: ["Tanques de fluido, tanques químicos para gases, e Bins para quantidades enormes de um item."]
+	quest.26025739061C7E64.title: "Tanques e Bins"
+	quest.26573E81C750356A.quest_desc: ["Espíritos mais fortes precisam de pentáculos maiores com cores novas de giz."]
+	quest.26573E81C750356A.title: "Djinni"
+	quest.2669311769FCBB6B.quest_desc: ["Jetpacks em vários níveis, de madeira a netherite. Cada um precisa de célula, propulsor, alça e energia."]
+	quest.2669311769FCBB6B.title: "Iron Jetpacks"
+	quest.26CFD1FBC47BAA98.quest_desc: ["Teleporte curtas distâncias para onde você olha, e entre Travel Anchors."]
+	quest.26CFD1FBC47BAA98.title: "Staff of Travelling"
+	quest.26E28CA52BBCF7C4.quest_desc: ["O Harvester colhe as plantações em volta. O Interdiction impede mobs escolhidos de nascer no chunk. O Infusion dá efeitos de poção."]
+	quest.26E28CA52BBCF7C4.title: "Pylons"
+	quest.26E9C43F34082DD1.quest_desc: ["Ferramentas com habilidades que você liga e desliga no menu delas."]
+	quest.26E9C43F34082DD1.title: "Ferramentas de Ferricore"
+	quest.26EA9230903A63BB.quest_desc: ["Um router faz o que os módulos mandam: enviar, puxar, colocar, quebrar, encher tanques e mais."]
+	quest.26EA9230903A63BB.title: "Modular Routers"
+	quest.2715CDB3229ABE2F.quest_desc: [
+		"Cai do Ignited Revenant (L_Ender's Cataclysm), com 50% de chance."
+		""
+		"É usado no ritual do Altar Radioativo e no The Absolute."
+	]
+	quest.2715CDB3229ABE2F.title: "Cristal de Fogo"
+	quest.2717448948B6242D.quest_desc: ["Os conduítes do Ender IO (energia, itens, fluidos, redstone) são feitos com Conduit Binder. Vários conduítes cabem num bloco só; confira com a Conduit Probe."]
+	quest.2717448948B6242D.title: "Conduítes"
+	quest.271F7CBBA041C3B9.quest_desc: ["Infunde metais com carbono, redstone, diamante e mais. Aço, circuitos e ligas vêm daqui."]
+	quest.271F7CBBA041C3B9.title: "Metallurgic Infuser"
+	quest.273B212D73C31613.quest_desc: ["A milhares de blocos no End, nas Chaos Islands, vive o Chaos Guardian. Destrua os cristais, derrote-o e quebre o Chaos Crystal para pegar os fragmentos."]
+	quest.273B212D73C31613.title: "&4Chaos Guardian"
+	quest.27647286436EF87B.quest_desc: ["Coloque melhorias nos espaços laterais da mochila: Pickup guarda os itens direto, Magnet puxa os itens até você."]
+	quest.27647286436EF87B.title: "Melhorias da Mochila"
+	quest.2766026029EC2AD8.quest_desc: ["Uma estrutura que guarda centenas de padrões e fabrica tudo dentro."]
+	quest.2766026029EC2AD8.title: "Assembler Matrix"
+	quest.27874822404A0890.quest_desc: ["Armadura com energia do Oritech."]
+	quest.27874822404A0890.title: "Armadura Exo"
+	quest.27A834C4B2403446.quest_desc: ["Capture uma Blaze com uma Empty Blaze Burner. Dê combustível para esquentar, ou Blaze Cake para superaquecer."]
+	quest.27A834C4B2403446.title: "Blaze Burner"
+	quest.27B48C3C1FDED976.quest_desc: ["Coloque em água corrente: ela gira e dá rotação. Use os Óculos de Engenheiro para ver a capacidade de stress."]
+	quest.27B48C3C1FDED976.title: "Roda d'Água"
+	quest.27B572F3EF226CF4.quest_desc: ["Tom's Storage: coloque um Inventory Connector encostado nos baús e um Storage Terminal nele para ver tudo numa tela só."]
+	quest.27B572F3EF226CF4.title: "Terminal de Armazenamento"
+	quest.27D686B18B0979F6.quest_desc: ["Chisel, Rechiseled e Chipped transformam um bloco em centenas de variantes. Use o cinzel ou as bancadas do Chipped."]
+	quest.27D686B18B0979F6.title: "Cinzéis"
+	quest.27F522A266BB260E.quest_desc: ["Prensa as placas de circuito dos processadores. As quatro prensas ficam nos meteoritos."]
+	quest.27F522A266BB260E.title: "Inscriber"
+	quest.27FCCC69B8A8F9A2.quest_desc: ["Ferro + quartzo. A base do Refined Storage."]
+	quest.27FCCC69B8A8F9A2.title: "Ferro Enriquecido com Quartzo"
+	quest.281F17BABD3AF091.quest_desc: ["O chumbo protege contra radiação. Você vai precisar de muito para a energia nuclear."]
+	quest.281F17BABD3AF091.title: "Chumbo"
+	quest.282DF3422ABF9CAD.quest_desc: ["Atira dois portais ligados. Entre por um e saia pelo outro."]
+	quest.282DF3422ABF9CAD.title: "Portal Gun"
+	quest.28551C11CA52366A.quest_desc: ["Baús do Ender Storage com as mesmas três cores compartilham o inventário, até entre dimensões."]
+	quest.28551C11CA52366A.title: "Baú do Ender por Cor"
+	quest.286270AC90BAE878.quest_desc: ["O Silent Gear monta ferramentas por partes. Faça projetos no Blueprint Paper."]
+	quest.286270AC90BAE878.title: "Projetos"
+	quest.2871DF87F9D88C28.quest_desc: ["Carrega materiais sob o céu noturno para atributos extras."]
+	quest.2871DF87F9D88C28.title: "Starlight Charger"
+	quest.287A93C9C6165974.quest_desc: ["Easy Villagers: agache e clique com o botão direito num aldeão para pegá-lo como item."]
+	quest.287A93C9C6165974.title: "Aldeões como Itens"
+	quest.28D620A62F51CE2C.quest_desc: ["O livro guia do mod. Mostra cada pentáculo e ritual passo a passo."]
+	quest.28D620A62F51CE2C.title: "Dictionary of Spirits"
+	quest.291D7E499EDDC3B5.quest_desc: ["Derrama fluidos e itens do bloco de trás no bloco de baixo."]
+	quest.291D7E499EDDC3B5.title: "Torneira"
+	quest.29285B6F7B55F1E8.quest_desc: ["Forbidden \\& Arcanus: magia sombria. Os Cristais Arcanos ficam no subsolo."]
+	quest.29285B6F7B55F1E8.title: "Cristais Arcanos"
+	quest.293714D3CD3608C3.quest_desc: ["Um cubo de 3 x 3 x 3 de Coke Bricks, batido no meio com o martelo. Transforma carvão em coque e creosoto."]
+	quest.293714D3CD3608C3.title: "Forno de Coque"
+	quest.293B255009F15194.quest_desc: ["Vidros conectados, com moldura, de nuvem e mais, todos com texturas conectadas."]
+	quest.293B255009F15194.title: "Vidros"
+	quest.29A11FBA97E52AE2.quest_desc: [
+		"Cada Nucleon derrotado por um jogador solta um Frasco Radioativo."
+		""
+		"Os Frascos são usados na Minigun Radioativa, no controlador do Reator Absoluto e no próprio The Absolute. Você vai precisar de muitos."
+	]
+	quest.29A11FBA97E52AE2.title: "Frasco Radioativo"
+	quest.29A57C74F757638B.quest_desc: ["A bolsa abre um Baú do Ender da cor dela de qualquer lugar. O tanque compartilha fluidos do mesmo jeito."]
+	quest.29A57C74F757638B.title: "Bolsa e Tanque do Ender"
+	quest.29C27BCA338AC45E.quest_desc: ["Guarda uma área inteira do mundo numa célula. O componente de 128 vai no Controlador Dimensional."]
+	quest.29C27BCA338AC45E.title: "Armazenamento Espacial"
+	quest.29C6978A77BCA07B.quest_desc: ["Plante diamantes."]
+	quest.29C6978A77BCA07B.title: "Sementes de Diamante"
+	quest.29DA4CF71D800B4E.quest_desc: ["Uma máquina grande que dobra o rendimento dos minérios. Veja o formato no manual."]
+	quest.29DA4CF71D800B4E.title: "Triturador"
+	quest.29DC2C0C5FDFEF1B.quest_desc: ["O Assembler fabrica receitas sozinho e a Auto Workbench faz os itens de projeto."]
+	quest.29DC2C0C5FDFEF1B.title: "Automação"
+	quest.29F17B16F32C4D2F.quest_desc: [
+		"Clique com o botão direito numa abelha comum segurando o Bloco Absoluto para transformá-la na Abelha Absoluta."
+		""
+		"Ela só trabalha com o Bloco Absoluto como flor e não se reproduz. Cada favo tem 1% de chance de ser produzido."
+	]
+	quest.29F17B16F32C4D2F.title: "A Abelha Absoluta"
+	quest.2A12013EAD2CB25B.quest_desc: ["Desenhe um pentáculo com giz em volta da Golden Sacrificial Bowl. Cada ritual tem o seu desenho: veja no Dictionary of Spirits."]
+	quest.2A12013EAD2CB25B.title: "Giz e Tigela"
+	quest.2A19814F17050603.quest_desc: ["Ferro + ouro no Energizing Orb. A base de toda máquina do Powah."]
+	quest.2A19814F17050603.title: "Aço Energizado"
+	quest.2A7662744731CEB0.quest_desc: ["Muita energia com biodiesel, feito no Squeezer, no Fermenter e na Refinery."]
+	quest.2A7662744731CEB0.title: "Gerador a Diesel"
+	quest.2A777FA1C61C01F1.quest_desc: ["Cobre + zinco numa Basin aquecida com Mixer fazem latão, o metal do Create avançado."]
+	quest.2A777FA1C61C01F1.title: "Latão"
+	quest.2A7810A329BA7157.quest_desc: ["Uma torre alta de Fireproof Bricks com um Blast Furnace Output embaixo. Entra ferro + coque, sai aço derretido."]
+	quest.2A7810A329BA7157.title: "Alto-Forno do TFMG"
+	quest.2AD2942CFA91629E.quest_desc: ["Colmeias e centrífugas gigantes em estrutura, para produção em massa. O caminho para escalar a Abelha Absoluta."]
+	quest.2AD2942CFA91629E.title: "Modular Bees"
+	quest.2AEA1AD511445BF4.quest_desc: ["Queima combustível para energia."]
+	quest.2AEA1AD511445BF4.title: "Gerador Básico"
+	quest.2B2C8CE72BA944DE.quest_desc: ["Invoque um familiar (dragão, lontra, fada...) e leve num Familiar Ring para ganhar o bônus dele."]
+	quest.2B2C8CE72BA944DE.title: "Familiares"
+	quest.2B3229347A337D45.quest_desc: ["Machucam os mobs que encostam."]
+	quest.2B3229347A337D45.title: "Espinhos"
+	quest.2B4DE64011497CA7.quest_desc: ["O componente mais alto do Oritech."]
+	quest.2B4DE64011497CA7.title: "Super AI Chip"
+	quest.2B61A5F95E22F81E.quest_desc: ["O Wireless Transmitter dá alcance ao Wireless Grid. O Network Transmitter e o Receiver ligam redes distantes."]
+	quest.2B61A5F95E22F81E.title: "Transmissores"
+	quest.2B681964220040B1.quest_desc: ["O combustível do reator. Minere o minério de Uraninita."]
+	quest.2B681964220040B1.title: "Uraninita"
+	quest.2B6B208ADF68022D.quest_desc: ["Água e pedregulho infinitos na rede."]
+	quest.2B6B208ADF68022D.title: "Células Infinitas"
+	quest.2B7900237CB700E9.quest_desc: ["Colhe as plantações numa área sozinho."]
+	quest.2B7900237CB700E9.title: "Harvester"
+	quest.2BDBC215B3340AF0.quest_desc: ["Minere o minério de Dracônio: ele solta pó. Derreta o pó em lingotes."]
+	quest.2BDBC215B3340AF0.title: "Pó de Dracônio"
+	quest.2BE154E92455B7B2.quest_desc: ["Mantos com espaços de fios. Adicione fios na Alteration Table para ganhar vantagens."]
+	quest.2BE154E92455B7B2.title: "Armadura de Mago"
+	quest.2C01C0B8921D326E.quest_desc: ["Encha um kit com materiais e junte com uma ferramenta gasta para consertar."]
+	quest.2C01C0B8921D326E.title: "Kits de Reparo"
+	quest.2C05FA50FC16A999.quest_desc: ["É mesmo. Minere um pouco de Moon Cheese Ore."]
+	quest.2C05FA50FC16A999.title: "A Lua é Feita de Queijo"
+	quest.2C6EF93BA96B9D46.quest_desc: ["Carrega com energia os itens numa esteira ou depot embaixo dela."]
+	quest.2C6EF93BA96B9D46.title: "Bobina de Tesla"
+	quest.2C864B75E381B864.quest_desc: ["Compre itens online: um drone entrega. Você paga com esmeraldas ou fluidos."]
+	quest.2C864B75E381B864.title: "Amadron"
+	quest.2CDA4E68756ED864.quest_desc: ["Junte 4 essências de um nível em volta de um Infusion Crystal para fazer o próximo nível."]
+	quest.2CDA4E68756ED864.title: "Prudentium"
+	quest.2CE63C29064DAEA2.quest_desc: ["Invoque um familiar com um ritual. Cada um dá um bônus, como mais mana ou velocidade."]
+	quest.2CE63C29064DAEA2.title: "Familiares"
+	quest.2CE9E4F56C6187AE.quest_desc: ["Usa sangue para infundir itens. Colete sangue dos mobs com um Blood Extractor ou Spikes."]
+	quest.2CE9E4F56C6187AE.title: "Blood Infuser"
+	quest.2D69266DC90E7EAE.quest_desc: ["O Heat Generator queima combustível ou usa lava. Os Universal Cables levam a energia."]
+	quest.2D69266DC90E7EAE.title: "Primeira Energia"
+	quest.2DCA118678112BAD.quest_desc: ["A munição é feita com cartuchos, pólvora e projéteis. Veja cada uma no JEI."]
+	quest.2DCA118678112BAD.title: "Cartuchos"
+	quest.2DF918B1D9A77888.quest_desc: ["Guarda tempo enquanto fica no inventário. Clique numa máquina ou plantação para acelerar por 30 segundos."]
+	quest.2DF918B1D9A77888.title: "Tempo na Garrafa"
+	quest.2E1BE29518D31A8D.quest_desc: ["Ferro e carvão (ou coque) fazem aço num alto-forno. Todo mod de tecnologia usa."]
+	quest.2E1BE29518D31A8D.title: "Aço"
+	quest.2E43468E6941E88D.quest_desc: ["No topo da Lich Tower. Destrua os escudos dele para machucar."]
+	quest.2E43468E6941E88D.title: "O Lich do Crepúsculo"
+	quest.2E77334CB9645CD3.quest_desc: ["Uma Fábrica faz o trabalho de várias máquinas ao mesmo tempo. Use Tier Installers para melhorar a máquina no lugar."]
+	quest.2E77334CB9645CD3.title: "Fábricas"
+	quest.2F3F6CD2D8C43301.quest_desc: ["Encanta itens sozinho com experiência líquida."]
+	quest.2F3F6CD2D8C43301.title: "Blaze Enchanter"
+	quest.2F436F0445DC8AA0.quest_desc: ["Monitores juntos viram uma tela grande para os seus programas."]
+	quest.2F436F0445DC8AA0.title: "Monitores"
+	quest.2F94B28E38E3AEE6.quest_desc: ["Mostra a velocidade e o stress de cada máquina que você olha. Cada máquina gasta stress; se o total passar da capacidade, tudo para."]
+	quest.2F94B28E38E3AEE6.title: "Óculos de Engenheiro"
+	quest.2FADBDE81311F47A.quest_desc: ["Mate mobs com o Blood Extractor no inventário para encher. Os Dark Tanks guardam o sangue."]
+	quest.2FADBDE81311F47A.title: "Coletando Sangue"
+	quest.2FFDF1E2A9C51395.quest_desc: ["O Desh só existe na Lua. Ele é necessário para o Foguete Nível 2."]
+	quest.2FFDF1E2A9C51395.title: "Desh"
+	quest.30360A70B3F71251.quest_desc: ["Faz café com efeitos de poção que você adiciona."]
+	quest.30360A70B3F71251.title: "Máquina de Café"
+	quest.30765AB3A91B4DBA.quest_desc: ["Canos do Oritech para energia, itens e fluidos."]
+	quest.30765AB3A91B4DBA.title: "Canos"
+	quest.309635D9A7CDDC0B.quest_desc: ["Cave uma piscina de água de 2 x 2, cerque com flores e jogue um diamante dentro. Um portal se abre."]
+	quest.309635D9A7CDDC0B.title: "A Floresta do Crepúsculo"
+	quest.30A15A81D8265338.quest_desc: ["Coloque o Fusion Crafting Core com injetores em volta apontando para ele, na mesma altura. Ponha o catalisador no núcleo e os ingredientes nos injetores, e dê energia."]
+	quest.30A15A81D8265338.title: "Fusion Crafting"
+	quest.30AF26DFB6A847C2.quest_desc: ["Um cubo de 3 x 3 x 3 de Blast Bricks. Ferro + coque fazem aço."]
+	quest.30AF26DFB6A847C2.title: "Alto-Forno"
+	quest.3121FB70E83E2B05.quest_desc: ["O minério de Dracônio fica no Overworld, no Nether e principalmente no End."]
+	quest.3121FB70E83E2B05.title: "Dracônio"
+	quest.31252293733110C9.quest_desc: ["Todos os terminais sem fio num só. Com o Quantum Bridge Card, funciona em qualquer lugar."]
+	quest.31252293733110C9.title: "Terminal Universal"
+	quest.313F53AC1E5F2A4B.quest_desc: ["Monte qualquer arma na Bancada de Armas e faça a munição dela. Recarregue com R."]
+	quest.313F53AC1E5F2A4B.title: "A Sua Primeira Arma"
+	quest.324C6D16D6376050.quest_desc: ["Minera 3 x 3 usando água e combustível."]
+	quest.324C6D16D6376050.title: "Broca a Vapor"
+	quest.32789B78ED2B6685.quest_desc: ["Energia sem fio: um Flux Plug recebe energia e os Flux Points entregam, em qualquer lugar da mesma rede."]
+	quest.32789B78ED2B6685.title: "Flux Networks"
+	quest.328CAF84E6C78AA2.quest_desc: ["Achado em meteoritos e crescido de blocos Budding Certus. Carregue num Charger para o Charged Certus."]
+	quest.328CAF84E6C78AA2.title: "Quartzo Certus"
+	quest.32D2E9D5C74FD448.quest_desc: ["Feito com derivados do petróleo no TFMG. Usado em canos e eletrônicos."]
+	quest.32D2E9D5C74FD448.title: "Plástico"
+	quest.32D8AFB45BE70AE4.quest_desc: ["Coloque o item no Apparatus e os ingredientes nos pedestais em volta. Usa Source."]
+	quest.32D8AFB45BE70AE4.title: "Enchanting Apparatus"
+	quest.32F1C5A970266EEC.quest_desc: ["Salve lugares e abra uma porta do tempo para qualquer um deles. Ele recarrega com o tempo ou com combustível, como mostra o item."]
+	quest.32F1C5A970266EEC.title: "Tempad"
+	quest.32FF66B31E1EADF0.quest_desc: ["Diamante no Energizing Orb. Cada nível de cristal libera máquinas melhores."]
+	quest.32FF66B31E1EADF0.title: "Cristal Niótico"
+	quest.3300CA3DB86198FD.quest_desc: ["Energia simples do RFTools."]
+	quest.3300CA3DB86198FD.title: "Gerador a Carvão"
+	quest.3342236426FE5541.quest_desc: ["Reproduz duas abelhas engaioladas com energia, sem flores nem espaço."]
+	quest.3342236426FE5541.title: "Câmara de Reprodução"
+	quest.334B8B6BF5865CCD.quest_desc: ["Um metal do Outro Mundo."]
+	quest.334B8B6BF5865CCD.title: "Iesnium"
+	quest.336D2C86E1994C2B.quest_desc: ["Ligue a qualquer bloco com o binder: ele vira uma cópia remota do inventário, tanque e energia daquele bloco."]
+	quest.336D2C86E1994C2B.title: "Bloco Entrelaçado"
+	quest.33B8B317B3297CFC.quest_desc: ["Mantém itens em estoque pedindo fabricação sozinho."]
+	quest.33B8B317B3297CFC.title: "ME Requester"
+	quest.3430BF3C51AC0A20.quest_desc: ["Abre para quem tiver um cartão do nível certo."]
+	quest.3430BF3C51AC0A20.title: "Leitor de Cartão"
+	quest.344D1B81117D8183.quest_desc: ["Pérola do Ender + Pó de Blaze. Jogue um: ele voa na direção da Fortaleza, onde fica o Portal do End."]
+	quest.344D1B81117D8183.title: "Olhos do Ender"
+	quest.346219F82DD78CB1.quest_desc: ["Fabrica sementes: o altar no meio e 8 pedestais em volta. Ative com uma Wand ou redstone."]
+	quest.346219F82DD78CB1.title: "Altar de Infusão"
+	quest.3518E4EB74D0010C.quest_desc: ["Dobra os minérios em pós."]
+	quest.3518E4EB74D0010C.title: "Triturador"
+	quest.35321664DEC44057.quest_desc: ["Colheitadeiras numa máquina móvel colhem e replantam as plantações."]
+	quest.35321664DEC44057.title: "Máquinas de Fazenda"
+	quest.35AB8A541BCE3D1A.quest_desc: ["Agache + use para salvar um lugar. Use um Stable Warp Scroll num ritual para abrir um portal permanente."]
+	quest.35AB8A541BCE3D1A.title: "Pergaminhos de Teleporte"
+	quest.35C11BCD2EB15B45.quest_desc: ["Fabrica peças do Oritech sozinho."]
+	quest.35C11BCD2EB15B45.title: "Assembler"
+	quest.3604D56701EBBA80.quest_desc: [
+		"O Sujjs's Ores adiciona os metais que todo mod de tecnologia usa: estanho, chumbo, prata, níquel, alumínio, zinco, ósmio, platina, urânio e irídio, além de gemas e ligas."
+		"Cada metal tem minérios no Overworld, no Nether e no End."
+	]
+	quest.3604D56701EBBA80.title: "Sujjs's Ores"
+	quest.360550F90247C88E.quest_desc: ["Segure o botão direito com um escudo para bloquear flechas e ataques."]
+	quest.360550F90247C88E.title: "Escudo"
+	quest.360AF04DDB8036A7.quest_desc: ["Guarda energia; células encostadas viram uma bateria grande."]
+	quest.360AF04DDB8036A7.title: "Célula de Energia"
+	quest.36254BC46C8B9C48.quest_desc: ["Funde deutério e trítio. Dê a partida com um laser e um Hohlraum."]
+	quest.36254BC46C8B9C48.title: "Reator de Fusão"
+	quest.3640C30AFF0776EB.quest_desc: ["Os mobs derrubam corações. Transforme em recipientes e coloque no Heart Amulet para ganhar mais vida."]
+	quest.3640C30AFF0776EB.title: "Recipientes de Coração"
+	quest.364529014F26A865.quest_desc: ["Carrega os itens do seu inventário sem fio. Ligue com um Binding Card."]
+	quest.364529014F26A865.title: "Player Transmitter"
+	quest.36C9880D09630020.quest_desc: ["O primeiro chefão, no Naga Courtyard. Cada chefão libera as próximas áreas."]
+	quest.36C9880D09630020.title: "A Naga"
+	quest.36EE54747CCD1DA4.quest_desc: ["Mói minérios em pós com bônus. Bolas de moagem aumentam o bônus."]
+	quest.36EE54747CCD1DA4.title: "SAG Mill"
+	quest.3703E6E7687B0650.quest_desc: ["Pouse na Lua."]
+	quest.3703E6E7687B0650.title: "Um Pequeno Passo"
+	quest.376C0126858C7C64.quest_desc: ["Invoque um Foliot. Os espíritos trabalham para você: mineram, carregam itens e fabricam."]
+	quest.376C0126858C7C64.title: "O Seu Primeiro Espírito"
+	quest.3796E3EC08E3CC4F.quest_desc: ["Mandam energia sem fio entre os relays: ligue com a Laser Wrench."]
+	quest.3796E3EC08E3CC4F.title: "Laser Relays"
+	quest.37B4BF1DC3968C88.quest_desc: ["O chefão de fogo da Burning Arena. No Sujjs Legacy ele tem 1.000 de vida."]
+	quest.37B4BF1DC3968C88.title: "Ignis"
+	quest.37C779F47B47D72F.quest_desc: ["Mate mobs e colete almas com o Soul Extractor para usar na forja."]
+	quest.37C779F47B47D72F.title: "Almas"
+	quest.3836C1245FA6855B.quest_desc: ["Faça o Ritual of Wilden Summoning com um Wilden Horn, Spike e Wing. Derrote a Chimera para ganhar o Wilden Tribute, necessário para o Livro de Arquimago."]
+	quest.3836C1245FA6855B.title: "Wilden Chimera"
+	quest.38848188DD467B49.quest_desc: ["No Aurora Palace, na Floresta Nevada."]
+	quest.38848188DD467B49.title: "A Rainha da Neve"
+	quest.38CE52F3E2D80856.quest_desc: [
+		"{image:kubejs:textures/quests/usina_nuclear.png width:256 height:144 align:center}"
+		""
+		"Usinas nucleares abandonadas estão espalhadas pela Dimensão Radioativa."
+		""
+		"Encontre uma. Elas guardam loot e o caminho até o Nucleon."
+	]
+	quest.38CE52F3E2D80856.title: "Usinas Nucleares"
+	quest.38CE75FBBCD358B4.quest_desc: ["Deixa você ver os Vengeance Spirits que aparecem quando os mobs morrem. Capture numa Box of Eternal Closure."]
+	quest.38CE75FBBCD358B4.title: "Vengeance Ring"
+	quest.38D8F3AAFA70EE34.quest_desc: [
+		"{image:kubejs:textures/quests/reator_noite.png width:256 height:144 align:center}"
+		""
+		"Encha o reator com tudo: a Bomba Atômica no centro da estrela, o Controlador Dimensional, 4 Munições Infinitas, 256 Munições Universais, 256 Balas Radioativas, 12 Frascos Radioativos, 4 Cristais de Fogo, os itens mais fortes de cada mod, cinco fluidos, Source e 3,5 milhões de FE por tick."
+		""
+		"Dez minutos depois, nasce o The Absolute."
+	]
+	quest.38D8F3AAFA70EE34.quest_subtitle: "O fim do Sujjs Legacy"
+	quest.38D8F3AAFA70EE34.title: "&d&lO ABSOLUTO"
+	quest.38F8CC7EA8FE3F6B.quest_desc: ["Guarda vários packs de flechas e deixa escolher qual atirar."]
+	quest.38F8CC7EA8FE3F6B.title: "Aljava"
+	quest.38FC0827889ECC53.quest_desc: ["As máquinas de bronze funcionam com vapor de uma caldeira. Ligue com canos de fluido."]
+	quest.38FC0827889ECC53.title: "Máquinas a Vapor"
+	quest.38FE715E0B2A7C56.quest_desc: ["Mova itens, fluidos e energia pela rede lógica."]
+	quest.38FE715E0B2A7C56.title: "Integrated Tunnels"
+	quest.390DB1B18E0D06AC.quest_desc: ["Um computador na sua mão."]
+	quest.390DB1B18E0D06AC.title: "Computador de Bolso"
+	quest.3968AA10966DFF7E.quest_desc: ["O lixo nuclear vai para a Isotopic Centrifuge e a Pressurized Reaction Chamber para virar plutônio."]
+	quest.3968AA10966DFF7E.title: "Plutônio"
+	quest.3978672AA2803039.quest_desc: ["Feitas na UV Light Box e no Etching Tank. Necessárias para drones."]
+	quest.3978672AA2803039.title: "Placas de Circuito"
+	quest.39A404E822CE6229.quest_desc: ["Uma mão robô: usa o item que segura, como um jogador clicando com o botão direito."]
+	quest.39A404E822CE6229.title: "Deployer"
+	quest.39E7E75137C043A0.quest_desc: ["A armadura quântica deixa você quase imortal. No Sujjs Legacy, as peças começam como Quantum Quebradas, consertadas com Nucleon."]
+	quest.39E7E75137C043A0.title: "Equipamento Quântico"
+	quest.39F72B871412B0ED.quest_desc: ["Um chefão fóssil na Cursed Pyramid do deserto. Leve o Necklace of the Desert."]
+	quest.39F72B871412B0ED.title: "Ancient Remnant"
+	quest.3A0E47DEE6E96E21.quest_desc: ["Broca, motosserra e jetpack com energia. Carregue no Charger."]
+	quest.3A0E47DEE6E96E21.title: "Ferramentas"
+	quest.3A14C0D684B4CFB7.quest_desc: ["As Energy Cells guardam energia para os picos de fabricação."]
+	quest.3A14C0D684B4CFB7.title: "Energia da Rede"
+	quest.3A205942F00A954F.quest_desc: ["O Powah fabrica com energia: coloque Energizing Rods em volta do Energizing Orb, dê energia a elas e jogue os itens no Orb."]
+	quest.3A205942F00A954F.title: "Energizing Orb"
+	quest.3A3BD54969210131.quest_desc: ["Capture abelhas e carregue. Solte perto de uma colmeia."]
+	quest.3A3BD54969210131.title: "Gaiola de Abelha"
+	quest.3B4F92A13DD5D7FB.quest_desc: ["Os motores de foguete do Propulsed dão aos seus veículos o maior empuxo de todos."]
+	quest.3B4F92A13DD5D7FB.title: "Motores de Foguete"
+	quest.3B72BB4EEEF3B76F.quest_desc: ["Cada nível de cabo (LV, MV, HV, EV) só liga em máquinas do seu nível. Use transformadores entre os níveis."]
+	quest.3B72BB4EEEF3B76F.title: "Cabos e Baterias"
+	quest.3B885710E4B0C79B.quest_desc: ["Uma estrutura que gera minérios do nada usando brocas como ferramenta."]
+	quest.3B885710E4B0C79B.title: "Pedreira a Vapor"
+	quest.3BA0150F7C255FAB.quest_desc: ["Dê a uma Blaze Burner para superaquecer, necessário para as receitas mais quentes, como o Bloco Absoluto."]
+	quest.3BA0150F7C255FAB.title: "Blaze Cake"
+	quest.3BAA21F879F43D20.quest_desc: [
+		"O Ars Nouveau deixa você criar os seus próprios feitiços. Abra o livro (tecla C por padrão) e combine uma Forma, Efeitos e Aumentos."
+		"O Worn Notebook explica tudo dentro do jogo."
+	]
+	quest.3BAA21F879F43D20.title: "Livro de Feitiços"
+	quest.3BC3B348C1D4EA1A.quest_desc: ["Discos muito maiores para redes enormes."]
+	quest.3BC3B348C1D4EA1A.title: "Discos Extras"
+	quest.3BD2540C80E5957C.quest_desc: ["Uma adaga que quebra a magia: remove efeitos e contratos."]
+	quest.3BD2540C80E5957C.title: "Rule Breaker"
+	quest.3C3645821AD9A1BE.quest_desc: ["Cai do Ignis. Faz o Incinerator e a armadura de Ignitium."]
+	quest.3C3645821AD9A1BE.title: "Ignitium"
+	quest.3C3C72B1D5EF54AD.quest_desc: [
+		"Feito na Fusion Crafting do Draconic Evolution, no nível Caótico, a partir de um Portable Teleporter do Mekanism e 14 injetores."
+		""
+		"Use para viajar entre o Overworld e a Dimensão Radioativa."
+	]
+	quest.3C3C72B1D5EF54AD.quest_subtitle: "A chave da Dimensão Radioativa"
+	quest.3C3C72B1D5EF54AD.title: "Controlador Dimensional"
+	quest.3CB6C3C6E2B6922A.quest_desc: ["Queima mel para gerar energia."]
+	quest.3CB6C3C6E2B6922A.title: "Gerador a Mel"
+	quest.3CF900C7C625728C.quest_desc: ["Guarda energia; bancos encostados viram um só."]
+	quest.3CF900C7C625728C.title: "Banco de Capacitores"
+	quest.3D5355DEDF9D1F24.quest_desc: ["Eixos levam a rotação em linha. Engrenagens passam a rotação para o lado. Uma engrenagem grande ao lado de uma pequena muda a velocidade."]
+	quest.3D5355DEDF9D1F24.title: "Eixos e Engrenagens"
+	quest.3DDB9BDDFECD6943.quest_desc: [
+		"O The Absolute junta os itens mais fortes do modpack inteiro:"
+		""
+		"- 4 Chaotic Cores (Draconic Evolution)"
+		"- 4 Antimatter Pellets (Mekanism)"
+		"- 4 Nitro Crystals (Powah)"
+		"- 2 Insanium Blocks (Mystical Agradditions)"
+		"- 2 Quantum Processors (Advanced AE)"
+		"- 2 Quantum Circuits (Modern Industrialization)"
+		"- 1 Manhattan Module (Oritech)"
+	]
+	quest.3DDB9BDDFECD6943.title: "O Melhor de Cada Mod"
+	quest.3E1A4D364518CD42.quest_desc: ["Coloque um aldeão e uma estação de trabalho dentro para negociar sem o aldeão fugir."]
+	quest.3E1A4D364518CD42.title: "Bloco de Comércio"
+	quest.3EEA25DD8F45ED0C.quest_desc: ["Acesse a rede de qualquer lugar no alcance com um Wireless Terminal."]
+	quest.3EEA25DD8F45ED0C.title: "Sem Fio"
+	quest.3F5FCC608CAD066C.quest_desc: ["Deixa as máquinas rodarem receitas de até 1.024 EU/t, como a Munição Universal."]
+	quest.3F5FCC608CAD066C.title: "Casco Turbo"
+	quest.3FA24665898BE366.quest_desc: ["Fabrica circuitos e peças bem mais barato do que à mão. Mais tarde, faz a Munição Universal."]
+	quest.3FA24665898BE366.title: "Assembler"
+	quest.3FAF342519755DF7.quest_desc: ["O seu primeiro foguete. Ele chega até a Lua."]
+	quest.3FAF342519755DF7.title: "Foguete Nível 1"
+	quest.3FB1B90D5A39169A.quest_desc: ["O Dragão do Ender solta o coração. Reviva o dragão com 4 Cristais do End para conseguir mais."]
+	quest.3FB1B90D5A39169A.title: "Dragon Heart"
+	quest.3FD6A0EA7FC1BD17.quest_desc: ["Extraia o núcleo de um spawner e coloque num Pressurized Spawner para criar mobs com ar."]
+	quest.3FD6A0EA7FC1BD17.title: "Spawner Pressurizado"
+	quest.3FE415A6E28BAAB3.quest_desc: ["Uma estrutura oca que comprime itens sob pressão, como ferro em Compressed Iron."]
+	quest.3FE415A6E28BAAB3.title: "Pressure Chamber"
+	quest.4004B6CB1A3BC28B.quest_desc: ["Clique com o botão direito para ligar: ele puxa os itens próximos até você."]
+	quest.4004B6CB1A3BC28B.title: "Ímã"
+	quest.4006973ECF75B995.quest_desc: ["O último foguete. Ele chega a outro sistema estelar."]
+	quest.4006973ECF75B995.title: "Foguete Nível 4"
+	quest.401D99DE70E1BD8B.quest_desc: ["Um reator com refrigeração ativa faz vapor; a turbina transforma em muita energia."]
+	quest.401D99DE70E1BD8B.title: "Turbina"
+	quest.404317C0236FBECE.quest_desc: ["Um metal condutor usado em fios e eletrônicos."]
+	quest.404317C0236FBECE.title: "Prata"
+	quest.4048B0483764C65A.quest_desc: ["Signalum (redstone), Lumium (glowstone) e Enderium (pérolas do ender). O Enderium entra na cadeia da Munição Universal."]
+	quest.4048B0483764C65A.title: "Ligas Avançadas"
+	quest.40F87EB6BFED9ABE.quest_desc: ["Coloque um item na tábua e clique com a faca para cortar."]
+	quest.40F87EB6BFED9ABE.title: "Tábua de Corte"
+	quest.412AD5EFA1997FFD.quest_desc: ["Guarde gases e químicos do Mekanism na rede ME."]
+	quest.412AD5EFA1997FFD.title: "Applied Mekanistics"
+	quest.412D11109C405D0B.quest_desc: ["Uma mistura de máquinas úteis. O Empowerer e os Display Stands melhoram os Cristais em cristais potencializados."]
+	quest.412D11109C405D0B.title: "Actually Additions"
+	quest.4148E8BF1219DD33.quest_desc: ["Tire encantamentos dos itens para livros e aplique livros com Essence."]
+	quest.4148E8BF1219DD33.title: "Encantamentos"
+	quest.417E2E068326EF7A.quest_desc: ["Um elevador de verdade com andares: coloque blocos Contact em cada andar."]
+	quest.417E2E068326EF7A.title: "Elevador"
+	quest.419A449D685F68CF.quest_desc: ["Diferente do AE2, os discos guardam qualquer quantidade de tipos; só o total importa."]
+	quest.419A449D685F68CF.title: "Discos de Armazenamento"
+	quest.41A191D9C25F7DCD.quest_desc: ["Infunda ferro com carbono duas vezes para ter aço e faça Steel Casings: o corpo de toda máquina."]
+	quest.41A191D9C25F7DCD.title: "Steel Casing"
+	quest.41A92C255D14C42E.quest_desc: ["Um metal leve para cabos, foguetes e o Modern Industrialization."]
+	quest.41A92C255D14C42E.title: "Alumínio"
+	quest.41E3847FDE8A1084.quest_desc: ["Os lasers quebram blocos e carregam o Laser Amplifier, que dá a partida no Reator de Fusão."]
+	quest.41E3847FDE8A1084.title: "Lasers"
+	quest.421F935D92ACB8D5.quest_desc: ["Vênus e Mercúrio são quentes o bastante para queimar um traje comum. O Traje Espacial de Netherite aguenta o calor."]
+	quest.421F935D92ACB8D5.title: "Traje Espacial de Netherite"
+	quest.42612F6D3081EEFE.quest_desc: ["Programe drones no Programmer com peças de quebra-cabeça: cavar, construir, buscar itens, lutar."]
+	quest.42612F6D3081EEFE.title: "Drones"
+	quest.42631E5641566C9E.quest_desc: ["Vara de Blaze no Energizing Orb."]
+	quest.42631E5641566C9E.title: "Cristal Flamejante"
+	quest.42664A5D7602C8F3.quest_desc: ["Os monstros derrubam Essência de Inferium. Também existe minério de Inferium. É o começo da agricultura mágica."]
+	quest.42664A5D7602C8F3.title: "Essência de Inferium"
+	quest.42D64DB58ACA1C29.quest_desc: ["Reproduza duas abelhas diferentes com flores para ganhar abelhas novas. O JEI mostra todas as combinações."]
+	quest.42D64DB58ACA1C29.title: "Reprodução"
+	quest.431CE50C60F31B03.quest_desc: ["O Supercritical Phase Shifter transforma polônio em antimatéria. Ele precisa de uma quantidade enorme de energia."]
+	quest.431CE50C60F31B03.title: "SPS"
+	quest.435718249DBE023A.quest_desc: ["Uma pedreira mais rápida, com brocas melhores."]
+	quest.435718249DBE023A.title: "Pedreira Elétrica"
+	quest.4392FD9CE67CC3F4.quest_desc: ["Enxofre, salitre, sal e fluorita são usados em pólvora, química e no Mekanism."]
+	quest.4392FD9CE67CC3F4.title: "Minerais"
+	quest.43CD86AF50814484.quest_desc: ["Não existe ar no espaço. O Traje Espacial mantém você vivo, enquanto tiver oxigênio."]
+	quest.43CD86AF50814484.title: "Traje Espacial"
+	quest.43E3AA1233B802A1.quest_desc: ["As abelhas têm genes: produtividade, tolerância ao clima, comportamento. Extraia genes com uma Gene Bottle e combine."]
+	quest.43E3AA1233B802A1.title: "Genes"
+	quest.43E4936B9F385A02.quest_desc: ["Seis cavaleiros fantasmas na Goblin Knight Stronghold, na Floresta Escura."]
+	quest.43E4936B9F385A02.title: "Cavaleiros Fantasmas"
+	quest.43EE5E61C0DA08ED.quest_desc: ["Uma vassoura voadora que você monta por partes. Funciona com sangue."]
+	quest.43EE5E61C0DA08ED.title: "Vassoura"
+	quest.43F5A99E4171D7A0.quest_desc: ["Ferramentas de construção com energia: colocar, trocar, destruir e até copiar e colar construções inteiras."]
+	quest.43F5A99E4171D7A0.title: "Building Gadgets"
+	quest.449B6BFA4E39F3C8.quest_desc: ["Desmonte equipamentos com afixos em materiais de raridade."]
+	quest.449B6BFA4E39F3C8.title: "Recuperação"
+	quest.44AE8B8768FD013C.quest_desc: ["Armazenamento grande que pode ser colado em máquinas e trens."]
+	quest.44AE8B8768FD013C.title: "Cofre de Itens"
+	quest.44DCFB921255FCDF.quest_desc: ["Ligue as câmeras ao Camera Monitor e veja a sua base de qualquer lugar."]
+	quest.44DCFB921255FCDF.title: "Câmeras"
+	quest.44FDEB9C895F89B5.quest_desc: ["Coletam itens e fluidos numa área."]
+	quest.44FDEB9C895F89B5.title: "Coletores"
+	quest.45322430461483FD.quest_desc: ["Lã de ovelha e tábuas fazem uma cama. Dormir pula a noite e marca o seu ponto de renascimento."]
+	quest.45322430461483FD.title: "Uma Cama"
+	quest.453F5E9FE5CAAB88.quest_desc: ["Mostra qual veio mineral existe embaixo do chunk. Pegue a amostra para achar onde colocar a Escavadeira."]
+	quest.453F5E9FE5CAAB88.title: "Core Sample Drill"
+	quest.45402C80392BB30F.quest_desc: ["Enxergue o Outro Mundo sem comer Demon's Dream."]
+	quest.45402C80392BB30F.title: "Otherworld Goggles"
+	quest.4572A97974FB60FE.quest_desc: ["Coloque aberta perto de um Vengeance Spirit para capturá-lo."]
+	quest.4572A97974FB60FE.title: "Box of Eternal Closure"
+	quest.45BD6EBD7462D40E.quest_desc: ["O urânio é radioativo e alimenta reatores de fissão. Fica bem fundo e brilha verde."]
+	quest.45BD6EBD7462D40E.title: "Urânio"
+	quest.45C2A0646306F25E.quest_desc: ["Fabrique direto da rede."]
+	quest.45C2A0646306F25E.title: "Crafting Grid"
+	quest.45C4773275B80FAF.quest_desc: ["Motores a combustão grandes, com cilindros: muita rotação com gasolina ou diesel."]
+	quest.45C4773275B80FAF.title: "Motores do TFMG"
+	quest.45E30AAE4DDB47AF.quest_desc: ["Um gerenciador programável: escreva programas simples num disco para mover qualquer coisa para qualquer lugar."]
+	quest.45E30AAE4DDB47AF.title: "Super Factory Manager"
+	quest.45F26D965C6BFEF4.quest_desc: ["Suba em cordas como escadas. A Roldana enrola e desenrola a corda com redstone."]
+	quest.45F26D965C6BFEF4.title: "Corda e Roldana"
+	quest.46083782C112D669.quest_desc: ["Coleta itens e XP numa área."]
+	quest.46083782C112D669.title: "Absorption Hopper"
+	quest.463B2BEBA70DAF1A.quest_desc: ["Construa trilhos, uma estação e um trem. Um Train Schedule faz ele viajar entre as estações sozinho."]
+	quest.463B2BEBA70DAF1A.title: "Trens"
+	quest.465C8DB2A2A4436B.quest_desc: ["O Cataclysm adiciona chefões grandes em estruturas especiais. Use a Bússola do Explorador para achar."]
+	quest.465C8DB2A2A4436B.title: "Os Chefões do Cataclysm"
+	quest.467C146A7ED005E5.quest_desc: ["Foguetes e rovers são montados na NASA Workbench."]
+	quest.467C146A7ED005E5.title: "NASA Workbench"
+	quest.468DB5691CC767EA.quest_desc: ["O último nível. Ferramentas com muitas habilidades."]
+	quest.468DB5691CC767EA.title: "Liga Eclipse"
+	quest.46A35779A0DA2FF6.quest_desc: ["Cultiva qualquer plantação dentro dela com água e energia, sem espaço nem luz."]
+	quest.46A35779A0DA2FF6.title: "Estufa"
+	quest.46B4FCFDD172147A.quest_desc: ["Fazem a armadura da Naga."]
+	quest.46B4FCFDD172147A.title: "Escamas da Naga"
+	quest.46FAB5081510C998.quest_desc: ["O XyCraft World tem muitos blocos coloridos e brilhantes para construir."]
+	quest.46FAB5081510C998.title: "Decoração"
+	quest.471C9739196E6609.quest_desc: ["A arma mais forte do Scorched Guns."]
+	quest.471C9739196E6609.title: "Flayed God"
+	quest.4736893C01D14D6A.quest_desc: [
+		"Você dominou todos os mods do Sujjs Legacy e criou o The Absolute."
+		""
+		"Obrigado por jogar! Feito com carinho pelo Sujjs Team."
+	]
+	quest.4736893C01D14D6A.quest_subtitle: "Obrigado por jogar"
+	quest.4736893C01D14D6A.title: "&6&lSujjs Legacy Zerado!"
+	quest.47378129DB098C4E.quest_desc: ["O Extendo Grip dá mais alcance. O Linked Controller manda sinais de redstone da sua mão."]
+	quest.47378129DB098C4E.title: "Engenhocas"
+	quest.478C5C35356D4823.quest_desc: ["Coloque o Goo e alimente: ele transforma os blocos ao lado. Cada nível de Goo faz materiais melhores."]
+	quest.478C5C35356D4823.title: "Goo"
+	quest.47B7C7E2ECC8F32E.quest_desc: ["Movem Source entre os jarros. Ligue com a Dominion Wand: clique primeiro na origem e depois no destino."]
+	quest.47B7C7E2ECC8F32E.title: "Source Relays"
+	quest.47C2FA21029363B9.quest_desc: ["Os blocos só se movem juntos se estiverem colados. Selecione dois cantos com a cola para grudar uma área."]
+	quest.47C2FA21029363B9.title: "Super Cola"
+	quest.4812A0F1F92C8F5A.quest_desc: ["Quebra o bloco na frente. Numa máquina móvel, vira uma tuneladora."]
+	quest.4812A0F1F92C8F5A.title: "Broca Mecânica"
+	quest.483689B7AC24B69D.quest_desc: ["Clique na terra arada com uma essência. Terras melhores dão chance de essência extra."]
+	quest.483689B7AC24B69D.title: "Terra de Essência"
+	quest.48F87893253E3376.quest_desc: ["Coloque e quebre blocos no mundo a partir da rede."]
+	quest.48F87893253E3376.title: "Constructor e Destructor"
+	quest.490F6A8CED0CDE86.quest_desc: ["Dispara hastes de metal em alta velocidade com eletricidade."]
+	quest.490F6A8CED0CDE86.title: "Railgun"
+	quest.494B158D8DFB78BC.quest_desc: ["O XyCraft Machines adiciona tanques e armazenamento em estruturas. Use o JEI para ver os formatos."]
+	quest.494B158D8DFB78BC.title: "Máquinas do XyCraft"
+	quest.49D489EA32F4DE61.quest_desc: ["Aprenda novos glifos aqui, pagando com os itens mostrados."]
+	quest.49D489EA32F4DE61.title: "Mesa do Escriba"
+	quest.49DC7D11A8B0F268.quest_desc: [
+		"O PneumaticCraft usa ar comprimido. O compressor queima combustível para fazer ar; os Pressure Tubes levam o ar."
+		"&cPressão demais explode as máquinas!"
+	]
+	quest.49DC7D11A8B0F268.title: "Compressor de Ar"
+	quest.4A11B5446E9F585E.quest_desc: ["Vive na Ruined Citadel no End."]
+	quest.4A11B5446E9F585E.title: "Ender Guardian"
+	quest.4A34368D409E27AD.quest_desc: ["As usinas são guardadas por Soldados Irradiados. Derrote 10 deles."]
+	quest.4A34368D409E27AD.title: "Soldados Irradiados"
+	quest.4A86E565CCC4CFB8.quest_desc: ["Coloque melhorias de Speed e Energy na aba de melhorias da máquina. Speed gasta muito mais energia; Energy compensa."]
+	quest.4A86E565CCC4CFB8.title: "Melhorias"
+	quest.4A9972F9317F3C9E.quest_desc: ["O quarto nível."]
+	quest.4A9972F9317F3C9E.title: "Imperium"
+	quest.4A9C0F88BBDD4F21.quest_desc: ["Guarda uma quantidade enorme de um item ou fluido."]
+	quest.4A9C0F88BBDD4F21.title: "Armazenamento Buraco Negro"
+	quest.4ABAE24BDD41E02F.quest_desc: ["Na Yeti Cave da Floresta Nevada. A pele dele faz armadura contra o frio."]
+	quest.4ABAE24BDD41E02F.title: "Alpha Yeti"
+	quest.4B38B4CD73F9EF2F.quest_desc: ["O melhor traje espacial: aguenta o calor, guarda oxigênio e deixa você voar."]
+	quest.4B38B4CD73F9EF2F.title: "Jet Suit"
+	quest.4B4CEBB7769B2E0D.quest_desc: ["Armadura e sabre com energia, antes do nível Quantum."]
+	quest.4B4CEBB7769B2E0D.title: "Traje Nano"
+	quest.4B6694507E67765C.quest_desc: ["Feitos no Soul Binder. Usados nos melhores capacitores."]
+	quest.4B6694507E67765C.title: "Cristais"
+	quest.4BB62746A76E9BCA.quest_desc: ["Um spawner que funciona com energia, usando uma alma capturada num Soul Vial."]
+	quest.4BB62746A76E9BCA.title: "Powered Spawner"
+	quest.4BD431470C01530E.quest_desc: ["Tanques de Fluido com um Distillation Controller e calor separam o petróleo em diesel, gasolina e mais."]
+	quest.4BD431470C01530E.title: "Destilação"
+	quest.4BDFEB252B52B702.quest_desc: ["Foguetes só decolam de uma Launch Pad."]
+	quest.4BDFEB252B52B702.title: "Plataforma de Lançamento"
+	quest.4BF073D965EFEA51.quest_desc: ["O Control Stand do Aeroworks com módulos (manche, joystick, acelerador, pedais) é como você pilota o seu veículo."]
+	quest.4BF073D965EFEA51.title: "Cabine"
+	quest.4C542F63AE936851.quest_desc: ["Com um Backtank, o capacete de mergulho deixa respirar embaixo d'água. O conjunto de netherite deixa andar na lava."]
+	quest.4C542F63AE936851.title: "Equipamento de Mergulho"
+	quest.4C594C5A0FD6D267.quest_desc: ["A chefona da tempestade, na Acropolis."]
+	quest.4C594C5A0FD6D267.title: "Scylla"
+	quest.4C6117507D2D392E.quest_desc: ["Da Netherite Monstrosity. Um martelo que treme o chão."]
+	quest.4C6117507D2D392E.title: "Infernal Forge"
+	quest.4C88DC5FF63C919F.quest_desc: ["Apothic Spawners: quebre um spawner com Toque Suave e clique nele com itens para mudar velocidade, alcance e mais."]
+	quest.4C88DC5FF63C919F.title: "Melhorias de Spawner"
+	quest.4C8AD29F272C6750.quest_desc: ["Os cartões vão dentro dos barramentos e interfaces: mais velocidade, mais filtros, comparação aproximada."]
+	quest.4C8AD29F272C6750.title: "Cartões de Melhoria"
+	quest.4CA3AAA1ACFE58A2.quest_desc: ["As gemas do XyCraft existem em cinco cores, achadas no subsolo."]
+	quest.4CA3AAA1ACFE58A2.title: "Xychorium"
+	quest.4CC64B0AC96753C6.quest_desc: ["Os baús do Lootr dão loot próprio para cada jogador, então você nunca acha um baú vazio deixado por um amigo."]
+	quest.4CC64B0AC96753C6.title: "Loot Compartilhado"
+	quest.4CD6F2E65164C512.quest_desc: ["Coloque um catalisador na frente do ventilador para escolher o processamento sem lava nem água."]
+	quest.4CD6F2E65164C512.title: "Catalisadores de Ventilador"
+	quest.4CDFAFBB23E387C8.quest_desc: ["As hélices de Andesito e Inteligentes são mais fortes, e o Gyroscopic Propeller Bearing mantém a hélice apontada para onde você quer."]
+	quest.4CDFAFBB23E387C8.title: "Hélices Melhores"
+	quest.4DB0F6CED65758F9.quest_desc: ["Bombeia água para sempre de uma fonte embaixo dela. Com um Filter Upgrade, dá Água Pesada."]
+	quest.4DB0F6CED65758F9.title: "Bomba Elétrica"
+	quest.4DE68B32BB6D63C4.quest_desc: ["Comprime materiais com TNT Industrial. Mais tarde ele refaz o The Absolute a partir de 46 fragmentos."]
+	quest.4DE68B32BB6D63C4.title: "Implosion Compressor"
+	quest.4E69BFBDD55DFD56.quest_desc: ["O Pyromancer atira fogo, o Ender joga pérolas, o Sojourner coloca tochas de longe."]
+	quest.4E69BFBDD55DFD56.title: "Cajados"
+	quest.4F03D4D5903C5D21.quest_desc: ["Um Hot Air Burner embaixo de Hot Air Envelopes levanta o seu dirigível. Mais calor, mais subida."]
+	quest.4F03D4D5903C5D21.title: "Balão de Ar Quente"
+	quest.4F39335042358FF4.quest_desc: ["Uma dimensão sob um céu estrelado eterno. Monte a moldura do portal com os blocos do mod e atravesse."]
+	quest.4F39335042358FF4.title: "Eternal Starlight"
+	quest.4FA6B51369843D4A.quest_desc: ["Impede monstros de nascer numa área grande em volta. Perfeita para a sua base."]
+	quest.4FA6B51369843D4A.title: "Mega Tocha"
+	quest.4FE4E82211A92620.quest_desc: ["O Goo também transforma carvão em combustíveis melhores."]
+	quest.4FE4E82211A92620.title: "Gerador e Combustível"
+	quest.50921A400FCF47DE.quest_desc: ["Guarde energia FE em células e entregue às máquinas pela rede com o Flux Accessor."]
+	quest.50921A400FCF47DE.title: "Applied Flux"
+	quest.51024F5E8E5BC840.quest_desc: ["O Magmator queima lava. O Thermo Generator precisa de uma fonte de calor embaixo e água dentro."]
+	quest.51024F5E8E5BC840.title: "Magmator e Thermo"
+	quest.51228782A12C83CF.quest_desc: ["O Spout enche baldes, garrafas e itens na esteira. O Item Drain esvazia."]
+	quest.51228782A12C83CF.title: "Spout e Drain"
+	quest.517F6C41ADA9C257.quest_desc: [
+		"O Nucleon também existe como fluido. Coloque um Fluid Laser Drill do Industrial Foregoing para trabalhar com um Nucleon por perto para coletar."
+		""
+		"O The Absolute pede 1.800.000 mB."
+	]
+	quest.517F6C41ADA9C257.title: "Fluido Nucleon"
+	quest.51840CFCC1F690B7.quest_desc: ["Gira tudo o que está colado nele. Com velas coladas num Windmill Bearing, gera rotação com o vento."]
+	quest.51840CFCC1F690B7.title: "Rolamento Mecânico"
+	quest.518B9A8F1ADA869D.quest_desc: ["Cooking for Blockheads: a Mesa de Cozinha mostra toda receita que dá para fazer com o que tem na sua cozinha."]
+	quest.518B9A8F1ADA869D.title: "Mesa de Cozinha"
+	quest.51A4C4317820B3B5.quest_desc: ["Sorteie de novo a raridade e os afixos do equipamento com materiais e níveis."]
+	quest.51A4C4317820B3B5.title: "Reforja"
+	quest.51B337AD71769F3D.quest_desc: ["Coloque em cima de uma fonte de calor (fogueira, fogão ou fogo) e ponha os ingredientes dentro. As refeições dão efeitos longos."]
+	quest.51B337AD71769F3D.title: "Panela"
+	quest.51C10C495813D66A.quest_desc: ["Use um Sigil of Socketing na Mesa de Ferraria para adicionar um encaixe ao equipamento."]
+	quest.51C10C495813D66A.title: "Mais Encaixes"
+	quest.51E9F54CFBEE0F84.quest_desc: ["Um cajado para canalizar a sua magia."]
+	quest.51E9F54CFBEE0F84.title: "Cajado Místico"
+	quest.524DB2F5BEDD40E5.quest_desc: ["O TFMG traz a indústria pesada ao Create: fornos de coque, altos-fornos de aço, petróleo, plástico e motores grandes."]
+	quest.524DB2F5BEDD40E5.title: "The Factory Must Grow"
+	quest.525AEDA352361E59.quest_desc: ["Ache árvores de Menril e esprema as toras no Squeezer (ou numa Drying Basin) para pegar a Resina de Menril."]
+	quest.525AEDA352361E59.title: "Menril"
+	quest.52B48EE6C578C6D1.quest_desc: ["Dark Steel (ferro + carvão + obsidiana), Vibrant Alloy (Energetic Alloy + pérola do ender) e End Steel."]
+	quest.52B48EE6C578C6D1.title: "Ligas do Ender IO"
+	quest.52C7CBBEF4DE3FB9.quest_desc: ["Cozinhe um Ensopado de Carne. As refeições da Panela enchem muito mais que comida crua."]
+	quest.52C7CBBEF4DE3FB9.title: "Uma Refeição de Verdade"
+	quest.52D55B7BE7CFE0E4.quest_desc: ["O melhor material de bobina para turbinas."]
+	quest.52D55B7BE7CFE0E4.title: "Ludicrita"
+	quest.52EFBE9EB61FEAF6.quest_desc: ["Fabrica receitas sozinho."]
+	quest.52EFBE9EB61FEAF6.title: "Crafter"
+	quest.530F0D36C1D009D8.quest_desc: ["Acenda uma fruta Demon's Dream no chão. Jogue itens dentro: diamantes viram Spirit Attuned Gems, e assim por diante."]
+	quest.530F0D36C1D009D8.title: "Spirit Fire"
+	quest.531B85F2ABFBCF8D.quest_desc: ["Um ventilador soprando através de água lava os itens, através de lava ou fogo derrete, através de fogo das almas assombra."]
+	quest.531B85F2ABFBCF8D.title: "Processamento em Massa"
+	quest.531DB8AD2B9AF176.quest_desc: ["Use num espaço do Curios. Cada recipiente dentro dá corações: vermelho dos mobs, amarelo dos chefões, verde dos dragões, azul do Warden."]
+	quest.531DB8AD2B9AF176.title: "Amuleto de Coração"
+	quest.535B86EF0C945441.quest_desc: ["Use na bancada com 4 essências para subir o nível. O Master Infusion Crystal nunca quebra."]
+	quest.535B86EF0C945441.title: "Infusion Crystal"
+	quest.5393B95BC1057F8C.quest_desc: ["Aperte M para abrir o mapa do mundo e B para criar um marcador. Quando você morre, um marcador mostra o lugar."]
+	quest.5393B95BC1057F8C.title: "Mapa e Marcadores"
+	quest.53B692E2D3AA5B2F.quest_desc: ["Mata mobs na área e coleta os drops e a experiência como Essence."]
+	quest.53B692E2D3AA5B2F.title: "Mob Crusher"
+	quest.53CEE625EE8B6674.quest_desc: ["Duas Rodas Trituradoras girando uma contra a outra trituram minérios muito mais rápido que o Moinho, com bônus."]
+	quest.53CEE625EE8B6674.title: "Rodas Trituradoras"
+	quest.53DA5EAC7340DCEC.quest_desc: ["O Integrated Dynamics lê informações do mundo por cabos e Readers, e age com Writers."]
+	quest.53DA5EAC7340DCEC.title: "Cabos Lógicos"
+	quest.53E69BC03930BC04.quest_desc: ["As ligas Infused (redstone), Reinforced (diamante) e Atomic (obsidiana refinada) fazem os níveis de circuitos e máquinas."]
+	quest.53E69BC03930BC04.title: "Ligas"
+	quest.541E9BB7062A206B.quest_desc: ["Enchantment Industry: o Mechanical Grindstone transforma itens em experiência líquida."]
+	quest.541E9BB7062A206B.title: "Experiência Líquida"
+	quest.542E80679EFD4C6B.quest_desc: ["Um baú que só o dono abre, e que explosões não quebram."]
+	quest.542E80679EFD4C6B.title: "Cofre"
+	quest.549CD1AB9AE70A24.quest_desc: ["Usa almas de mobs capturadas (em Soul Vials) para fazer itens especiais."]
+	quest.549CD1AB9AE70A24.title: "Soul Binder"
+	quest.54B5420B5D29FEFA.quest_desc: ["Na Bumblezone, leve à Abelha Rainha os itens que ela pede e ela dá recompensas."]
+	quest.54B5420B5D29FEFA.title: "A Abelha Rainha"
+	quest.54CDEFDAA17D76D3.quest_desc: ["Fique em cima de uma, olhe para outra e pule (ou agache) para teleportar."]
+	quest.54CDEFDAA17D76D3.title: "Travel Anchors"
+	quest.54D054C155E4A916.quest_desc: ["Faça o controlador do Reator Absoluto na bancada: Blocos de Irídio, Blocos de Netherite, Carcaças do SPS e um Frasco Radioativo."]
+	quest.54D054C155E4A916.title: "Controlador do Reator Absoluto"
+	quest.54DE5AFCE78C9643.quest_desc: ["Picareta, machado e pá numa só, com todas as habilidades."]
+	quest.54DE5AFCE78C9643.title: "Eclipse Paxel"
+	quest.5560BA2A2BC42416.quest_desc: ["Empurram e puxam estruturas coladas em linha. Usados em portas, brocas e elevadores."]
+	quest.5560BA2A2BC42416.title: "Pistões e Pórticos"
+	quest.55C8CA7DCFB92FF2.quest_desc: ["Mais caixas de engrenagens, embreagens, freios e o Item Silo e o Fluid Vessel."]
+	quest.55C8CA7DCFB92FF2.title: "Create: Connected"
+	quest.562952C5BD26CB8B.quest_desc: ["Carrega o Quartzo Certus. Jogue certus carregado, redstone e quartzo do nether na água para fazer Cristais Fluix."]
+	quest.562952C5BD26CB8B.title: "Carregador"
+	quest.5667B25B12083F5C.quest_desc: [
+		"O Create Aeronautics, o Simulated e os addons deles transformam as máquinas do Create em veículos de verdade, com física: dirigíveis, aviões, carros e tanques."
+		""
+		"O Physics Assembler transforma uma máquina do Create num veículo com física."
+	]
+	quest.5667B25B12083F5C.quest_subtitle: "Construa o que voa e o que anda"
+	quest.5667B25B12083F5C.title: "Create Aeronautics"
+	quest.566F9B747F3AB2B8.quest_desc: ["Mata mobs com dano de jogador, então eles soltam itens raros e XP. Adicione melhorias de Looting e Beheading."]
+	quest.566F9B747F3AB2B8.title: "Mob Masher"
+	quest.56D8B78345BD7C2A.quest_desc: ["Electrum (ouro + prata), Invar (ferro + níquel) e Constantan (cobre + níquel). Faça em qualquer fundidor de ligas."]
+	quest.56D8B78345BD7C2A.title: "Ligas"
+	quest.57086556A63797DC.quest_desc: ["Torretas automáticas defendem a sua base. Dê munição a elas."]
+	quest.57086556A63797DC.title: "Torretas"
+	quest.571C2E89A128D964.quest_desc: ["Uma espada lendária."]
+	quest.571C2E89A128D964.title: "Caliburn"
+	quest.580D613CB803A867.quest_desc: ["Clique em blocos com ele para transformá-los, como criar a Forja de Hefesto."]
+	quest.580D613CB803A867.title: "Pó de Mundabitur"
+	quest.580DD70F8B4B8CAB.quest_desc: ["3 cobres + 1 estanho fazem bronze em qualquer máquina de ligas, ou misture os pós num Mixer do Create."]
+	quest.580DD70F8B4B8CAB.title: "Bronze"
+	quest.58290A2DE53967C8.quest_desc: ["Um traje Hazmat completo protege você. O Geiger Counter mostra a radiação. Guarde o lixo em Radioactive Waste Barrels."]
+	quest.58290A2DE53967C8.title: "Proteção contra Radiação"
+	quest.584B03EEF07BA8BA.quest_desc: ["O segundo nível."]
+	quest.584B03EEF07BA8BA.title: "Blazegold"
+	quest.584F4631E7327748.quest_desc: ["Circuitos Advanced, Elite e Ultimate: cada um é o circuito anterior mais a próxima liga."]
+	quest.584F4631E7327748.title: "Circuitos Melhores"
+	quest.5891CB3055EEFCC8.quest_desc: ["O Reliquary adiciona relíquias mágicas como a Mercy Cross, o Angelheart Vial e a Midas Touchstone."]
+	quest.5891CB3055EEFCC8.title: "Reliquary"
+	quest.589DCEF61FB692A8.quest_desc: ["Mostra quais chunks têm petróleo embaixo. Construa um Pumpjack em cima para extrair."]
+	quest.589DCEF61FB692A8.title: "Scanner de Petróleo"
+	quest.58A5056C44169A1C.quest_desc: ["O Flight Module num Environmental Controller deixa você voar numa área."]
+	quest.58A5056C44169A1C.title: "Voo"
+	quest.58C1C7F8AE1D5245.quest_desc: ["Canhões de aço e Nethersteel aguentam mais cargas de pólvora e atiram bem mais longe."]
+	quest.58C1C7F8AE1D5245.title: "Canhões de Aço"
+	quest.59389CC557A54E02.quest_desc: ["Usadas nos reatores do Oritech e no Low-Yield Nuke."]
+	quest.59389CC557A54E02.title: "Pastilhas de Urânio"
+	quest.596FE926B2E29BE6.quest_desc: ["Transforma o vapor do reator em muita energia."]
+	quest.596FE926B2E29BE6.title: "Turbina Industrial"
+	quest.59AE02A80E9E9788.quest_desc: ["Clique nos blocos com o Reinforcer: eles ficam inquebráveis para todos, menos para você."]
+	quest.59AE02A80E9E9788.title: "Blocos Reforçados"
+	quest.59E06D63FE4F610D.quest_desc: ["Cozinha comida sobre o calor, e serve de arma."]
+	quest.59E06D63FE4F610D.title: "Frigideira"
+	quest.59F1C074E12889DE.quest_desc: ["O Ore Magnet puxa minérios para a superfície. A Uncrafting Table desmonta itens."]
+	quest.59F1C074E12889DE.title: "Achados Úteis"
+	quest.59FE699D565F6573.quest_desc: ["Junte gemas e Gem Dust para subir a qualidade de uma gema."]
+	quest.59FE699D565F6573.title: "Lapidação"
+	quest.5A21EA2D3B15AC61.quest_desc: [
+		"Andesito + pepita de ferro (ou zinco). É a base de tudo no Create."
+		"&eO Create funciona com rotação: uma fonte gira eixos e engrenagens, e as máquinas usam essa rotação."
+	]
+	quest.5A21EA2D3B15AC61.title: "Liga de Andesito"
+	quest.5A34147F674229D0.quest_desc: ["Encontra ninhos naturais do tipo que você escolher."]
+	quest.5A34147F674229D0.title: "Localizador de Ninhos"
+	quest.5A6F2931C9CBC87E.quest_desc: ["Chemical Reactor, Centrifuge e Electrolyzer processam fluidos em plásticos, borracha e gases."]
+	quest.5A6F2931C9CBC87E.title: "Química"
+	quest.5A9F6D8FBB663B6C.quest_desc: ["O Annihilation Plane quebra blocos para dentro da rede; o Formation Plane coloca."]
+	quest.5A9F6D8FBB663B6C.title: "Planos"
+	quest.5AA851C77DEB7324.quest_desc: ["Energia simples e grátis durante o dia."]
+	quest.5AA851C77DEB7324.title: "Painéis Solares"
+	quest.5AACDA415D6967F1.quest_desc: ["Fabrique a partir da rede e escreva Padrões para a fabricação automática."]
+	quest.5AACDA415D6967F1.title: "Crafting Terminal"
+	quest.5AB0749196C81EA9.quest_desc: ["As Iron Furnaces derretem mais rápido. Use kits de melhoria para trocar uma fornalha por uma melhor."]
+	quest.5AB0749196C81EA9.title: "Fornalhas Melhores"
+	quest.5ADFC6CDF864330D.quest_desc: ["Dê uma pepita de ouro a um Starbuncle selvagem para ganhar um fragmento, faça o amuleto e ele leva itens entre baús para você."]
+	quest.5ADFC6CDF864330D.title: "Starbuncles"
+	quest.5AE9957E0FE0A8B4.quest_desc: ["Dois aldeões e comida dentro fazem bebês aldeões."]
+	quest.5AE9957E0FE0A8B4.title: "Reprodutor"
+	quest.5AF1FE41FA0653F6.quest_desc: ["As estantes superiores sobem o limite de nível até 100."]
+	quest.5AF1FE41FA0653F6.title: "Estantes do Mar e do End"
+	quest.5AFA4808A31C4EBD.quest_desc: ["Cano + câmara + culatra, em linha. Quanto mais longo o cano, mais longe ele atira."]
+	quest.5AFA4808A31C4EBD.title: "Um Canhão"
+	quest.5B6A8A3D2E9FA040.quest_desc: ["O Crafting Storage decide o tamanho do pedido; os Accelerators deixam mais rápido. Monte uma CPU para cada pedido simultâneo."]
+	quest.5B6A8A3D2E9FA040.title: "CPU de Crafting"
+	quest.5B7BCBB67B80DC3F.quest_desc: ["Milhões de FE por tick, mas &cextremamente perigoso&r: se o campo falhar, ele explode. Ele alimenta o Reator Absoluto."]
+	quest.5B7BCBB67B80DC3F.title: "&cReator Dracônico"
+	quest.5BF4ACB5D1C825DE.quest_desc: ["Energia sem fio: IO Crystals nas máquinas, Relay Crystals no meio. Ligue com o Crystal Binder."]
+	quest.5BF4ACB5D1C825DE.title: "Cristais de Energia"
+	quest.5C356A5382D4B96D.quest_desc: ["Pouse em Vênus, o planeta da chuva ácida."]
+	quest.5C356A5382D4B96D.title: "Vênus"
+	quest.5C7EFEB5BB4ED602.quest_desc: ["A Meteorite Compass aponta para os meteoritos do AE2, que guardam as prensas de processador."]
+	quest.5C7EFEB5BB4ED602.title: "Meteoritos"
+	quest.5C86295742DF5517.quest_desc: ["O último nível de circuito. É usado no Controlador Dimensional e no The Absolute."]
+	quest.5C86295742DF5517.title: "&5Circuito Quântico"
+	quest.5C8C652E108305C2.quest_desc: ["Uma grade de Mechanical Crafters faz receitas grandes sozinha, como a Bomba Atômica."]
+	quest.5C8C652E108305C2.title: "Mechanical Crafters"
+	quest.5CA8DE86548A3984.quest_desc: ["Uma broca que minera áreas enormes, com energia. Carregue no Infinity Charger."]
+	quest.5CA8DE86548A3984.title: "Infinity Drill"
+	quest.5D13BD126C44C698.quest_desc: ["Os Range Addons aumentam a área de trabalho. Os de Speed e Efficiency deixam as máquinas mais rápidas e baratas."]
+	quest.5D13BD126C44C698.title: "Addons de Máquina"
+	quest.5D2EA24EE1848787.quest_desc: ["Movem itens sem energia."]
+	quest.5D2EA24EE1848787.title: "Esteiras"
+	quest.5D3A7EDB94021C7E.quest_desc: ["Morgan e Clarent, as espadas sombria e rebelde."]
+	quest.5D3A7EDB94021C7E.title: "Lâminas Lendárias"
+	quest.5D502CEC000B870E.quest_desc: [
+		"{image:kubejs:textures/quests/altar_radioativo.png width:256 height:144 align:center}"
+		""
+		"Dentro das usinas existe um Altar Radioativo, no centro de uma arena redonda."
+		""
+		"Clique nele com o botão direito segurando um Cristal de Fogo para começar o ritual. O céu fica verde, e o Nucleon desperta."
+	]
+	quest.5D502CEC000B870E.title: "O Altar Radioativo"
+	quest.5DDFE1C39F24F325.quest_desc: ["Cada aparelho usa 1 canal. Um cabo normal leva 8, um cabo denso leva 32. O Controlador dá 32 canais por lado."]
+	quest.5DDFE1C39F24F325.title: "Cabos e Canais"
+	quest.5DE012FDD82B061B.quest_desc: ["Encontre minério de ferro nas cavernas, derreta e faça uma picareta de ferro. A maioria dos mods começa aqui."]
+	quest.5DE012FDD82B061B.title: "Idade do Ferro"
+	quest.5E0C8AA95068FB36.quest_desc: ["Monte a moldura em volta do Teleporter e escolha uma frequência. O Portable Teleporter leva você a qualquer um."]
+	quest.5E0C8AA95068FB36.title: "Teleportador"
+	quest.5E0CB93FAFF337E3.quest_desc: ["Melhorias para as máquinas do EvilCraft: níveis e velocidade."]
+	quest.5E0CB93FAFF337E3.title: "Promessas"
+	quest.5E0E5565BB871EAB.quest_desc: [
+		"{image:kubejs:textures/quests/nucleon.png width:256 height:144 align:center}"
+		""
+		"Derrote o Nucleon. Ele se protege com um escudo radioativo: quebre o escudo para acertar o chefão."
+		""
+		"É uma luta difícil: leve o seu melhor equipamento, cura e muita munição."
+	]
+	quest.5E0E5565BB871EAB.quest_subtitle: "O chefão radioativo"
+	quest.5E0E5565BB871EAB.title: "&cO Nucleon"
+	quest.5E108F3229886E41.quest_desc: ["Uma bateria gigante feita de blocos em volta do Energy Core. Ela pode guardar trilhões de energia."]
+	quest.5E108F3229886E41.title: "Energy Core"
+	quest.5E56A26D1DCD86E6.quest_desc: ["O melhor equipamento do Mekanism. Adicione módulos na Modification Station."]
+	quest.5E56A26D1DCD86E6.title: "MekaSuit e Meka-Tool"
+	quest.5EB39398DC375AAB.quest_desc: ["Carrega muita munição e alimenta as suas armas."]
+	quest.5EB39398DC375AAB.title: "Caixa de Munição"
+	quest.5ED50008955104C9.quest_desc: ["Transforma placas em fios e hastes."]
+	quest.5ED50008955104C9.title: "Laminador"
+	quest.5F35F737556FEAF4.quest_desc: [
+		"Este livro guia você por todos os mods do modpack, da primeira árvore até o The Absolute."
+		"Cada quest explica o que fazer e como, então você nunca precisa de tutorial de fora. Use o JEI (lista de itens à direita) para ver a receita de qualquer coisa: passe o mouse no item e aperte R."
+	]
+	quest.5F35F737556FEAF4.title: "Bem-vindo ao Sujjs Legacy!"
+	quest.5F8FA59028B0537B.quest_desc: ["A bomba grande do Oritech. É usada no The Absolute."]
+	quest.5F8FA59028B0537B.title: "&cManhattan Module"
+	quest.5FA2CF76510EF2D7.quest_desc: ["Esquente petróleo na Refinery para separar em Diesel, Querosene, Gasolina e LPG."]
+	quest.5FA2CF76510EF2D7.title: "Refinaria"
+	quest.5FC4BA9BD32F9986.quest_desc: ["Do Leviathan. Agarre mobs de longe."]
+	quest.5FC4BA9BD32F9986.title: "Tidal Claws"
+	quest.603A0FD93CA366F3.quest_desc: ["Energia grátis durante o dia."]
+	quest.603A0FD93CA366F3.title: "Painel Solar"
+	quest.605D5171CB8890D4.quest_desc: [
+		"Feita no Assembler do Modern Industrialization, a 512 EU/t, com Irídio, Plasma Core, Liga Atômica, Polônio, um Ultimate Control Circuit, Cryofluid e Tritium."
+		""
+		"É a base de toda a munição de fim de jogo. Automatize cedo: as receitas finais pedem centenas."
+	]
+	quest.605D5171CB8890D4.quest_subtitle: "Serve em qualquer arma"
+	quest.605D5171CB8890D4.title: "Munição Universal"
+	quest.605FD4503B0B8AA0.quest_desc: ["A base de toda máquina. Molduras melhores (Simple, Advanced, Supreme) fazem máquinas melhores."]
+	quest.605FD4503B0B8AA0.title: "Moldura Pity"
+	quest.607CACD3BF1EFE3D.quest_desc: ["O guia do Mahou Tsukai explica cada escola de magia."]
+	quest.607CACD3BF1EFE3D.title: "Guia"
+	quest.617EEE706E3B790B.quest_desc: ["Um gerador simples para as primeiras máquinas."]
+	quest.617EEE706E3B790B.title: "Gerador a Carvão"
+	quest.61B76E150801405E.quest_desc: ["Treine um Data Model matando mobs e depois simule na Simulation Chamber para farmar os drops sem matar nada."]
+	quest.61B76E150801405E.title: "Hostile Neural Networks"
+	quest.61C52FC1DFCEC29E.quest_desc: ["Queima combustível para energia. O Powah também tem Magmators (lava), Painéis Solares e Thermo Generators."]
+	quest.61C52FC1DFCEC29E.title: "Furnator"
+	quest.61F077AFE3E3F988.quest_desc: ["Dois Laser Blocks de frente um para o outro fazem um sensor. Ligue a um Alarme."]
+	quest.61F077AFE3E3F988.title: "Lasers e Alarmes"
+	quest.61FC9A7C0F786B6B.quest_desc: ["Uma estrutura: coloque o controlador e siga o holograma (clique com a chave) para ver os blocos."]
+	quest.61FC9A7C0F786B6B.title: "Forno de Coque"
+	quest.6285CA2497631681.quest_desc: ["Coloque o canhão no suporte e gire com rotação para mirar."]
+	quest.6285CA2497631681.title: "Suporte de Canhão"
+	quest.62B6221BFE1556DD.quest_desc: ["Quando você morre, os itens ficam num túmulo onde você caiu. Volte e abra para recuperar tudo."]
+	quest.62B6221BFE1556DD.title: "O Seu Túmulo"
+	quest.62BCDA8E1CC2AEBD.quest_desc: ["Uma bomba nuclear pequena. Acenda com cuidado."]
+	quest.62BCDA8E1CC2AEBD.title: "Low-Yield Nuke"
+	quest.62DF1079D8496F42.quest_desc: ["O metal do Mekanism."]
+	quest.62DF1079D8496F42.title: "Ósmio"
+	quest.6300D481B0279DEE.quest_desc: ["Os HE Shells explodem no impacto. Adicione espoletas para escolher quando explodem."]
+	quest.6300D481B0279DEE.title: "Projéteis Explosivos"
+	quest.632BD217E2C29AC7.quest_desc: ["Uma CPU de crafting gigante que roda muitos pedidos ao mesmo tempo."]
+	quest.632BD217E2C29AC7.title: "Computador Quântico"
+	quest.6382182F5B3E8601.quest_desc: ["O Ironwood é ferro + Liveroot + ouro. O Steeleaf fica nos baús dos labirintos."]
+	quest.6382182F5B3E8601.title: "Ironwood e Steeleaf"
+	quest.63B72FF76DA8D20C.quest_desc: ["Clique na conexão do cano com a chave para escolher entrada ou saída. As cores separam as redes."]
+	quest.63B72FF76DA8D20C.title: "Canos"
+	quest.63D32B2A49696DAE.quest_desc: ["Refina petróleo em combustível e plástico."]
+	quest.63D32B2A49696DAE.title: "Refinaria"
+	quest.642059A69C825190.quest_desc: ["Os Logistical Transporters levam itens, os Mechanical Pipes levam fluidos e os Pressurized Tubes levam gases."]
+	quest.642059A69C825190.title: "Transporte"
+	quest.642F4CBA0F741823.quest_desc: ["Dá sinal só quando o dono olha para ele."]
+	quest.642F4CBA0F741823.title: "Leitor de Retina"
+	quest.645B7C5706B9F0BA.quest_desc: ["Roda várias cópias de uma mesma máquina numa estrutura só."]
+	quest.645B7C5706B9F0BA.title: "Processing Array"
+	quest.646FEC75BD9B5337.quest_desc: ["Feito com Chaos Shards do Chaos Guardian. Usado no Controlador Dimensional e no The Absolute."]
+	quest.646FEC75BD9B5337.title: "&4Núcleo Caótico"
+	quest.6490732DA5C1981A.quest_desc: ["A UU Matter vem do fim de jogo do MI. O Replicador copia qualquer item com ela. O The Absolute precisa de 112.500 mB."]
+	quest.6490732DA5C1981A.title: "UU Matter e Replicador"
+	quest.652A54175F5B8307.quest_desc: ["Copia livros encantados, livros escritos e schedules usando experiência."]
+	quest.652A54175F5B8307.title: "Impressora"
+	quest.652A5A11548DC760.quest_desc: ["Os pneus e suportes do Offroad transformam uma máquina num carro."]
+	quest.652A5A11548DC760.title: "Rodas"
+	quest.6578547D5C2FA0C6.quest_desc: ["Source Gems com itens em pedestais em volta da Imbuement Chamber viram essências elementais."]
+	quest.6578547D5C2FA0C6.title: "Essências"
+	quest.658E7FC4E04DCAF3.quest_desc: ["Vêm do minério de Prosperidade. Usados nas bases de sementes e nos Infusion Crystals."]
+	quest.658E7FC4E04DCAF3.title: "Fragmentos de Prosperidade"
+	quest.6595FA215E760D1C.quest_desc: ["O guerreiro amaldiçoado da Frosted Prison."]
+	quest.6595FA215E760D1C.title: "Maledictus"
+	quest.65A13EC2D05D2CB8.quest_desc: ["O melhor livro de feitiços: o máximo de glifos e mana. Derrote a Wilden Chimera para pegar as partes dela."]
+	quest.65A13EC2D05D2CB8.title: "Livro de Arquimago"
+	quest.65A845D55E821C48.quest_desc: ["Vento (melhor no alto), Solar e Bio (queima Bio Fuel do Crusher)."]
+	quest.65A845D55E821C48.title: "Mais Geradores"
+	quest.65B6254A10C42134.quest_desc: ["Guarda a Burning Arena no Nether. Ele derruba o Cristal de Fogo (50% de chance), necessário para o ritual do Nucleon."]
+	quest.65B6254A10C42134.title: "Ignited Revenant"
+	quest.65B66A522CC11B29.quest_desc: ["Crimson Steel (do Nether) e Azure Electrum (do End) são materiais de topo. O Tyrian Steel junta os dois."]
+	quest.65B66A522CC11B29.title: "Ligas do Silent Gear"
+	quest.65E288497646BCFB.quest_desc: ["Telhados, janelas, portas, pontes, cercas, luzes e móveis para a sua casa."]
+	quest.65E288497646BCFB.title: "Macaw's"
+	quest.65F62C8C57F7AABE.quest_desc: ["Supplementaries: as Jarras guardam fluidos, biscoitos e até mobs pequenos. Os Sacos são pequenos baús portáteis."]
+	quest.65F62C8C57F7AABE.title: "Jarras e Sacos"
+	quest.6606E37ECEEAC6E2.quest_desc: ["As esteiras levam itens entre as máquinas. Use a esteira entre dois eixos e coloque as máquinas em cima."]
+	quest.6606E37ECEEAC6E2.title: "Esteiras e Depots"
+	quest.6614C4A6FEC1D20D.quest_desc: ["Mystical Agradditions: o sexto nível. O Bloco de Insanium é usado no The Absolute."]
+	quest.6614C4A6FEC1D20D.title: "&5Insanium"
+	quest.66154E462C993C55.quest_desc: ["Mande itens, fluidos e energia por qualquer distância por canal."]
+	quest.66154E462C993C55.title: "Ender Transmission"
+	quest.6644971D6C1866B5.quest_desc: ["Chega a temperaturas mais altas para metais mais duros. Bobinas melhores dão mais calor."]
+	quest.6644971D6C1866B5.title: "Alto-Forno Elétrico"
+	quest.666A7EB2178ACE7A.quest_desc: ["Minera só os minérios que você filtrar, num raio grande, sem deixar buracos na superfície."]
+	quest.666A7EB2178ACE7A.title: "Digital Miner"
+	quest.667352B762AF6DD1.quest_desc: ["Pias, balcões, armários, geladeiras e fornos encostados formam uma cozinha só. A Mesa de Cozinha usa tudo o que está dentro deles."]
+	quest.667352B762AF6DD1.title: "Uma Cozinha Completa"
+	quest.670A6061A9C004D8.quest_desc: ["Do Harbinger. Faz a Wither Assault Shoulder Weapon, um lançador de mísseis."]
+	quest.670A6061A9C004D8.title: "Witherite"
+	quest.6760917F3037BAB3.quest_desc: ["O Lich solta um cetro: o Twilight atira, o Life Drain cura você, o Zombie invoca ajudantes, o Fortification protege."]
+	quest.6760917F3037BAB3.title: "Cetros"
+	quest.6781998E1070AD9C.quest_desc: ["Dissolution Chamber, Chemical Washer e Chemical Crystallizer juntos: 1 minério vira 5 lingotes."]
+	quest.6781998E1070AD9C.title: "Minério x5"
+	quest.67BBC2EBA8703DB9.quest_desc: ["As máquinas mostram os espaços de addon como hologramas em volta. Coloque addons ali para velocidade, eficiência e mais."]
+	quest.67BBC2EBA8703DB9.title: "Addons de Máquina"
+	quest.67E977285BCB8A7B.quest_desc: ["Transforma as Predictions em qualquer drop daquele mob, sem matar nada."]
+	quest.67E977285BCB8A7B.title: "Loot Fabricator"
+	quest.682398BF0EC65776.quest_desc: ["As abelhas também polinizam árvores: o Productive Trees adiciona centenas de árvores frutíferas e madeiras novas."]
+	quest.682398BF0EC65776.title: "Productive Trees"
+	quest.68293EEBE58BA076.quest_desc: ["Slice \\& Dice: um aspersor do Create que rega plantações, e um Slicer que corta comida sozinho."]
+	quest.68293EEBE58BA076.title: "Aspersor"
+	quest.6831EA6498388BC3.quest_desc: ["Prensa placas, hastes e engrenagens com moldes."]
+	quest.6831EA6498388BC3.title: "Prensa de Metal"
+	quest.6845C6B7D2274FFD.quest_desc: ["Classifica os materiais de E a MAX. Notas melhores dão atributos melhores."]
+	quest.6845C6B7D2274FFD.title: "Classificador de Materiais"
+	quest.684E0216886F357D.quest_desc: ["A Fuel Refinery transforma petróleo em combustível de foguete. Procure petróleo no subsolo e nos oceanos."]
+	quest.684E0216886F357D.title: "Combustível de Foguete"
+	quest.68759676CD982F61.quest_desc: ["Uma roda gigante que minera veios minerais achados com a Core Sample Drill. Minérios infinitos!"]
+	quest.68759676CD982F61.title: "Escavadeira"
+	quest.68B6AE762D3BF772.quest_desc: ["Soque uma árvore, transforme as toras em tábuas e faça uma bancada."]
+	quest.68B6AE762D3BF772.title: "Bancada de Trabalho"
+	quest.68ECD1B302C5BF3E.quest_desc: ["Sintonize num minério e ela mostra onde está o mais próximo."]
+	quest.68ECD1B302C5BF3E.title: "Divination Rod"
+	quest.68FD987A3B6B40AC.quest_desc: ["Aparelhos mais rápidos e packs inteiros de uma vez."]
+	quest.68FD987A3B6B40AC.title: "Melhorias"
+	quest.6904959C430BBEED.quest_desc: ["O MFFS transforma energia em Fortron, o combustível dos campos de força."]
+	quest.6904959C430BBEED.title: "Coercion Deriver"
+	quest.6904C75D4F45B265.quest_desc: ["Guarda energia. Melhore depois na bancada."]
+	quest.6904C75D4F45B265.title: "Cubo de Energia"
+	quest.6910BBAD04F26584.quest_desc: ["O Ostrum vem de Marte. Ele é usado no Foguete Nível 3."]
+	quest.6910BBAD04F26584.title: "Ostrum"
+	quest.69315D11765C9EB9.quest_desc: ["Um canhão de tiro rápido alimentado com cartuchos."]
+	quest.69315D11765C9EB9.title: "Autocanhão"
+	quest.6936B0EC241F71E6.quest_desc: ["Deixa um item inquebrável na forja."]
+	quest.6936B0EC241F71E6.title: "Eternal Stella"
+	quest.694395503CA95A00.quest_desc: ["Crie variáveis e operadores para automatizar qualquer coisa com lógica."]
+	quest.694395503CA95A00.title: "Logic Programmer"
+	quest.694D16340FE590F4.quest_desc: ["As máquinas do Oritech crescem com addons colocados em volta delas. O Pulverizer dobra os minérios."]
+	quest.694D16340FE590F4.title: "Oritech"
+	quest.696F6B86C5B96863.quest_desc: ["Plante na terra arada: elas produzem mais Essência de Inferium."]
+	quest.696F6B86C5B96863.title: "Sementes de Inferium"
+	quest.69C2B2AE0EB583EE.quest_desc: ["Colocam e tiram energia do Energy Core. Coloque vidro em cima ou embaixo para escolher a direção."]
+	quest.69C2B2AE0EB583EE.title: "Energy Pylons"
+	quest.69D88CBADD8057EE.quest_desc: ["Puxe itens para dentro, mande para fora, e use qualquer baú como External Storage."]
+	quest.69D88CBADD8057EE.title: "Importador e Exportador"
+	quest.69E17286234415EA.quest_desc: ["Coloque conectores e clique neles com um rolo de fio para ligar. O LV Accumulator guarda energia."]
+	quest.69E17286234415EA.title: "Fios e Baterias"
+	quest.69E66DBD36A31A43.quest_desc: ["Com cloreto de hidrogênio, a Chemical Injection Chamber transforma 1 minério em 4 shards."]
+	quest.69E66DBD36A31A43.title: "Minério x4"
+	quest.69E9AD6E501EC684.quest_desc: ["Um Propeller Bearing com uma hélice empurra o seu veículo para frente. Alimente com rotação."]
+	quest.69E9AD6E501EC684.title: "Hélices"
+	quest.69FC31F4837C2C75.quest_desc: ["Segure G em cima de qualquer item do AE2 para abrir a página do guia. Tudo está explicado lá."]
+	quest.69FC31F4837C2C75.title: "Guia do AE2"
+	quest.6A3D1EFD28C2B4AD.quest_desc: [
+		"Montada na Gun Bench do Scorched Guns, com o Scorched Blueprint, peças pesadas, um Frasco Radioativo, Polônio e um Bloco de Urânio."
+		""
+		"Ela atira Balas Radioativas."
+	]
+	quest.6A3D1EFD28C2B4AD.quest_subtitle: "200 balas de pura radiação"
+	quest.6A3D1EFD28C2B4AD.title: "Minigun Radioativa"
+	quest.6A6A42213AF679D3.quest_desc: ["No coração do Labirinto, no pântano."]
+	quest.6A6A42213AF679D3.title: "Minoshroom"
+	quest.6A80116C2FB600B6.quest_desc: ["Mede a distância entre dois blocos."]
+	quest.6A80116C2FB600B6.title: "Trena"
+	quest.6A8C6FD953234D66.quest_desc: ["O terceiro nível."]
+	quest.6A8C6FD953234D66.title: "Celestigem"
+	quest.6AB4AE213B7F84C4.quest_desc: ["Simula o mob com energia e Prediction Matrices, dando Predictions."]
+	quest.6AB4AE213B7F84C4.title: "Simulation Chamber"
+	quest.6AC6C5C217F8684B.quest_desc: ["A Navigation Table e o Altitude Sensor ajudam a saber onde você está e a que altura voa."]
+	quest.6AC6C5C217F8684B.title: "Navegação"
+	quest.6AFD9E4DB339330F.quest_desc: ["A Levitita flutua. Alguns blocos dela deixam uma estrutura mais leve que o ar."]
+	quest.6AFD9E4DB339330F.title: "Levitita"
+	quest.6AFF6AAD929333AA.quest_desc: ["Dispara um laser que transforma o bloco ou itens na frente. Usado para fazer os Cristais."]
+	quest.6AFF6AAD929333AA.title: "Atomic Reconstructor"
+	quest.6B299C4617851FDF.quest_desc: ["Um projeto + materiais na bancada fazem uma peça. Uma cabeça + um cabo fazem a ferramenta."]
+	quest.6B299C4617851FDF.title: "Projetos de Ferramenta"
+	quest.6B55218228B3A3E3.quest_desc: [
+		"Junte 46 Fragmentos do Absoluto."
+		""
+		"No Implosion Compressor do Modern Industrialization, com 4 TNTs Industriais, um Frasco Radioativo, um Draconic Core e um Bloco de Irídio, eles viram um novo The Absolute, sem o reator."
+	]
+	quest.6B55218228B3A3E3.title: "O Segundo Caminho"
+	quest.6B5DF274D6A78EB1.quest_desc: ["Os processadores Logic, Calculation e Engineering são o coração de toda peça do AE2."]
+	quest.6B5DF274D6A78EB1.title: "Processadores"
+	quest.6B795168B7AE93A4.quest_desc: ["Robôs que você programa para minerar, construir e plantar. Dê uma picareta e combustível."]
+	quest.6B795168B7AE93A4.title: "Turtles"
+	quest.6B8DB50B030F9849.quest_desc: ["Salve programas em disquetes e leve entre computadores."]
+	quest.6B8DB50B030F9849.title: "Discos"
+	quest.6BB4A45CCB850CFA.quest_desc: ["Fluidos ligados por frequência. O tablet manda os itens coletados para o seu Baú Dimensional."]
+	quest.6BB4A45CCB850CFA.title: "Tanque Dimensional"
+	quest.6BE3B3F3AF7AA596.quest_desc: ["Um monstro do mar na Sunken City."]
+	quest.6BE3B3F3AF7AA596.title: "The Leviathan"
+	quest.6C112ABA40DC9FDB.quest_desc: ["Monstros nascem nela muito mais rápido, até na luz. A Delightful Dirt faz o mesmo com animais."]
+	quest.6C112ABA40DC9FDB.title: "Dreadful Dirt"
+	quest.6C1B1C75644ACD68.quest_desc: [
+		"Cada favo da Abelha Absoluta tem 1% de chance de dar um Fragmento do Absoluto na centrífuga."
+		""
+		"Um fragmento a cada 10.000 voltas para a colmeia, em média. Construa grande."
+	]
+	quest.6C1B1C75644ACD68.title: "Fragmento do Absoluto"
+	quest.6C5C01302190BC61.quest_desc: ["O combustível do reator. Minere Yellorite e derreta."]
+	quest.6C5C01302190BC61.title: "Yellorium"
+	quest.6C88D1C96851BE47.quest_desc: ["Proteja a sua base em servidores: fechaduras, câmeras, alarmes, minas e blocos reforçados. O manual lista tudo."]
+	quest.6C88D1C96851BE47.title: "SecurityCraft"
+	quest.6CE9942CEB9D5D0A.quest_desc: ["Guarda rotação e devolve depois."]
+	quest.6CE9942CEB9D5D0A.title: "Bateria Cinética"
+	quest.6D0EBFD3C70D5B01.quest_desc: ["Os canhões são fundidos com metal derretido em moldes."]
+	quest.6D0EBFD3C70D5B01.title: "Ferro Fundido"
+	quest.6D1E897278C1DF77.quest_desc: ["Guarda todo livro encantado como pontos. Retire qualquer nível para o qual tenha pontos."]
+	quest.6D1E897278C1DF77.title: "Biblioteca de Encantamentos"
+	quest.6D59B64518F48F0D.quest_desc: ["Esmeralda no Energizing Orb."]
+	quest.6D59B64518F48F0D.title: "Cristal Espiritual"
+	quest.6D910DF066A52E97.quest_desc: ["Motor, Piston, Conveyor, Robot Arm e Pump: toda máquina elétrica é feita com eles."]
+	quest.6D910DF066A52E97.title: "Peças de Máquina"
+	quest.6D9AC5D2992C9999.quest_desc: ["Um controlador gerencia uma rede inteira de cabos e conectores, com filtros e prioridades."]
+	quest.6D9AC5D2992C9999.title: "XNet"
+	quest.6DA2789C666248DE.quest_desc: ["Queima combustível para energia."]
+	quest.6DA2789C666248DE.title: "Gerador Stirling"
+	quest.6DA8A0EC2858723F.quest_desc: ["O material mais valioso do Mekanism. É usado na Bomba Atômica, na Munição Infinita e no The Absolute."]
+	quest.6DA8A0EC2858723F.title: "&5Antimatéria"
+	quest.6E00E385B4774F5F.quest_desc: ["Igual ao Ore Laser, mas para fluidos. Com um Nucleon por perto, ele coleta o fluido Nucleon para o The Absolute."]
+	quest.6E00E385B4774F5F.title: "Fluid Laser Base"
+	quest.6E1C7BE371C0E78D.quest_desc: ["Monte um dirigível ou avião, transforme com o Physics Assembler e voe com ele."]
+	quest.6E1C7BE371C0E78D.title: "Primeiro Voo"
+	quest.6E21526C1303DB49.quest_desc: ["Os Whirlisprigs cultivam plantas, as Wixies fabricam e fazem poções, os Drygmies coletam drops de mobs sem matar."]
+	quest.6E21526C1303DB49.title: "Ajudantes Mágicos"
+	quest.6E2557AE5298AC32.quest_desc: ["Uma broca que minera 3 x 3, movida a diesel. Melhore na bancada de engenheiro."]
+	quest.6E2557AE5298AC32.title: "Broca de Mineração"
+	quest.6E40A3DC2A667689.quest_desc: ["Acelere itens num anel e colida para fazer materiais exóticos."]
+	quest.6E40A3DC2A667689.title: "Acelerador de Partículas"
+	quest.6E52DA31D37A98BB.quest_desc: ["Derrete minérios e ligas com eletricidade, usando eletrodos de grafite."]
+	quest.6E52DA31D37A98BB.title: "Forno a Arco"
+	quest.6E64095B9DE4F516.quest_desc: ["Ouro transformado com Pó de Mundabitur e Pó de Cristal Arcano."]
+	quest.6E64095B9DE4F516.title: "Deorum"
+	quest.6E6EEB5FE5B1869C.quest_desc: ["8 pedregulhos fazem uma fornalha. Use para derreter minérios e cozinhar comida."]
+	quest.6E6EEB5FE5B1869C.title: "Fornalha"
+	quest.6EA3D18194BD51AA.quest_desc: ["A Water Pump dá água e a Caldeira queima combustível para transformar em vapor."]
+	quest.6EA3D18194BD51AA.title: "Caldeira"
+	quest.6F127A67A73D2E3C.quest_desc: ["Acelera as plantações acima dele."]
+	quest.6F127A67A73D2E3C.title: "Acelerador de Crescimento"
+	quest.6F276143970EBC71.quest_desc: ["Triture gemas no Mortar and Pestle. Os pós desenham círculos mágicos (Mahoujin)."]
+	quest.6F276143970EBC71.title: "Pós"
+	quest.6F3D614D696B2DD4.quest_desc: ["Pattern Provider + Molecular Assembler + CPU de Crafting: peça qualquer item e a rede fabrica."]
+	quest.6F3D614D696B2DD4.title: "Fabricação Automática"
+	quest.6F3E2CCC5BC9D8EC.quest_desc: ["Blocos que pegam a aparência de qualquer bloco com que você clicar neles, em vários formatos."]
+	quest.6F3E2CCC5BC9D8EC.title: "Copycats"
+	quest.6F4BD5EA520D46AE.quest_desc: ["Cada coluna de barras precisa de um Control Rod em cima. Os Access Ports colocam combustível e tiram resíduo. O Power Tap entrega a energia."]
+	quest.6F4BD5EA520D46AE.title: "Peças do Reator"
+	quest.6F7039E7221FF9F3.quest_desc: ["Esteiras de tanque sobem em qualquer lugar. Junte com o Create Big Cannons para um tanque de verdade."]
+	quest.6F7039E7221FF9F3.title: "Esteiras"
+	quest.6F747F09610A924B.quest_desc: ["QuarryPlus: coloque 3 marcadores em L para definir a área, a Quarry ao lado de um e dê energia. Ela cava até a bedrock."]
+	quest.6F747F09610A924B.title: "Pedreira"
+	quest.6F87C33B4DB2F03F.quest_desc: ["A Powered funciona com energia. A Heated também derrete os favos em mel líquido."]
+	quest.6F87C33B4DB2F03F.title: "Centrífugas Melhores"
+	quest.70502A510BFE1370.quest_desc: ["Complete a moldura do Portal do End com os Olhos do Ender e pule dentro."]
+	quest.70502A510BFE1370.title: "O End"
+	quest.70D1810850B9AC55.quest_desc: ["Separa água em hidrogênio e oxigênio. O hidrogênio também alimenta o Gas-Burning Generator."]
+	quest.70D1810850B9AC55.title: "Electrolytic Separator"
+	quest.71A2A56EA9FAD1C2.quest_desc: ["Cada nível de espírito (Foliot, Djinni, Afrit, Marid) precisa do seu livro vinculado. Escreva o nome com Purified Ink."]
+	quest.71A2A56EA9FAD1C2.title: "Livros de Vínculo"
+	quest.71BB2B9E11F69948.quest_desc: ["Esmague matéria numa Singularidade e exploda com Ender Dust: duas singularidades ligadas. Elas ligam Quantum Bridges entre dimensões."]
+	quest.71BB2B9E11F69948.title: "Singularidade Quântica"
+	quest.71E5D5C9840E3642.quest_desc: ["Destrua os cristais no topo das torres de obsidiana e depois derrote o dragão."]
+	quest.71E5D5C9840E3642.title: "&5Dragão do Ender"
+	quest.71F3A1F307A0A79F.quest_desc: ["Define qualquer velocidade para a engrenagem grande acima dele."]
+	quest.71F3A1F307A0A79F.title: "Controlador de Velocidade"
+	quest.720ECD4ED85B8FA2.quest_desc: ["O melhor equipamento do mod, feito com Escamas de Dragão na forja."]
+	quest.720ECD4ED85B8FA2.title: "Draco Arcanus"
+	quest.724340D04C6A1AC6.quest_desc: ["Protege a área de dentro: mata ou bloqueia invasores. O Biometric Identifier diz quem é permitido."]
+	quest.724340D04C6A1AC6.title: "Interdiction Matrix"
+	quest.72B4D6BA4288CBB7.quest_desc: ["Guarda energia. Níveis melhores guardam muito mais."]
+	quest.72B4D6BA4288CBB7.title: "Célula de Energia"
+	quest.72FA60C1AD3575B9.quest_desc: ["Todo metal tem placas, engrenagens, hastes e pós. Faça com martelo, prensa ou as máquinas de cada mod."]
+	quest.72FA60C1AD3575B9.title: "Placas e Engrenagens"
+	quest.7305D23501116829.quest_desc: ["Matar Withers num Mob Crusher dá Ether Gas. O The Absolute precisa de 900.000 mB."]
+	quest.7305D23501116829.title: "Ether Gas"
+	quest.73B8E730ACC22C27.quest_desc: ["Queima os espinhos das Thornlands para abrir o caminho até o Final Plateau."]
+	quest.73B8E730ACC22C27.title: "Lamp of Cinders"
+	quest.73D08B23F8A56647.quest_desc: ["Gemas achadas no subsolo. Minere com Fortuna para conseguir mais."]
+	quest.73D08B23F8A56647.title: "Rubi e Safira"
+	quest.7403874DE9181A53.quest_desc: ["O projeto das armas mais fortes, e da Minigun Radioativa."]
+	quest.7403874DE9181A53.title: "Projeto Scorched"
+	quest.742C50F55C3CC3D3.quest_desc: ["Cada nível de Fusion precisa de injetores daquele nível. O Controlador Dimensional precisa de 14 injetores Caóticos."]
+	quest.742C50F55C3CC3D3.title: "Injetores Melhores"
+	quest.7453E8E1B4EFFB32.quest_desc: ["Espoletas de impacto, de tempo e de proximidade decidem quando o projétil explode."]
+	quest.7453E8E1B4EFFB32.title: "Espoletas"
+	quest.7462B28D1B493173.quest_desc: ["Fica na estrutura Soul Black Smith no Nether."]
+	quest.7462B28D1B493173.title: "Netherite Monstrosity"
+	quest.74FC265D5523B66B.quest_desc: ["Transforma a rotação de uma Roda d'Água ou Moinho de Vento em energia."]
+	quest.74FC265D5523B66B.title: "Dínamo Cinético"
+	quest.751B91E45E123AE7.quest_desc: ["Lápis-lazúli ou ametista na Imbuement Chamber. O material base do mod."]
+	quest.751B91E45E123AE7.title: "Source Gems"
+	quest.7549A2B35AD6826D.quest_desc: ["Tanques de Fluido com Blaze Burners embaixo viram uma caldeira. Coloque um Motor a Vapor do lado para muita rotação."]
+	quest.7549A2B35AD6826D.title: "Motor a Vapor"
+	quest.75662A02272F8FDF.quest_desc: ["Um rifle eletromagnético que atravessa fileiras de mobs."]
+	quest.75662A02272F8FDF.title: "Gauss Rifle"
+	quest.75CF6503339669A0.quest_desc: ["Mói minérios em minérios triturados, que dão lingotes extras quando lavados e derretidos."]
+	quest.75CF6503339669A0.title: "Moinho"
+	quest.7636D9124C9A0F4D.quest_desc: ["O Atomic Disassembler é toda ferramenta numa só. O Jetpack voa com hidrogênio. Os Free Runners tiram o dano de queda."]
+	quest.7636D9124C9A0F4D.title: "Ferramentas"
+	quest.763D4DD5B05F090E.quest_desc: ["Peças maiores e melhores do AE2: Extended Pattern Providers, Assembler Matrix e mais."]
+	quest.763D4DD5B05F090E.title: "ExtendedAE"
+	quest.76643AC98EBD9F91.quest_desc: ["Guarda ar para respirar embaixo d'água e alimenta ferramentas do Create como o Extendo Grip."]
+	quest.76643AC98EBD9F91.title: "Tanque de Ar"
+	quest.768B8992B2F01DB8.quest_desc: ["As armas de energia usam plasma. O Plasma Core é usado na Munição Universal."]
+	quest.768B8992B2F01DB8.title: "Plasma"
+	quest.76B652D1CB1DA906.quest_desc: ["Dois anéis de 8 Quantum Rings em volta de um Quantum Link, cada um com uma das singularidades do par: uma rede em dois lugares."]
+	quest.76B652D1CB1DA906.title: "Ponte Quântica"
+	quest.76BDEBC82AD50219.quest_desc: ["Braços robóticos que cortam e furam peças, como os PCBs avançados."]
+	quest.76BDEBC82AD50219.title: "Linha de Montagem"
+	quest.76CB6D27221095BB.quest_desc: ["Uma estrutura que captura raios para uma descarga enorme de energia."]
+	quest.76CB6D27221095BB.title: "Para-Raios"
+	quest.770627E8836189DB.quest_desc: ["Os monstros derrubam equipamentos com afixos (atributos bônus) e gemas. Coloque as gemas nos encaixes do equipamento na Mesa de Ferraria."]
+	quest.770627E8836189DB.title: "Gemas e Afixos"
+	quest.772D1FCCD90E06B8.quest_desc: ["Cada estrutura de chefão tem o seu olho, feito como um Olho do Ender. Jogue para achar a estrutura."]
+	quest.772D1FCCD90E06B8.title: "Olhos dos Chefões"
+	quest.77AD644B6D06E28A.quest_desc: ["Na bigorna: o Scrap Tome tira um encantamento do item, o Extraction Tome tira todos sem destruir."]
+	quest.77AD644B6D06E28A.title: "Tomos"
+	quest.77C41AE5821B2BA6.quest_desc: ["Acesse a rede de longe."]
+	quest.77C41AE5821B2BA6.title: "Grid Sem Fio"
+	quest.77ECDC139AB5BAE8.quest_desc: ["Bata nos materiais em cima dela com um martelo para mudar o formato."]
+	quest.77ECDC139AB5BAE8.title: "Stone Anvil"
+	quest.78308B783D2A49BF.quest_desc: ["Uma torre de 4 x 4 com até 18 de altura. A água vira salmoura, e a salmoura vira lítio. Sol e calor aceleram."]
+	quest.78308B783D2A49BF.title: "Torre de Evaporação"
+	quest.7831722A78AAAE3E.quest_desc: ["Levam energia. Níveis maiores levam mais."]
+	quest.7831722A78AAAE3E.title: "Cabos de Energia"
+	quest.7852BDDCF4179361.quest_desc: ["Guarda Fortron e manda sem fio para máquinas na mesma frequência (definida com um Frequency Card)."]
+	quest.7852BDDCF4179361.title: "Fortron Capacitor"
+	quest.7875F87E7C0CF751.quest_desc: ["Carrega comida e alimenta você a partir dela."]
+	quest.7875F87E7C0CF751.title: "Lancheira"
+	quest.7899929221855C55.quest_desc: ["Um espírito dentro dela minera minérios de outra dimensão, para sempre."]
+	quest.7899929221855C55.title: "Mina Dimensional"
+	quest.7965F9FEE0201C21.quest_desc: ["O quinto nível. O equipamento de Supremium é muito forte."]
+	quest.7965F9FEE0201C21.title: "Supremium"
+	quest.7972719F669D79D6.quest_desc: ["O terceiro nível."]
+	quest.7972719F669D79D6.title: "Tertium"
+	quest.79A7BC1989571AD7.quest_desc: ["Leve um baú inteiro nas costas. Clique com o botão direito para abrir, ou aperte B."]
+	quest.79A7BC1989571AD7.title: "Mochila"
+	quest.79D4CE822DB17BE4.quest_desc: ["Controlador + Disk Drive com discos + Grid: todos os itens numa tela. Ligue com cabos."]
+	quest.79D4CE822DB17BE4.title: "Rede de Armazenamento"
+	quest.79D4CF802BEB35B4.quest_desc: ["Um Matter Transmitter manda você para um Matter Receiver, configurado com o Dialing Device."]
+	quest.79D4CF802BEB35B4.title: "Teleportadores"
+	quest.79DD0E0D63D790DB.quest_desc: [
+		"{image:kubejs:textures/quests/dimensao_radioativa.png width:256 height:144 align:center}"
+		""
+		"Use o Controlador Dimensional para entrar na Dimensão Radioativa."
+		""
+		"&cCuidado:&r a radiação machuca. Leve proteção e cura."
+	]
+	quest.79DD0E0D63D790DB.title: "Rumo à Radiação"
+	quest.7A6245600D4F9F8F.quest_desc: ["A Mercy Cross dá dano extra em mortos-vivos. A Magicbane fica mais forte com encantamentos."]
+	quest.7A6245600D4F9F8F.title: "Armas Sagradas"
+	quest.7AE86511A9E01FE1.quest_desc: ["Negocia sozinho: entram itens, saem esmeraldas ou produtos."]
+	quest.7AE86511A9E01FE1.title: "Comércio Automático"
+	quest.7B20DCBF78961261.quest_desc: ["Um metal raro para eletrônicos avançados."]
+	quest.7B20DCBF78961261.title: "Platina"
+	quest.7B2A773FA07B890C.quest_desc: ["Mekanism More Machines: prensa, torno e laminador para placas, hastes e fios, além de fábricas para quase toda máquina."]
+	quest.7B2A773FA07B890C.title: "Mais Máquinas"
+	quest.7B464445DBB13CBC.quest_desc: ["Um ímã de itens e XP."]
+	quest.7B464445DBB13CBC.title: "Moeda da Fortuna"
+	quest.7B790EFCE2B72F8D.quest_desc: ["O reator também bebe Source do Ars Nouveau: 3.600.000 por receita, por uma entrada de Source na parede da torre."]
+	quest.7B790EFCE2B72F8D.title: "Source Absoluto"
+	quest.7B960B19387EBFCE.quest_desc: [
+		"O The Absolute precisa de mais quatro fluidos, em quantidades enormes:"
+		""
+		"- Time Fluid (Just Dire Things): 1.800.000 mB"
+		"- Ether Gas (Industrial Foregoing): 900.000 mB"
+		"- Tritium (Modern Industrialization): 450.000 mB"
+		"- UU Matter (Modern Industrialization): 112.500 mB"
+		""
+		"Traga um balde de cada para provar que consegue fazer. Depois, construa as fábricas."
+	]
+	quest.7B960B19387EBFCE.title: "Fluidos Impossíveis"
+	quest.7BC277AD58B604B7.quest_desc: ["A Thermopneumatic Processing Plant transforma LPG em plástico derretido; despeje e deixe esfriar."]
+	quest.7BC277AD58B604B7.title: "Plástico"
+	quest.7C79468A72A033D8.quest_desc: ["As Warp Plates teleportam quem fica em cima para a placa ligada. Os Return Scrolls levam você para a última waystone."]
+	quest.7C79468A72A033D8.title: "Placas e Pergaminhos"
+	quest.7C8B7E93FA90A242.quest_desc: ["Adicione Augments ao equipamento de essência na Tinkering Table: absorção, velocidade, força, voo."]
+	quest.7C8B7E93FA90A242.title: "Equipamento Supremium"
+	quest.7CAC4DF97FF8B270.quest_desc: ["Guarda XP líquida. O XP Tap devolve para você."]
+	quest.7CAC4DF97FF8B270.title: "Tanque de XP"
+	quest.7CB6B29B1A18B712.quest_desc: ["As máquinas ficam mais rápidas com capacitores melhores no espaço delas."]
+	quest.7CB6B29B1A18B712.title: "Capacitores"
+	quest.7CC5626BE88C6008.quest_desc: ["Moedas e lojas para servidores: o Vendor vende itens por moedas, o Bank Terminal guarda o seu dinheiro."]
+	quest.7CC5626BE88C6008.title: "Numismatics"
+	quest.7CCDA53AF3A997DC.quest_desc: ["Simply Light e Additional Lights adicionam lâmpadas de toda cor e formato."]
+	quest.7CCDA53AF3A997DC.title: "Luzes"
+	quest.7CE704A25FAA9874.quest_desc: ["O Aquaculture adiciona muitos peixes, varas melhores, anzóis e iscas. Pesque em biomas diferentes para pegar coisas diferentes."]
+	quest.7CE704A25FAA9874.title: "Pesca Melhor"
+	quest.7CEBC36E75A0EFDE.quest_desc: ["Feito por Montagem Sequencial: uma série de Deployers e Prensas em cima de uma esteira. Veja a receita no JEI para ver cada passo."]
+	quest.7CEBC36E75A0EFDE.title: "Mecanismo de Precisão"
+	quest.7D0F919907D1BAF5.quest_desc: ["O primeiro núcleo. É a base das máquinas dracônicas."]
+	quest.7D0F919907D1BAF5.title: "Núcleo de Dracônio"
+	quest.7DBCC2A0AEAEDAC3.quest_desc: ["Um propulsor elétrico: sem combustível, só energia."]
+	quest.7DBCC2A0AEAEDAC3.title: "Propulsor Iônico"
+	quest.7DC23B799E307A49.quest_desc: ["Junte uma cabeça, um cabo e mais partes na bancada. Cada material dá atributos diferentes."]
+	quest.7DC23B799E307A49.title: "A Sua Própria Ferramenta"
+	quest.7DD270A563D6F1F7.quest_desc: ["O Animal Feeder reproduz os animais e o Rancher tosquia e ordenha."]
+	quest.7DD270A563D6F1F7.title: "Pecuária"
+	quest.7E524B6799FE0799.quest_desc: ["Transferem mana entre jogadores e círculos."]
+	quest.7E524B6799FE0799.title: "Circuitos de Mana"
+	quest.7E65CD1F8F81FAC3.quest_desc: ["Terra que faz as plantações crescerem mais rápido e colhe sozinha nos níveis maiores."]
+	quest.7E65CD1F8F81FAC3.title: "Goo Soil"
+	quest.7E74F8C6F211BC5F.quest_desc: ["Esfria lingotes quentes e faz Cryofluid, necessário para a Munição Universal e o The Absolute."]
+	quest.7E74F8C6F211BC5F.title: "Vacuum Freezer"
+	quest.7EAE914BB6D14344.quest_desc: ["Escreva padrões na Pattern Grid e coloque num Autocrafter."]
+	quest.7EAE914BB6D14344.title: "Fabricação Automática"
+	quest.7EAFF09EA1A6FBA6.quest_desc: ["Ache um Oil Deposit no nível da bedrock e monte o pumpjack em cima."]
+	quest.7EAFF09EA1A6FBA6.title: "Pumpjack do TFMG"
+	quest.7F3323333424E791.quest_desc: ["Logística avançada: os Packagers empacotam itens, as Chain Conveyors e os Frogports entregam, e os Stock Links deixam pedir qualquer coisa por um Stock Ticker."]
+	quest.7F3323333424E791.title: "Pacotes e Sapos"
+	quest.7F46AF30F6BD18BE.quest_desc: ["Um aldeão dentro cria Golems de Ferro que viram ferro."]
+	quest.7F46AF30F6BD18BE.title: "Fazenda de Ferro"
+	quest.7F494C9C911CEAA9.quest_desc: ["No topo da Dark Tower, na Floresta Escura."]
+	quest.7F494C9C911CEAA9.title: "Ur-Ghast"
+	quest.7F4EFC94EF99623F.quest_desc: ["O quarto nível de circuito."]
+	quest.7F4EFC94EF99623F.title: "Unidade de Processamento"
+	quest.7F53DE1F6D4E960E.quest_desc: ["Os discos de fluido guardam líquidos na mesma rede. Veja pelo Grid."]
+	quest.7F53DE1F6D4E960E.title: "Fluidos"
+	quest.7F7F28103F740CD6.quest_desc: ["Um reator de 3 x 4 x 3 que queima Uraninita. Mantenha frio com água, gelo ou Dry Ice."]
+	quest.7F7F28103F740CD6.title: "Reator do Powah"
+	quest.7F99BA1E02F6DF68.quest_desc: ["As bombas mecânicas movem fluidos por canos. A Hose Pulley esvazia ou enche lagos inteiros."]
+	quest.7F99BA1E02F6DF68.title: "Fluidos"
+	quest.7FCA6BC557D09306.quest_desc: ["O Solar Neutron Activator transforma o lixo nuclear em polônio. Usado no SPS e em muitas receitas de fim de jogo."]
+	quest.7FCA6BC557D09306.title: "Polônio"
+	quest.7FD3AE048A209D2C.quest_desc: ["Coloca um espírito capturado para trabalhar, dando os drops do mob dele."]
+	quest.7FD3AE048A209D2C.title: "Spirit Furnace"
+	quest.7FDB2DB4BDDD782C.quest_desc: ["As máquinas elétricas precisam de casco e circuitos. A energia vem de turbinas e geradores."]
+	quest.7FDB2DB4BDDD782C.title: "Eletricidade"
+	quest.7FFDB8D73913ACD2.quest_desc: ["As Laser Drills apontam para uma Ore Laser Base e fazem minérios aparecerem do nada. As lentes escolhem qual minério. Gasta muita energia."]
+	quest.7FFDB8D73913ACD2.title: "Broca a Laser"
+}

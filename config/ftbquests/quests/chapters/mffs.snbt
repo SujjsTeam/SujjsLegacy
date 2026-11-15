@@ -1,0 +1,118 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mffs"
+	group: "1C3F63935DBC9AF9"
+	icon: {
+		id: "mffs:projector"
+	}
+	id: "568EEC507AA83F39"
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "6904959C430BBEED"
+			rewards: [{
+				id: "5461ADD6BD1F3AFC"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "06F8ADC6A90E9C9F"
+				item: { count: 1, id: "mffs:coercion_deriver" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6904959C430BBEED"]
+			id: "7852BDDCF4179361"
+			rewards: [{
+				id: "1ABA6414FF181B77"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4AC47E2754F689BD"
+				item: { count: 1, id: "mffs:fortron_capacitor" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7852BDDCF4179361"]
+			id: "19B8C7C90FC0F1FA"
+			rewards: [{
+				id: "2630CE7C423E1071"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "7CE3F7F54F1A2223"
+					item: { count: 1, id: "mffs:projector" }
+					type: "item"
+				}
+				{
+					id: "7B8D3A8472115A82"
+					item: { count: 1, id: "mffs:cube_mode" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["19B8C7C90FC0F1FA"]
+			id: "1C322A49693F06F5"
+			rewards: [{
+				id: "52303478F54CA8BE"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6F72B644886509A0"
+					item: { count: 1, id: "mffs:scale_module" }
+					type: "item"
+				}
+				{
+					id: "1DC3C7B84576674A"
+					item: { count: 1, id: "mffs:shock_module" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["19B8C7C90FC0F1FA"]
+			id: "724340D04C6A1AC6"
+			rewards: [{
+				id: "5198EA7473347B2E"
+				type: "xp"
+				xp: 120
+			}]
+			tasks: [
+				{
+					id: "0C53D790F60B8E8C"
+					item: { count: 1, id: "mffs:interdiction_matrix" }
+					type: "item"
+				}
+				{
+					id: "62383FF06BF8B1ED"
+					item: { count: 1, id: "mffs:biometric_identifier" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.75d
+		}
+	]
+}

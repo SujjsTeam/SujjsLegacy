@@ -1,0 +1,63 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "xycraft"
+	group: "1C3F63935DBC9AF9"
+	icon: {
+		id: "xycraft_world:xychorium_gem_blue"
+	}
+	id: "39F802FDFB9D3A62"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "4CA3AAA1ACFE58A2"
+			rewards: [{
+				id: "0F0847A411359FFC"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "76699FBCD1FB076B"
+				item: { count: 1, id: "xycraft_world:xychorium_gem_blue" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4CA3AAA1ACFE58A2"]
+			id: "46FAB5081510C998"
+			rewards: [{
+				id: "39F1628BA91395D2"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "521B7FD83B970354"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["4CA3AAA1ACFE58A2"]
+			id: "494B158D8DFB78BC"
+			rewards: [{
+				id: "36CF4BA39D3098E8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2356FB592841E693"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+	]
+}

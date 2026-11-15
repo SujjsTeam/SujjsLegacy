@@ -1,0 +1,53 @@
+[fps]
+	#Lowers the FPS when the game is not in focus, minimized or paused, to save GPU, CPU and battery.
+	dynamicFps = true
+	#FPS limit when the game window is not in focus.
+	# Default: 20
+	# Range: 1 ~ 260
+	unfocusedFps = 20
+	#FPS limit when the game window is minimized.
+	# Default: 5
+	# Range: 1 ~ 260
+	minimizedFps = 5
+	#FPS limit when the game is paused inside a world.
+	# Default: 30
+	# Range: 1 ~ 260
+	pausedFps = 30
+
+[particles]
+	#Limits how many particles can exist at the same time.
+	particleLimit = true
+	#Maximum number of particles at the same time.
+	# Default: 2000
+	# Range: 100 ~ 16384
+	maxParticles = 4000
+
+[memory]
+	#Shows a chat warning when the game has less memory than recommended, or more than the PC can give.
+	memoryWarning = true
+	#Fixed recommended memory, in MB, set by the modpack. 0 = automatic: calculated from the mods installed in this instance.
+	# Default: 0
+	# Range: 0 ~ 65536
+	fixedMemoryMb = 0
+	#Shows the game memory and the recommended memory in a corner of the title screen.
+	showOnTitle = false
+
+[hardware]
+	#Set to true after the first launch screen that offers video settings for this PC. Set to false to see it again.
+	hardwarePromptDone = true
+	#When the game runs on an integrated graphics card, shows a chat tip on how to use the dedicated one, if the PC has it.
+	integratedGpuTip = true
+
+[adaptive]
+	#While playing, lowers the render distance when the FPS is below the target, and raises it back when there is room. In singleplayer, also lowers the simulation distance when the world is lagging.
+	adaptiveQuality = true
+	#FPS the adaptive quality tries to keep.
+	# Default: 40
+	# Range: 20 ~ 144
+	adaptiveTargetFps = 40
+	#Lowest render distance, in chunks, the adaptive quality can go down to.
+	# Default: 4
+	# Range: 2 ~ 16
+	adaptiveMinRender = 4
+	#Shows a short message above the hotbar when the adaptive quality changes a distance.
+	adaptiveMessages = true

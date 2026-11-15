@@ -1,0 +1,63 @@
+name: Bug Report
+description: Something is broken, but the game did not crash
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Broken recipes, quests that do not complete, machines that do not work and similar problems.
+
+  - type: input
+    id: version
+    attributes:
+      label: Pack version
+      placeholder: "1.0.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      options:
+        - Singleplayer
+        - Multiplayer (LAN or Radmin VPN)
+        - Dedicated server
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What is the problem?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we reproduce it?
+      placeholder: |
+        1. Place the machine
+        2. Insert the items
+        3. Nothing happens
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen?
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs
+      description: Upload `logs/latest.log` to https://mclo.gs and paste the link here.
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Drag images here if they help.

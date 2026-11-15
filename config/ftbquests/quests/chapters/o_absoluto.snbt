@@ -1,0 +1,461 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "o_absoluto"
+	group: "6E3F94836C5DCB81"
+	icon: {
+		id: "sujjstweaks:the_absolute"
+	}
+	id: "71BCCBCCCA73E48D"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"29A11FBA97E52AE2"
+				"3F5FCC608CAD066C"
+				"768B8992B2F01DB8"
+			]
+			id: "605D5171CB8890D4"
+			rewards: [{
+				id: "6C752D4352FCCD34"
+				type: "xp"
+				xp: 400
+			}]
+			tasks: [{
+				count: 16L
+				id: "459B5DCD57F2DB03"
+				item: { count: 1, id: "sujjstweaks:universal_ammo" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["605D5171CB8890D4"]
+			id: "1E0CCC1B12E3E583"
+			rewards: [{
+				id: "3E4FF3E110668807"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				count: 8L
+				id: "5B6331671DB29C0F"
+				item: { count: 1, id: "sujjstweaks:radioactive_round" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["605D5171CB8890D4"]
+			id: "085FA4F6AB212713"
+			rewards: [{
+				id: "4737EA8F3E59ADBB"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [{
+				id: "12A55392138384B0"
+				item: { count: 1, id: "sujjstweaks:infinite_ammo" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: [
+				"1E0CCC1B12E3E583"
+				"7403874DE9181A53"
+			]
+			id: "6A3D1EFD28C2B4AD"
+			rewards: [{
+				id: "7F106E4FD5B16AEA"
+				type: "xp"
+				xp: 1500
+			}]
+			shape: "diamond"
+			size: 1.5d
+			tasks: [{
+				id: "64592A87BBCE1938"
+				item: { count: 1, id: "sujjstweaks:radioactive_minigun" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.0d
+		}
+		{
+			dependencies: [
+				"29A11FBA97E52AE2"
+				"5C8C652E108305C2"
+				"6DA8A0EC2858723F"
+				"5F8FA59028B0537B"
+			]
+			id: "23CD098900F6BB28"
+			rewards: [{
+				id: "696E3853B406BCB7"
+				type: "xp"
+				xp: 1500
+			}]
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "6D880E94CD800CE8"
+				item: { count: 1, id: "sujjstweaks:atomic_bomb" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["29A11FBA97E52AE2"]
+			icon: {
+				id: "modular_machinery_reborn:controller"
+			}
+			id: "54D054C155E4A916"
+			rewards: [{
+				id: "2E3300580EB6E86D"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "5B6667B8876B35D8"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["54D054C155E4A916"]
+			icon: {
+				id: "modular_machinery_reborn:controller"
+			}
+			id: "07B17B4D0FB4BC24"
+			rewards: [{
+				id: "49790F8DA06845A6"
+				type: "xp"
+				xp: 3000
+			}]
+			shape: "hexagon"
+			size: 2.5d
+			tasks: [{
+				id: "591523542E733A02"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"07B17B4D0FB4BC24"
+				"6E00E385B4774F5F"
+			]
+			id: "517F6C41ADA9C257"
+			rewards: [{
+				id: "2AE5CAD7593C29C8"
+				type: "xp"
+				xp: 800
+			}]
+			tasks: [{
+				id: "612E89A002FF2DBD"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"07B17B4D0FB4BC24"
+				"7305D23501116829"
+				"046128AFA686F0C9"
+				"1AEBCA4BBE7A0F45"
+			]
+			icon: {
+				id: "modern_industrialization:uu_matter_bucket"
+			}
+			id: "7B960B19387EBFCE"
+			rewards: [{
+				id: "7006723F026DCF07"
+				type: "xp"
+				xp: 1500
+			}]
+			tasks: [
+				{
+					id: "3E72C19E176F5D31"
+					item: { count: 1, id: "justdirethings:time_fluid_bucket" }
+					type: "item"
+				}
+				{
+					id: "127399D3E7002592"
+					item: { count: 1, id: "industrialforegoing:ether_gas_bucket" }
+					type: "item"
+				}
+				{
+					id: "1AF77691B10381AA"
+					item: { count: 1, id: "modern_industrialization:tritium_bucket" }
+					type: "item"
+				}
+				{
+					id: "50724FE73B4A8235"
+					item: { count: 1, id: "modern_industrialization:uu_matter_bucket" }
+					type: "item"
+				}
+			]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"07B17B4D0FB4BC24"
+				"07A268D2768FA85A"
+			]
+			icon: {
+				id: "ars_nouveau:source_jar"
+			}
+			id: "7B790EFCE2B72F8D"
+			rewards: [{
+				id: "271BE622857F2F61"
+				type: "xp"
+				xp: 800
+			}]
+			tasks: [{
+				id: "467D7F2576F735DB"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"07B17B4D0FB4BC24"
+				"5B7BCBB67B80DC3F"
+			]
+			icon: {
+				id: "draconicevolution:draconium_block"
+			}
+			id: "21AF27D68F78DE5E"
+			rewards: [{
+				id: "6CEE7F1DDB3A5A0E"
+				type: "xp"
+				xp: 800
+			}]
+			tasks: [{
+				id: "06ABBD65CC144AA0"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"29A11FBA97E52AE2"
+				"646FEC75BD9B5337"
+				"6DA8A0EC2858723F"
+				"07EA63794CE30048"
+				"6614C4A6FEC1D20D"
+				"1303F35C26271B1A"
+				"5C86295742DF5517"
+				"5F8FA59028B0537B"
+			]
+			icon: {
+				id: "draconicevolution:chaotic_core"
+			}
+			id: "3DDB9BDDFECD6943"
+			rewards: [{
+				id: "44845EAD5A785164"
+				type: "xp"
+				xp: 2500
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "2EE4FC1CA9BCC295"
+					item: { count: 1, id: "draconicevolution:chaotic_core" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2AC9B2456F4056EA"
+					item: { count: 1, id: "mekanism:pellet_antimatter" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6F6B2B99E83468CC"
+					item: { count: 1, id: "powah:crystal_nitro" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6B7C60EEF4BFDFBF"
+					item: { count: 1, id: "mysticalagradditions:insanium_block" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "560B8960DD70C3FC"
+					item: { count: 1, id: "advanced_ae:quantum_processor" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "55A5CC2423F663F3"
+					item: { count: 1, id: "modern_industrialization:quantum_circuit" }
+					type: "item"
+				}
+				{
+					id: "1D5E587D03E6A4C9"
+					item: { count: 1, id: "oritech:nuke" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"605D5171CB8890D4"
+				"1E0CCC1B12E3E583"
+				"085FA4F6AB212713"
+				"23CD098900F6BB28"
+				"07B17B4D0FB4BC24"
+				"517F6C41ADA9C257"
+				"7B960B19387EBFCE"
+				"7B790EFCE2B72F8D"
+				"21AF27D68F78DE5E"
+				"3DDB9BDDFECD6943"
+				"3C3C72B1D5EF54AD"
+				"2715CDB3229ABE2F"
+			]
+			id: "38D8F3AAFA70EE34"
+			rewards: [{
+				id: "5345B7F8FD009118"
+				type: "xp"
+				xp: 10000
+			}]
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "713AF480FED17F1D"
+				item: { count: 1, id: "sujjstweaks:the_absolute" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"38D8F3AAFA70EE34"
+				"27A834C4B2403446"
+			]
+			id: "1228FA5A346AF83D"
+			rewards: [{
+				id: "3D295C5151FE47C4"
+				type: "xp"
+				xp: 3000
+			}]
+			shape: "square"
+			tasks: [{
+				id: "467C0F1AAC041358"
+				item: { count: 1, id: "sujjstweaks:the_absolute_block" }
+				type: "item"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"1228FA5A346AF83D"
+				"1FB9A9CB953A595B"
+			]
+			icon: {
+				id: "productivebees:configurable_honeycomb"
+			}
+			id: "29F17B16F32C4D2F"
+			rewards: [{
+				id: "2107B63C5D6F4578"
+				type: "xp"
+				xp: 2000
+			}]
+			tasks: [{
+				id: "29571851C63E0513"
+				type: "checkmark"
+			}]
+			x: 23.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["29F17B16F32C4D2F"]
+			id: "6C1B1C75644ACD68"
+			rewards: [{
+				id: "6FB233B3B8FC964B"
+				type: "xp"
+				xp: 2000
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "57D4BF773520923E"
+				item: { count: 1, id: "sujjstweaks:absolute_fragment" }
+				type: "item"
+			}]
+			x: 26.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6C1B1C75644ACD68"
+				"4DE68B32BB6D63C4"
+			]
+			icon: {
+				id: "modern_industrialization:implosion_compressor"
+			}
+			id: "6B55218228B3A3E3"
+			rewards: [{
+				id: "304173E52B5F1FC1"
+				type: "xp"
+				xp: 6000
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				count: 46L
+				id: "60411581B50353D6"
+				item: { count: 1, id: "sujjstweaks:absolute_fragment" }
+				type: "item"
+			}]
+			x: 26.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["38D8F3AAFA70EE34"]
+			icon: {
+				id: "sujjstweaks:the_absolute_block"
+			}
+			id: "4736893C01D14D6A"
+			rewards: [
+				{
+					id: "7FB066BDB02224B1"
+					type: "xp"
+					xp: 20000
+				}
+				{
+					id: "14BBE36561EC55DE"
+					item: {
+						count: 1
+						id: "sujjstweaks:the_absolute"
+					}
+					type: "item"
+				}
+			]
+			shape: "heart"
+			size: 3.0d
+			tasks: [{
+				id: "4CA5A1F2F562AD53"
+				type: "checkmark"
+			}]
+			x: 20.0d
+			y: 6.0d
+		}
+	]
+}

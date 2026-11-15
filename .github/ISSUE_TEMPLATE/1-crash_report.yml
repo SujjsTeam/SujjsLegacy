@@ -1,0 +1,53 @@
+name: Crash Report
+description: The game crashed or did not start
+title: "[Crash] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        When the game crashes, the Crash Assistant window opens. Click the button to upload the logs, then paste the message it copies below.
+
+  - type: input
+    id: version
+    attributes:
+      label: Pack version
+      description: Shown in the CurseForge App and on the main menu.
+      placeholder: "1.0.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: where
+    attributes:
+      label: Where did it happen?
+      options:
+        - While starting the game
+        - Singleplayer
+        - Multiplayer (LAN or Radmin VPN)
+        - Dedicated server
+    validations:
+      required: true
+
+  - type: textarea
+    id: crash_assistant
+    attributes:
+      label: Crash Assistant message
+      description: Paste the message Crash Assistant copied for you.
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: What were you doing?
+      description: For example, opening a GUI, placing a block, entering a dimension.
+    validations:
+      required: true
+
+  - type: textarea
+    id: changes
+    attributes:
+      label: Did you change anything?
+      description: Added, removed or updated mods, changed configs or installed shaders.
+      placeholder: "No changes"

@@ -1,0 +1,12 @@
+{
+  "fluid_type.kubejs.nucleon": "Nucleon",
+  "block.kubejs.nucleon": "Nucleon",
+  "item.kubejs.broken_quantum_helmet": "Capacete Quântico Quebrado",
+  "item.kubejs.broken_quantum_chestplate": "Peitoral Quântico Quebrado",
+  "item.kubejs.broken_quantum_leggings": "Calças Quânticas Quebradas",
+  "item.kubejs.broken_quantum_boots": "Botas Quânticas Quebradas",
+  "item.kubejs.broken_quantum_sword": "Espada Quântica Quebrada",
+  "item.kubejs.inscriber_quantum_press": "Prensa Quântica de Inscrição",
+  "tooltip.kubejs.inscriber_quantum_press.1": "Uma prensa movida a tecnologia quântica.",
+  "tooltip.kubejs.inscriber_quantum_press.2": "Substitui qualquer prensa de processador."
+}

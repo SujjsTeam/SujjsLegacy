@@ -1,0 +1,97 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "artefatos"
+	group: "384D7EF042DEB4D7"
+	icon: {
+		components: {
+			"relics:data": {
+				abilities: {
+					abilities: {
+						swim: {
+							lock: {
+								breaks: 5
+							}
+							points: 0
+							stats: {
+								air_loss_reduction: {
+									initialQuality: 7
+								}
+								evasion: {
+									initialQuality: 5
+								}
+								speed: {
+									initialQuality: 1
+								}
+							}
+						}
+					}
+					synergies: { }
+				}
+				leveling: { }
+				statistic: { }
+			}
+		}
+		id: "artifacts:flippers"
+	}
+	id: "7B53D4B91E37C757"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "2383EE3E43D934FA"
+			rewards: [{
+				id: "3FC6A27602DDEB98"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "286333F744E1E05E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["2383EE3E43D934FA"]
+			id: "197CBAE501E89228"
+			rewards: [{
+				id: "118D9247B9031331"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "24199D21E51E5A30"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "61B76E150801405E"
+			rewards: [{
+				id: "634D3B4267570B15"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "3B8B155D02930652"
+					item: { count: 1, id: "hostilenetworks:sim_chamber" }
+					type: "item"
+				}
+				{
+					id: "463420591C77408A"
+					item: { count: 1, id: "hostilenetworks:loot_fabricator" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.75d
+		}
+	]
+}

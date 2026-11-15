@@ -1,0 +1,336 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "evilcraft_reliquary"
+	group: "6F4F671F848333DE"
+	icon: {
+		id: "evilcraft:blood_infuser"
+	}
+	id: "6689F0B705C169DF"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "0DF60946306ACF6D"
+			rewards: [{
+				id: "024B7D92646CE296"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "177D1620488EE0B0"
+				item: { count: 1, id: "evilcraft:dark_gem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0DF60946306ACF6D"]
+			id: "2CE9E4F56C6187AE"
+			rewards: [{
+				id: "3E861CBE7F4030A4"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "146582F7A5B8C92A"
+				item: { count: 1, id: "evilcraft:blood_infuser" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0DF60946306ACF6D"]
+			id: "38CE75FBBCD358B4"
+			rewards: [{
+				id: "56180ECFE0B18731"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "025010821FB1DE53"
+				item: { count: 1, id: "evilcraft:vengeance_ring" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["38CE75FBBCD358B4"]
+			id: "7FD3AE048A209D2C"
+			rewards: [{
+				id: "380DD9F1A78B246A"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "4896138BBD5D1F42"
+				item: { count: 1, id: "evilcraft:spirit_furnace" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "5891CB3055EEFCC8"
+			rewards: [{
+				id: "2720C2D366E794DF"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "118DC5388FAADA3A"
+				item: { count: 1, id: "reliquary:alkahestry_altar" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["5891CB3055EEFCC8"]
+			id: "0C363DA8FF913182"
+			rewards: [{
+				id: "79B56D3FD3814F54"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "4067E4897FACEE03"
+				item: { count: 1, id: "reliquary:alkahestry_tome" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0DF60946306ACF6D"]
+			id: "21CDB88FA1606EE8"
+			rewards: [{
+				id: "3C8C59CCCBAF6D5F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "051B2921ACB9478A"
+				item: { count: 1, id: "evilcraft:origins_of_darkness" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0DF60946306ACF6D"]
+			id: "2FADBDE81311F47A"
+			rewards: [{
+				id: "33D94E7D9B9CF391"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					id: "4A48B3E4006224AC"
+					item: { count: 1, id: "evilcraft:blood_extractor" }
+					type: "item"
+				}
+				{
+					id: "4531FA6E80E3AC07"
+					item: { count: 1, id: "evilcraft:dark_tank" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2CE9E4F56C6187AE"]
+			id: "1E65D0D27186F6C2"
+			rewards: [{
+				id: "2C53381A71005F34"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7E22688E5CA671CE"
+				item: { count: 1, id: "evilcraft:blood_chest" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["38CE75FBBCD358B4"]
+			id: "4572A97974FB60FE"
+			rewards: [{
+				id: "711DF8F5CDA504DE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3F2EF3887E8FD6CA"
+				item: { count: 1, id: "evilcraft:box_of_eternal_closure" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2CE9E4F56C6187AE"]
+			id: "5E0CB93FAFF337E3"
+			rewards: [{
+				id: "4AF0378D05632FCE"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					id: "62DC5B8B8B7BD811"
+					item: { count: 1, id: "evilcraft:promise_tier_1" }
+					type: "item"
+				}
+				{
+					id: "67F948F5D0B22C39"
+					item: { count: 1, id: "evilcraft:promise_speed_0" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["2CE9E4F56C6187AE"]
+			id: "43EE5E61C0DA08ED"
+			rewards: [{
+				id: "4C00303DA79B07F5"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "5F4ECF2EA380B807"
+				item: { count: 1, id: "evilcraft:broom" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["5891CB3055EEFCC8"]
+			id: "7A6245600D4F9F8F"
+			rewards: [{
+				id: "5BE70FC8377FF141"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "01351B4D87134043"
+					item: { count: 1, id: "reliquary:mercy_cross" }
+					type: "item"
+				}
+				{
+					id: "73A1F2EC1BC14B8B"
+					item: { count: 1, id: "reliquary:magicbane" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5891CB3055EEFCC8"]
+			id: "7B464445DBB13CBC"
+			rewards: [{
+				id: "0564381C8EF7263E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "77C1061244D56236"
+				item: { count: 1, id: "reliquary:fortune_coin" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0C363DA8FF913182"]
+			id: "4E69BFBDD55DFD56"
+			rewards: [{
+				id: "030FA820EAE5C839"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "1C3E416C94EE11E8"
+					item: { count: 1, id: "reliquary:pyromancer_staff" }
+					type: "item"
+				}
+				{
+					id: "6A95DFFD69ECFADC"
+					item: { count: 1, id: "reliquary:ender_staff" }
+					type: "item"
+				}
+				{
+					id: "50229B3966AD188C"
+					item: { count: 1, id: "reliquary:sojourner_staff" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["0C363DA8FF913182"]
+			id: "0D6925A22309E6B5"
+			rewards: [{
+				id: "138A6EB42B34ECA3"
+				type: "xp"
+				xp: 120
+			}]
+			tasks: [
+				{
+					id: "427D71825E5467B8"
+					item: { count: 1, id: "reliquary:angelheart_vial" }
+					type: "item"
+				}
+				{
+					id: "006665D1B541C4BA"
+					item: { count: 1, id: "reliquary:phoenix_down" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 3.75d
+		}
+		{
+			dependencies: ["0C363DA8FF913182"]
+			id: "0C4E30EB0693329A"
+			rewards: [{
+				id: "564CE0E2B412E0A2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "1277BD31904F3704"
+					item: { count: 1, id: "reliquary:midas_touchstone" }
+					type: "item"
+				}
+				{
+					id: "0178822556FA4998"
+					item: { count: 1, id: "reliquary:destruction_catalyst" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 5.25d
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "__comment": "Instructions: https://blakesmods.com/docs/cucumber/tags-config",
+  "c:gems/apatite": "null",
+  "c:dusts/saltpeter": "scguns:niter_dust",
+  "c:dusts/niter": "sujjsores:niter_dust",
+  "c:gems/peridot": "silentgems:peridot",
+  "c:ingots/graphite": "bigreactors:graphite_ingot",
+  "c:rubbers": "null"
+}

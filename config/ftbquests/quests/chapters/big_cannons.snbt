@@ -1,0 +1,226 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "big_cannons"
+	group: "384D7EF042DEB4D7"
+	icon: {
+		id: "createbigcannons:cannon_mount"
+	}
+	id: "6AD9B6EA37C12CC3"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "6D0EBFD3C70D5B01"
+			rewards: [{
+				id: "3AF002CF8CB89FF7"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 8L
+				id: "176FBB7B5D38DFB5"
+				item: { count: 1, id: "createbigcannons:cast_iron_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6D0EBFD3C70D5B01"]
+			id: "5AFA4808A31C4EBD"
+			rewards: [{
+				id: "71B1A2EBB743330F"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "198A6BFA4DAC88BB"
+					item: { count: 1, id: "createbigcannons:cast_iron_cannon_barrel" }
+					type: "item"
+				}
+				{
+					id: "0C8B8F31F6B7E0D2"
+					item: { count: 1, id: "createbigcannons:cast_iron_cannon_chamber" }
+					type: "item"
+				}
+				{
+					id: "38DC7C3AC064F58A"
+					item: { count: 1, id: "createbigcannons:cast_iron_sliding_breech" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["5AFA4808A31C4EBD"]
+			id: "6285CA2497631681"
+			rewards: [{
+				id: "0A6E9D5A69836D6F"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "688793C79B1DF2E0"
+				item: { count: 1, id: "createbigcannons:cannon_mount" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["6285CA2497631681"]
+			id: "191A44BFAF231CD3"
+			rewards: [{
+				id: "6A93272774D0004E"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "28313295210850BB"
+					item: { count: 1, id: "createbigcannons:solid_shot" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0AB1C09B99C63676"
+					item: { count: 1, id: "createbigcannons:powder_charge" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["191A44BFAF231CD3"]
+			id: "6300D481B0279DEE"
+			rewards: [{
+				id: "0130E40B2190E0D9"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "26206F1059B4CECE"
+				item: { count: 1, id: "createbigcannons:he_shell" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6D0EBFD3C70D5B01"]
+			id: "239FB9DBECD6E885"
+			rewards: [{
+				id: "280C5B06FCD30539"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "1ACBA0B881FABA0F"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["6285CA2497631681"]
+			id: "69315D11765C9EB9"
+			rewards: [{
+				id: "0A4CC960317F8D3B"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "45F64A28A833A508"
+					item: { count: 1, id: "createbigcannons:cast_iron_autocannon_barrel" }
+					type: "item"
+				}
+				{
+					id: "016172BA7E12D151"
+					item: { count: 1, id: "createbigcannons:cast_iron_autocannon_breech" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0EF8FC6C7810DA64"
+					item: { count: 1, id: "createbigcannons:autocannon_cartridge" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5AFA4808A31C4EBD"]
+			id: "58C1C7F8AE1D5245"
+			rewards: [{
+				id: "3B7297CF95EC0563"
+				type: "xp"
+				xp: 120
+			}]
+			tasks: [
+				{
+					id: "31FAD15B9C01132C"
+					item: { count: 1, id: "createbigcannons:built_up_steel_cannon_barrel" }
+					type: "item"
+				}
+				{
+					id: "740E0DADFF7F1361"
+					item: { count: 1, id: "createbigcannons:built_up_steel_cannon_chamber" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["6300D481B0279DEE"]
+			id: "7453E8E1B4EFFB32"
+			rewards: [{
+				id: "0AFF1E966F9A5E5C"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "765B25BB48D43513"
+				item: { count: 1, id: "createbigcannons:proximity_fuze" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["58C1C7F8AE1D5245"]
+			id: "1EC18D43765AA9E7"
+			rewards: [{
+				id: "7260CBC1ED767354"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [
+				{
+					id: "2667434C5B2650CE"
+					item: { count: 1, id: "cbc_at:steel_rocket_pod_breech" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "45E15752187A8E28"
+					item: { count: 1, id: "cbc_at:he_rocket_item" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 1.5d
+		}
+	]
+}

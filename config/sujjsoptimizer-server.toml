@@ -1,0 +1,67 @@
+[items]
+	#Merges identical dropped items that are close to each other into a single stack.
+	itemMerge = true
+	#Distance, in blocks, used to look for identical items to merge.
+	# Default: 2.5
+	# Range: 0.5 ~ 8.0
+	itemMergeRadius = 2.5
+	#How often, in ticks, dropped items are merged. 20 ticks = 1 second.
+	# Default: 40
+	# Range: 10 ~ 1200
+	itemMergeInterval = 40
+
+[mobs]
+	#Mobs far from every player update less often. They keep existing and moving, just slower.
+	mobThrottle = true
+	#Distance, in blocks, from the nearest player after which mobs update less often.
+	# Default: 64
+	# Range: 24 ~ 256
+	mobThrottleDistance = 64
+	#Far mobs update once every this many ticks.
+	# Default: 4
+	# Range: 2 ~ 20
+	mobThrottleInterval = 4
+
+[distance]
+	#Dedicated servers only: lowers the view and simulation distance when the server is lagging, and raises them back when it recovers.
+	autoViewDistance = true
+	#Lowest view distance, in chunks, the server can go down to.
+	# Default: 6
+	# Range: 2 ~ 32
+	minViewDistance = 6
+	#Lowest simulation distance, in chunks, the server can go down to.
+	# Default: 4
+	# Range: 2 ~ 32
+	minSimulationDistance = 4
+	#Above this tick time, in milliseconds, the distance goes down. 50 ms = 20 TPS limit.
+	# Default: 45
+	# Range: 20 ~ 200
+	highMspt = 45
+	#Below this tick time, in milliseconds, the distance goes back up.
+	# Default: 30
+	# Range: 5 ~ 100
+	lowMspt = 30
+
+[machines]
+	#Machines that run less often while the server is lagging, when no player is near. Use a mod id (mekanism) or a block entity id (mekanism:digital_miner). Empty = off. Use /sujjsoptimizer lag to find the heaviest ones.
+	throttledBlockEntities = []
+	#Above this tick time, in milliseconds, the listed machines slow down. They go back to full speed 10 ms below it.
+	# Default: 45
+	# Range: 20 ~ 200
+	throttleMspt = 45
+	#Machines closer than this to a player, in blocks, always run at full speed.
+	# Default: 48
+	# Range: 16 ~ 256
+	throttleDistance = 48
+	#While the server is lagging, the listed machines far from players run once every this many ticks.
+	# Default: 2
+	# Range: 2 ~ 20
+	throttleInterval = 2
+
+[pregen]
+	#Chunks generated per tick by /sujjsoptimizer pregen. Higher is faster but causes more lag while it runs.
+	# Default: 2
+	# Range: 1 ~ 32
+	pregenChunksPerTick = 1
+	#Dedicated servers only: pauses the pre-generation while there are players online, and continues when everyone leaves.
+	pregenPauseWithPlayers = true

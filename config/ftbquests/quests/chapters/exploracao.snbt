@@ -1,0 +1,203 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exploracao"
+	group: "16B80C61274A17B4"
+	icon: {
+		id: "explorerscompass:explorerscompass"
+	}
+	id: "67255288CDCAA12B"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["70502A510BFE1370"]
+			id: "0402E976713DA2C3"
+			rewards: [{
+				id: "51480AF38E150D33"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "032133C6D007B5C8"
+				item: { count: 1, id: "explorerscompass:explorerscompass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "1A839C9D75223C9D"
+			rewards: [{
+				id: "715C16ED458A1095"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "50C64B9EB3B47C9E"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["5F35F737556FEAF4"]
+			id: "4CC64B0AC96753C6"
+			rewards: [{
+				id: "7F958134BF5360AA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "32119691B9E22F3D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "0543A947F7768C2D"
+			rewards: [{
+				id: "20717CC659AB98FF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "undergarden:undergarden"
+				id: "439846D1918C8C55"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "0744B1A2531EDCB1"
+			rewards: [{
+				id: "47FD7D0B8CFEB4C2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				id: "781129F37F51C88E"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["106F21EAFEA9744F"]
+			id: "2315139F25894CDB"
+			rewards: [{
+				id: "0F485E61A615D011"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				dimension: "deeperdarker:otherside"
+				id: "4BAA5B070B96A573"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["70502A510BFE1370"]
+			id: "4F39335042358FF4"
+			rewards: [{
+				id: "17454ACCA3323550"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				id: "737E0C02640C4FAC"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 3.75d
+		}
+		{
+			dependencies: ["5F35F737556FEAF4"]
+			id: "5393B95BC1057F8C"
+			rewards: [{
+				id: "633A4831EE433A1F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "011186DD06CFADFE"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 5.25d
+		}
+		{
+			dependencies: ["1A839C9D75223C9D"]
+			id: "12A9029BD5D017C6"
+			rewards: [{
+				id: "3DB5CB9BA35EA70A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "33E1CE89941B4F76"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0402E976713DA2C3"]
+			id: "5C7EFEB5BB4ED602"
+			rewards: [{
+				id: "3D7AB634A7EB221E"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "285718CBC90CD339"
+				item: { count: 1, id: "ae2:meteorite_compass" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["0744B1A2531EDCB1"]
+			id: "54B5420B5D29FEFA"
+			rewards: [{
+				id: "7A6D1A03666615D9"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "56148F6EA7993F19"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["0543A947F7768C2D"]
+			id: "1DA0A6DCB2221898"
+			rewards: [{
+				id: "0C8032B8F4680282"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2DA6EA25726B8C06"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+	]
+}

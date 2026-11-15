@@ -1,0 +1,424 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_addons"
+	group: "4BB353770616CAEC"
+	icon: {
+		id: "createaddition:electric_motor"
+	}
+	id: "70C74F4B67F260CB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "0BD66A821CAF1F2F"
+			rewards: [{
+				id: "1CD2853E4939036F"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "5D274EC1FD147495"
+				item: { count: 1, id: "createaddition:electric_motor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "0A87F5A3B1EF2DE4"
+			rewards: [{
+				id: "16A9E4BAABBEE6F8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "351D2659065AD6E1"
+				item: { count: 1, id: "createaddition:alternator" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5A21EA2D3B15AC61"]
+			id: "5ED50008955104C9"
+			rewards: [{
+				id: "3AD08CD4E6723AFE"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "0A94B46D74310A9B"
+				item: { count: 1, id: "createaddition:rolling_mill" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["0A87F5A3B1EF2DE4"]
+			id: "2C6EF93BA96B9D46"
+			rewards: [{
+				id: "6B49D1A2460CE60F"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "77580EA00CC548DF"
+				item: { count: 1, id: "createaddition:tesla_coil" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7549A2B35AD6826D"]
+			id: "20A6D650303DE59B"
+			rewards: [{
+				id: "5DEBBD798F4583BB"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "3AB245F04C97B013"
+				item: { count: 1, id: "createdieselgenerators:diesel_engine" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["20A6D650303DE59B"]
+			id: "589DCEF61FB692A8"
+			rewards: [{
+				id: "06C12C1A63777D16"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "5D9352AA359BCD8E"
+				item: { count: 1, id: "createdieselgenerators:oil_scanner" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["589DCEF61FB692A8"]
+			id: "4BD431470C01530E"
+			rewards: [{
+				id: "00A56568A1C384A7"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "181DB795E3479D78"
+				item: { count: 1, id: "createdieselgenerators:distillation_controller" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "524DB2F5BEDD40E5"
+			rewards: [{
+				id: "2C396838CF40CB9E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "62CC72F2C06AE9F7"
+				item: { count: 1, id: "tfmg:coke_oven" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["524DB2F5BEDD40E5"]
+			id: "32D2E9D5C74FD448"
+			rewards: [{
+				id: "2F2B9796413535B0"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "201EEF527496B13F"
+				item: { count: 1, id: "tfmg:plastic_sheet" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["32D2E9D5C74FD448"]
+			id: "45C4773275B80FAF"
+			rewards: [{
+				id: "2A864109C7C5689E"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "2EE46B59EFB208DE"
+				item: { count: 1, id: "tfmg:engine_controller" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "541E9BB7062A206B"
+			rewards: [{
+				id: "11B9431DA53EFF23"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "5EF28469E453BBAE"
+					item: { count: 1, id: "create_enchantment_industry:mechanical_grindstone" }
+					type: "item"
+				}
+				{
+					id: "5D91DED35266E295"
+					item: { count: 1, id: "create_enchantment_industry:experience_bucket" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["541E9BB7062A206B"]
+			id: "2F3F6CD2D8C43301"
+			rewards: [{
+				id: "4DBD48AC3D19B826"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "2E40847D275278BE"
+				item: { count: 1, id: "create_enchantment_industry:blaze_enchanter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["541E9BB7062A206B"]
+			id: "652A54175F5B8307"
+			rewards: [{
+				id: "4357EFC66387FAD9"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "689856588AD0D2B7"
+				item: { count: 1, id: "create_enchantment_industry:printer" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "55C8CA7DCFB92FF2"
+			rewards: [{
+				id: "620AA7DFC5FF969D"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					id: "6AEDBDE4BC68BD97"
+					item: { count: 1, id: "create_connected:parallel_gearbox" }
+					type: "item"
+				}
+				{
+					id: "08398A3F01D7F4FA"
+					item: { count: 1, id: "create_connected:brake" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["55C8CA7DCFB92FF2"]
+			id: "4CD6F2E65164C512"
+			rewards: [{
+				id: "09F6E1CCA6F48E5C"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "236E34FB4956EC22"
+				item: { count: 1, id: "create_connected:empty_fan_catalyst" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["55C8CA7DCFB92FF2"]
+			id: "6CE9942CEB9D5D0A"
+			rewards: [{
+				id: "7DC19FA2463604A5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "61DD263452BF112B"
+				item: { count: 1, id: "create_connected:kinetic_battery" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7CEBC36E75A0EFDE"]
+			id: "66154E462C993C55"
+			rewards: [{
+				id: "165B9A980CAF56E1"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "29F54F293D545FA6"
+					item: { count: 1, id: "createendertransmission:item_transmitter" }
+					type: "item"
+				}
+				{
+					id: "5804EA8EFA94CF2B"
+					item: { count: 1, id: "createendertransmission:energy_transmitter" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2A777FA1C61C01F1"]
+			id: "7CC5626BE88C6008"
+			rewards: [{
+				id: "7A56C63BDAAE9636"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "1799DE61443C81E8"
+					item: { count: 1, id: "numismatics:vendor" }
+					type: "item"
+				}
+				{
+					id: "1FC2EF793BF186F4"
+					item: { count: 1, id: "numismatics:bank_terminal" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7CEBC36E75A0EFDE"]
+			id: "2202CED9BB1CE606"
+			rewards: [{
+				id: "246900032C4EC690"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [
+				{
+					id: "680BB3AAE8606BDB"
+					item: { count: 1, id: "create_radar:radar_bearing" }
+					type: "item"
+				}
+				{
+					id: "629D50C34984EE75"
+					item: { count: 1, id: "create_radar:monitor" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5A21EA2D3B15AC61"]
+			id: "6F3E2CCC5BC9D8EC"
+			rewards: [{
+				id: "7C535AAABA400B89"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				count: 8L
+				id: "6C574B6EA2502138"
+				item: { count: 1, id: "copycats:copycat_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["524DB2F5BEDD40E5"]
+			id: "2A7810A329BA7157"
+			rewards: [{
+				id: "3B64AE76046CEDFB"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					count: 20L
+					id: "11596EDA13FFD5C1"
+					item: { count: 1, id: "tfmg:fireproof_bricks" }
+					type: "item"
+				}
+				{
+					id: "406FE322B251C215"
+					item: { count: 1, id: "tfmg:blast_furnace_output" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["524DB2F5BEDD40E5"]
+			id: "7EAFF09EA1A6FBA6"
+			rewards: [{
+				id: "2D739427ECF7F3B2"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [
+				{
+					id: "70985438ED35999D"
+					item: { count: 1, id: "tfmg:pumpjack_base" }
+					type: "item"
+				}
+				{
+					id: "051E3515D88EDD4C"
+					item: { count: 1, id: "tfmg:pumpjack_crank" }
+					type: "item"
+				}
+				{
+					id: "5CEE34AB9B88DAE2"
+					item: { count: 1, id: "tfmg:pumpjack_hammer" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
+}

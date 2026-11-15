@@ -1,0 +1,169 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "forbidden_arcanus"
+	group: "6F4F671F848333DE"
+	icon: {
+		id: "forbidden_arcanus:hephaestus_forge_tier_1"
+	}
+	id: "2D94C09947B4F51C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "29285B6F7B55F1E8"
+			rewards: [{
+				id: "16187D15FB857F4D"
+				type: "xp"
+				xp: 30
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 4L
+				id: "210ADF5E28CF21C4"
+				item: { count: 1, id: "forbidden_arcanus:arcane_crystal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["29285B6F7B55F1E8"]
+			id: "01A1652A426F00C7"
+			rewards: [{
+				id: "47DA60B96C072426"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "1A1BA75DCBB46096"
+				item: { count: 1, id: "forbidden_arcanus:hephaestus_forge_tier_1" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["29285B6F7B55F1E8"]
+			id: "580D613CB803A867"
+			rewards: [{
+				id: "7B840FAA3C22DDE0"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "45F331F8C825DBB8"
+				item: { count: 1, id: "forbidden_arcanus:mundabitur_dust" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["01A1652A426F00C7"]
+			id: "6936B0EC241F71E6"
+			rewards: [{
+				id: "6DAF7B976D622787"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3B35378CFA980F7C"
+				item: { count: 1, id: "forbidden_arcanus:eternal_stella" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["29285B6F7B55F1E8"]
+			id: "6E64095B9DE4F516"
+			rewards: [{
+				id: "376857F97B7DF2CA"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				count: 4L
+				id: "3D7D79BE8F52F870"
+				item: { count: 1, id: "forbidden_arcanus:deorum_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["29285B6F7B55F1E8"]
+			id: "37C779F47B47D72F"
+			rewards: [{
+				id: "3A15BBE67C8771BE"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "1AF84CE410FEB296"
+				item: { count: 1, id: "forbidden_arcanus:corrupt_soul" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["01A1652A426F00C7"]
+			id: "1B75C839A8FB5AEC"
+			rewards: [{
+				id: "49D4D3D08A470D0E"
+				type: "xp"
+				xp: 80
+			}]
+			tasks: [{
+				id: "3C5143B39CB62A5F"
+				item: { count: 1, id: "forbidden_arcanus:dark_matter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["6936B0EC241F71E6"]
+			id: "720ECD4ED85B8FA2"
+			rewards: [{
+				id: "685727532512319D"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "07892CC31C3C8B7C"
+					item: { count: 1, id: "forbidden_arcanus:draco_arcanus_sword" }
+					type: "item"
+				}
+				{
+					id: "2DE91D6F4E6E85C4"
+					item: { count: 1, id: "forbidden_arcanus:draco_arcanus_chestplate" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["29285B6F7B55F1E8"]
+			id: "141A81DC794BBF33"
+			rewards: [{
+				id: "36FB109B5EE24974"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "186AD0903A78F64F"
+				item: { count: 1, id: "forbidden_arcanus:blue_quantum_catcher" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+}

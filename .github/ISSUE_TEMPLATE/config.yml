@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Known Mod Issues
+    url: https://github.com/SujjsTeam/SujjsLegacy/blob/main/MOD_ISSUES.md
+    about: Check this list before opening an issue.

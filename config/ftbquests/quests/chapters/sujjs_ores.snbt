@@ -1,0 +1,351 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sujjs_ores"
+	group: "16B80C61274A17B4"
+	icon: {
+		id: "sujjsores:iridium_ingot"
+	}
+	id: "010EBF79BE634741"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "3604D56701EBBA80"
+			rewards: [{
+				id: "7FDE2FA11058CF2D"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "5E82552D25AE4C51"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "07B1B05DE7580842"
+			rewards: [{
+				id: "63E7E6C240E39D07"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4212C5F56CC43B4E"
+				item: { count: 1, id: "sujjsores:tin_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.75d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "281F17BABD3AF091"
+			rewards: [{
+				id: "7D08B5A876AC8B98"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "251438463CC09259"
+				item: { count: 1, id: "sujjsores:lead_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.25d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "404317C0236FBECE"
+			rewards: [{
+				id: "3305CD17A74808E2"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "077CAA69DA6A54A8"
+				item: { count: 1, id: "sujjsores:silver_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["07B1B05DE7580842"]
+			id: "580DD70F8B4B8CAB"
+			rewards: [{
+				id: "1BDAB955F59C24C7"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "41CA31DE76BF2EB2"
+				item: { count: 1, id: "sujjsores:bronze_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["07B1B05DE7580842"]
+			id: "72FA60C1AD3575B9"
+			rewards: [{
+				id: "0A3ACCB8C030AEF8"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4D17B6F30A74EDD0"
+				item: { count: 1, id: "sujjsores:tin_plate" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["281F17BABD3AF091"]
+			id: "45BD6EBD7462D40E"
+			rewards: [{
+				id: "6FE01E95C25C0D0E"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "7384C92630F588D3"
+				item: { count: 1, id: "sujjsores:uranium_ingot" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["45BD6EBD7462D40E"]
+			id: "095AC88BF59AA602"
+			rewards: [{
+				id: "58C84A654E41009C"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "490D6DB351952515"
+				item: { count: 1, id: "sujjsores:iridium_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "2E1BE29518D31A8D"
+			rewards: [{
+				id: "168C322DABD0AEAB"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "6651B90C48050B80"
+				item: { count: 1, id: "sujjsores:steel_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "148607339618480B"
+			rewards: [{
+				id: "6A008ECF5CAAF390"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4EE79C160370F7FA"
+				item: { count: 1, id: "sujjsores:nickel_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "41A92C255D14C42E"
+			rewards: [{
+				id: "0294B54C6A426203"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "677706529B01D6C0"
+				item: { count: 1, id: "sujjsores:aluminum_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "171F80AB064BEF9F"
+			rewards: [{
+				id: "745B4873FAEADB62"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "492BD2A66E0DA8FF"
+				item: { count: 1, id: "sujjsores:zinc_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "62DF1079D8496F42"
+			rewards: [{
+				id: "4E565E2FACAAE39D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2271936B0292047D"
+				item: { count: 1, id: "sujjsores:osmium_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.75d
+		}
+		{
+			dependencies: ["45BD6EBD7462D40E"]
+			id: "7B20DCBF78961261"
+			rewards: [{
+				id: "75290FB642AC20AB"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "0A3A0FF3AF6F1267"
+				item: { count: 1, id: "sujjsores:platinum_ingot" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "73D08B23F8A56647"
+			rewards: [{
+				id: "3D5FC482BBFB7CB1"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "1E197A6354CF7AE6"
+					item: { count: 1, id: "sujjsores:ruby" }
+					type: "item"
+				}
+				{
+					id: "507E8CAD6A14ED38"
+					item: { count: 1, id: "sujjsores:sapphire" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 5.25d
+		}
+		{
+			dependencies: ["3604D56701EBBA80"]
+			id: "4392FD9CE67CC3F4"
+			rewards: [{
+				id: "569289532A85D5F6"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "73E99083E908356C"
+					item: { count: 1, id: "sujjsores:sulfur" }
+					type: "item"
+				}
+				{
+					id: "6A8D75FAD3C568C3"
+					item: { count: 1, id: "sujjsores:niter" }
+					type: "item"
+				}
+				{
+					id: "6920CDC4167A87E9"
+					item: { count: 1, id: "sujjsores:salt" }
+					type: "item"
+				}
+				{
+					id: "211854151655298F"
+					item: { count: 1, id: "sujjsores:fluorite" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 6.75d
+		}
+		{
+			dependencies: ["580DD70F8B4B8CAB"]
+			id: "56D8B78345BD7C2A"
+			rewards: [{
+				id: "64D4214ED0D68886"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "056990673C6AAC47"
+					item: { count: 1, id: "sujjsores:electrum_ingot" }
+					type: "item"
+				}
+				{
+					id: "061E7B3E26351D1A"
+					item: { count: 1, id: "sujjsores:invar_ingot" }
+					type: "item"
+				}
+				{
+					id: "37C3872443B23C5C"
+					item: { count: 1, id: "sujjsores:constantan_ingot" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["56D8B78345BD7C2A"]
+			id: "4048B0483764C65A"
+			rewards: [{
+				id: "42B1331A7D6DE25E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "0DCA26B2AEA42CBD"
+					item: { count: 1, id: "sujjsores:signalum_ingot" }
+					type: "item"
+				}
+				{
+					id: "2B674551795E78B5"
+					item: { count: 1, id: "sujjsores:lumium_ingot" }
+					type: "item"
+				}
+				{
+					id: "4939878BD615FA1A"
+					item: { count: 1, id: "sujjsores:enderium_ingot" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: 0.0d
+		}
+	]
+}

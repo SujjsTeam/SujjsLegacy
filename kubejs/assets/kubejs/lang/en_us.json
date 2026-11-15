@@ -1,0 +1,12 @@
+{
+  "fluid_type.kubejs.nucleon": "Nucleon",
+  "block.kubejs.nucleon": "Nucleon",
+  "item.kubejs.broken_quantum_helmet": "Broken Quantum Helmet",
+  "item.kubejs.broken_quantum_chestplate": "Broken Quantum Chestplate",
+  "item.kubejs.broken_quantum_leggings": "Broken Quantum Leggings",
+  "item.kubejs.broken_quantum_boots": "Broken Quantum Boots",
+  "item.kubejs.broken_quantum_sword": "Broken Quantum Sword",
+  "item.kubejs.inscriber_quantum_press": "Inscriber Quantum Press",
+  "tooltip.kubejs.inscriber_quantum_press.1": "A press powered by quantum technology.",
+  "tooltip.kubejs.inscriber_quantum_press.2": "Capable of replacing any processor press."
+}

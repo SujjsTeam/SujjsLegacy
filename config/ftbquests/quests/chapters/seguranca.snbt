@@ -1,0 +1,198 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "seguranca"
+	group: "4BB353770616CAEC"
+	icon: {
+		id: "securitycraft:keypad"
+	}
+	id: "6CC53F68BC735B05"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "6C88D1C96851BE47"
+			rewards: [{
+				id: "0E2CE25E438E80CC"
+				type: "xp"
+				xp: 15
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "3603315A8887FDCD"
+				item: { count: 1, id: "securitycraft:sc_manual" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C88D1C96851BE47"]
+			id: "59AE02A80E9E9788"
+			rewards: [{
+				id: "52C8FBFFC23D6432"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "75AD93CE5604AF74"
+				item: { count: 1, id: "securitycraft:universal_block_reinforcer_lvl1" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6C88D1C96851BE47"]
+			id: "0F45F282C922FE42"
+			rewards: [{
+				id: "3C9B41E231767736"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "1C6FF829EDBCA20D"
+				item: { count: 1, id: "securitycraft:keypad" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0F45F282C922FE42"]
+			id: "0B8FDDD02A8DD2DB"
+			rewards: [{
+				id: "73EDDA761C1E634F"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "776FB62129EB3C6E"
+				item: { count: 1, id: "securitycraft:keypad_chest" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.25d
+		}
+		{
+			dependencies: ["0F45F282C922FE42"]
+			id: "3430BF3C51AC0A20"
+			rewards: [{
+				id: "0FA8BB223D82CAC8"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "337264A895775A6D"
+				item: { count: 1, id: "securitycraft:keycard_reader" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["0F45F282C922FE42"]
+			id: "642F4CBA0F741823"
+			rewards: [{
+				id: "3353D374EEF66829"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "5554A946C75795AB"
+				item: { count: 1, id: "securitycraft:retinal_scanner" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+		{
+			dependencies: ["6C88D1C96851BE47"]
+			id: "44DCFB921255FCDF"
+			rewards: [{
+				id: "0678FDF6AF8355FA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "11EC69539846AFDD"
+					item: { count: 1, id: "securitycraft:security_camera" }
+					type: "item"
+				}
+				{
+					id: "6B853039B4CE03CA"
+					item: { count: 1, id: "securitycraft:camera_monitor" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6C88D1C96851BE47"]
+			id: "61F077AFE3E3F988"
+			rewards: [{
+				id: "318DBCD5DF71C7A5"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "1D670F8C431B9449"
+					item: { count: 1, id: "securitycraft:laser_block" }
+					type: "item"
+				}
+				{
+					id: "32AA7BC8ABD1BCBE"
+					item: { count: 1, id: "securitycraft:alarm" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["44DCFB921255FCDF"]
+			id: "09CF696E58DD582A"
+			rewards: [{
+				id: "57E57199124068AB"
+				type: "xp"
+				xp: 60
+			}]
+			tasks: [{
+				id: "2C7AD4448C1D8F14"
+				item: { count: 1, id: "securitycraft:sentry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6C88D1C96851BE47"]
+			id: "022EC127C19E89AD"
+			rewards: [{
+				id: "00DEFEC4660674FC"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [
+				{
+					id: "45D4428A4B617F81"
+					item: { count: 1, id: "securitycraft:mine" }
+					type: "item"
+				}
+				{
+					id: "7A36F122EC7ED9D0"
+					item: { count: 1, id: "securitycraft:claymore" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+}

@@ -1,0 +1,107 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "decoracao"
+	group: "16B80C61274A17B4"
+	icon: {
+		id: "chisel:chisel"
+	}
+	id: "7160042F24C7C461"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "27D686B18B0979F6"
+			rewards: [{
+				id: "50C62D18E473EB9B"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "5D39447F0CF54126"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27D686B18B0979F6"]
+			id: "1D6B0830E6035EFB"
+			rewards: [{
+				id: "524988333698EE51"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7A1B2DC94E8B5166"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["27D686B18B0979F6"]
+			id: "65E288497646BCFB"
+			rewards: [{
+				id: "7ED980981D45343A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2910318F245FE9DE"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["27D686B18B0979F6"]
+			id: "293B255009F15194"
+			rewards: [{
+				id: "721187803595D806"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "09219D49BCBD6F2B"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27D686B18B0979F6"]
+			id: "7CCDA53AF3A997DC"
+			rewards: [{
+				id: "2A63C06371239515"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "1453CCEC8AFAB15C"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["27D686B18B0979F6"]
+			id: "6A80116C2FB600B6"
+			rewards: [{
+				id: "38B3F6A344A05DB7"
+				type: "xp"
+				xp: 15
+			}]
+			tasks: [{
+				id: "54CD277F1817D9A8"
+				item: { count: 1, id: "measurements:tape_measure" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+	]
+}

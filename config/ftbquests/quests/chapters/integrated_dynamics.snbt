@@ -1,0 +1,90 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "integrated_dynamics"
+	group: "1C3F63935DBC9AF9"
+	icon: {
+		id: "integrateddynamics:logic_programmer"
+	}
+	id: "58451D4FAC32690E"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["5DE012FDD82B061B"]
+			id: "525AEDA352361E59"
+			rewards: [{
+				id: "5DD20CC9E33798E6"
+				type: "xp"
+				xp: 20
+			}]
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 8L
+				id: "1FAE439BE8734412"
+				item: { count: 1, id: "integrateddynamics:crystalized_menril_chunk" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["525AEDA352361E59"]
+			id: "53DA5EAC7340DCEC"
+			rewards: [{
+				id: "60C2ACD14BB67C1F"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "20965077E63EF46E"
+					item: { count: 1, id: "integrateddynamics:cable" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "4AC6C70B68D6846D"
+					item: { count: 1, id: "integrateddynamics:variable" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["53DA5EAC7340DCEC"]
+			id: "694395503CA95A00"
+			rewards: [{
+				id: "0A787BA402DAC249"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "153052869FC55A83"
+				item: { count: 1, id: "integrateddynamics:logic_programmer" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.75d
+		}
+		{
+			dependencies: ["53DA5EAC7340DCEC"]
+			id: "38FE715E0B2A7C56"
+			rewards: [{
+				id: "0836A8C445BC8036"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "0C1F89483D7E8178"
+				item: { count: 1, id: "integratedtunnels:part_interface_item" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.75d
+		}
+	]
+}
