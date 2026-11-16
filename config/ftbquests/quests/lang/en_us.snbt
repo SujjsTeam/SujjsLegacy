@@ -834,8 +834,6 @@
 	quest.3A205942F00A954F.title: "Energizing Orb"
 	quest.3A3BD54969210131.quest_desc: ["Catch bees and carry them. Release them near a hive."]
 	quest.3A3BD54969210131.title: "Bee Cage"
-	quest.3B4F92A13DD5D7FB.quest_desc: ["Propulsed rocket engines give your vehicles the most thrust of all."]
-	quest.3B4F92A13DD5D7FB.title: "Rocket Engines"
 	quest.3B72BB4EEEF3B76F.quest_desc: ["Each cable tier (LV, MV, HV, EV) only connects to machines of its tier. Use transformers between tiers."]
 	quest.3B72BB4EEEF3B76F.title: "Cables and Storage"
 	quest.3B885710E4B0C79B.quest_desc: ["A multiblock that makes ores from nothing using drills as tools."]

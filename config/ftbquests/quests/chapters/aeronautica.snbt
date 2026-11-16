@@ -318,36 +318,5 @@
 			x: 18.0d
 			y: 2.0d
 		}
-		{
-			dependencies: [
-				"01F21A5853D8DD72"
-				"7DBCC2A0AEAEDAC3"
-			]
-			icon: {
-				id: "propulsed:large_rocket_engine"
-			}
-			id: "3B4F92A13DD5D7FB"
-			rewards: [{
-				id: "2A27E2AF4CEF45BB"
-				type: "xp"
-				xp: 800
-			}]
-			shape: "diamond"
-			size: 1.5d
-			tasks: [
-				{
-					id: "2276C0AD8E22EA89"
-					item: { count: 1, id: "propulsed:rocket_engine" }
-					type: "item"
-				}
-				{
-					id: "33666C34A72A48BD"
-					item: { count: 1, id: "propulsed:large_rocket_engine" }
-					type: "item"
-				}
-			]
-			x: 21.0d
-			y: 0.0d
-		}
 	]
 }
